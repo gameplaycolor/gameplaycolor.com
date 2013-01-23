@@ -67,12 +67,12 @@
 
     <div class="row-fluid marketing">
 
-      <div class="span6">
+      <div class="span6 center">
         <img class="screenshot" src="/images/tetris_small_2.png" />
         <img class="screenshot" src="/images/tetris_small_2.png" />
       </div>
 
-      <div class="span6">
+      <div class="span6 center">
         <img class="screenshot" src="/images/tetris_small_2.png" />
         <img class="screenshot" src="/images/tetris_small_2.png" />
       </div>
