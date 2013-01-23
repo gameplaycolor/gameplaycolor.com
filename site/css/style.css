@@ -71,12 +71,21 @@ body {
   background: url('../images/linen.jpg');
 }
 
+.sketchpad {
+  background: url('../images/sketchpad.jpg') center;
+}
+
 .tetris {
   background: url('../images/tetris_background.png'); 
 }
 
 .tagline {
   color: #bbb;
+}
+
+.dark {
+  color: #ddd;
+  text-shadow: 0 1px #444;
 }
 
 .footer {
