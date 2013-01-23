@@ -16,36 +16,44 @@
 
 <div class="container-narrow gameplay">
 
-  <div class="row-fluid marketing">
+  <div class="row-fluid features">
     <div class="span6">
 
-      <a href="#" class="thumbnail">
+<!--       <a href="#" class="thumbnail">
         <img src="/images/controls.png" alt="">
-      </a>
-      <h4>Google Drive</h4>
-      <p class="features">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
-      
-      <a href="#" class="thumbnail">
-        <img src="/images/controls.png" alt="">
-      </a>
-      <h4>Offline Support</h4>
-      <p class="features">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
+      </a> -->
+      <div class="feature">
+        <h4>Offline Support</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
+      </div>
 
+<!--       <a href="#" class="thumbnail">
+        <img src="/images/google_drive.png" alt="">
+      </a> -->
+      <div class="feature">
+        <h4>Google Drive</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
+      </div>
+      
     </div>
 
     <div class="span6">
     
-      <a href="#" class="thumbnail">
+<!--       <a href="#" class="thumbnail">
         <img src="/images/cover_art.png" alt="">
-      </a>
-      <h4>Beautiful Cover Art</h4>
-      <p class="features">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
+      </a> -->
+      <div class="feature">
+        <h4>Beautiful Cover Art</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
+      </div>
       
-      <a href="#" class="thumbnail">
+<!--       <a href="#" class="thumbnail">
         <img src="/images/opensource.png" alt="">
-      </a>
-      <h4>Open Source</h4>
-      <p class="features">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
+      </a> -->
+      <div class="feature">
+        <h4>Open Source</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
+      </div>
 
     </div>
   </div>
@@ -57,54 +65,20 @@
   <div class="shadow bottom"></div>
   <div class="container-narrow">
 
-  <div class="row-fluid marketing">
+    <div class="row-fluid marketing">
 
-    <div class="span4">
-      <div class="screenshot">
-        <img src="/images/tetris_small.png" />
-        <!-- Tetris -->
+      <div class="span6">
+        <img class="screenshot" src="/images/tetris_small_2.png" />
+        <img class="screenshot" src="/images/tetris_small_2.png" />
       </div>
-    </div>
 
-    <div class="span4">
-      <div class="screenshot">
-        <img src="/images/games_small.png" />
+      <div class="span6">
+        <img class="screenshot" src="/images/tetris_small_2.png" />
+        <img class="screenshot" src="/images/tetris_small_2.png" />
       </div>
+
     </div>
-
-    <div class="span4">
-      <div class="screenshot">
-        <img src="/images/games_small.png" />
-        <!-- Screenshot -->
-      </div>
-    </div>
-
-  </div>
-
     
-<!--     <ul class="thumbnails marketing">
-      <li class="span2">
-        <a href="#" class="thumbnail">
-          <img src="/images/tetris_small.png" alt="">
-        </a>
-      </li>
-      <li class="span2">
-        <a href="#" class="thumbnail">
-          <img src="/images/games_small.png" alt="">
-        </a>
-      </li>
-      <li class="span2">
-        <a href="#" class="thumbnail">
-          <img src="/images/games_small.png" alt="">
-        </a>
-      </li>
-      <li class="span2">
-        <a href="#" class="thumbnail">
-          <img src="/images/games_small.png" alt="">
-        </a>
-      </li>
-    </ul> -->
-  
   </div>
 </div>
 

@@ -34,6 +34,11 @@ body {
   margin-top: 28px;
 }
 
+.features {
+  margin: 80px 0;
+  margin-bottom: 20px;
+}
+
 .full-width {
   background: url('../images/background.png');
   width: 100%;
@@ -79,7 +84,11 @@ body {
   font-size: 0.9em;
 }
 
-.features {
+.feature {
+  margin-bottom: 60px;
+}
+
+.feature p {
   line-height: 1.8em;
   font-size: 1.14em;
 }
@@ -97,7 +106,7 @@ body {
   color: #000;
   opacity: 0.9;
   text-shadow: 0 1px #444;
-
+ 
 }
 
 .gameplay h4 {
@@ -118,11 +127,6 @@ body {
   font-size: 1.4em;
 }
 
-.screenshot img {
-  width: 200px;
-  height: 200px;
-  border: 1px solid black;
-  border-radius: 5px;
-  margin: 10px;
+.screenshot {
 }
 
