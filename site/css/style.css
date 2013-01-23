@@ -1,0 +1,128 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px;
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  margin: 60px 0;
+  text-align: center;
+}
+.jumbotron h1 {
+  font-size: 72px;
+  line-height: 1;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 60px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+.full-width {
+  background: url('../images/background.png');
+  width: 100%;
+  padding: 20px 0;
+  position: relative;
+}
+
+.shadow {
+  height: 40px;
+  background-color: red;
+  opacity: 0.4;
+  width: 100%;
+}
+
+.top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: url('../images/shadow_top.png');
+}
+
+.bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: url('../images/shadow_bottom.png');
+}
+
+.linen {
+  background: url('../images/linen.jpg');
+}
+
+.tetris {
+  background: url('../images/tetris_background.png');
+}
+
+.tagline {
+  color: #bbb;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.features {
+  line-height: 1.8em;
+  font-size: 1.14em;
+}
+
+.icon {
+  width: 200px;
+  height: 200px;
+}
+
+.icons {
+  text-align: center;
+}
+
+.logo {
+  color: #000;
+  opacity: 0.9;
+  text-shadow: 0 1px #444;
+
+}
+
+.gameplay h4 {
+  color: #75144D;
+}
+
+.thumbnails {
+  text-align: center;
+  width: 800px;
+  margin-left: -200px;
+}
+
+.screenshot {
+  text-align: center;
+  font-weight: bold;
+  color: #000;
+  text-shadow: 0 1px #fff;
+  font-size: 1.4em;
+}
+
+.screenshot img {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px;
+}
+
