@@ -1,5 +1,11 @@
-<?php include 'header.php'; ?>
-<?php include 'navigation.php'; ?>
+<?php
+  include 'header.php';
+  include 'navigation.php';
+
+  head();
+  navigation();
+
+?>
 
 <div class="full-width sketchpad">
   <div class="shadow top"></div>
