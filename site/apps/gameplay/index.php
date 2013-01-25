@@ -25,39 +25,27 @@
   <div class="row-fluid features">
     <div class="span6">
 
-<!--       <a href="#" class="thumbnail">
-        <img src="/images/controls.png" alt="">
-      </a> -->
       <div class="feature">
-        <h4>Offline Support</h4>
+        <h4><i class="icon-eye-open"></i> Beautiful Cover Art</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
       </div>
 
-<!--       <a href="#" class="thumbnail">
-        <img src="/images/google_drive.png" alt="">
-      </a> -->
       <div class="feature">
-        <h4>Google Drive</h4>
+        <h4><i class="icon-remove"></i> Offline Support</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
       </div>
       
     </div>
 
     <div class="span6">
-    
-<!--       <a href="#" class="thumbnail">
-        <img src="/images/cover_art.png" alt="">
-      </a> -->
+
       <div class="feature">
-        <h4>Beautiful Cover Art</h4>
+        <h4><i class="icon-hdd"></i> Google Drive</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
       </div>
       
-<!--       <a href="#" class="thumbnail">
-        <img src="/images/opensource.png" alt="">
-      </a> -->
       <div class="feature">
-        <h4>Open Source</h4>
+        <h4><i class="icon-github"></i> Open Source</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
       </div>
 
@@ -67,13 +55,13 @@
 </div>
 
 <div class="full-width tetris">
-  <div class="shadow top"></div>
-  <div class="shadow bottom"></div>
+  <!-- <div class="shadow top"></div>
+  <div class="shadow bottom"></div> -->
   <div class="container-narrow">
 
     <div class="row-fluid marketing">
 
-      <div class="span6 center">
+<!--       <div class="span6 center">
         <img class="screenshot" src="/images/tetris_small_2.png" />
         <img class="screenshot" src="/images/tetris_small_2.png" />
       </div>
@@ -82,7 +70,7 @@
         <img class="screenshot" src="/images/tetris_small_2.png" />
         <img class="screenshot" src="/images/tetris_small_2.png" />
       </div>
-
+ -->
     </div>
     
   </div>

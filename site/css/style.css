@@ -76,16 +76,17 @@ body {
 }
 
 .tetris {
-  background: url('../images/tetris_background.png'); 
+  background: url('../images/tetris_background.png');
 }
 
 .tagline {
   color: #bbb;
+  text-shadow: 0 2px #222;
 }
 
-.dark {
-  color: #eee;
-  text-shadow: 0 1px #444;
+.bright {
+  color: #f4f4f4;
+  text-shadow: 0 2px #222;
 }
 
 .footer {
@@ -125,22 +126,11 @@ body {
  
 }
 
-.gameplay h4 {
-  color: #75144D;
-}
-
-.thumbnails {
-  text-align: center;
-  width: 800px;
-  margin-left: -200px;
-}
-
 .screenshot {
-  text-align: center;
-  font-weight: bold;
-  color: #000;
-  text-shadow: 0 1px #fff;
-  font-size: 1.4em;
+  margin: 20px 0;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 300px;
 }
 
 .center {
