@@ -20,7 +20,7 @@
       <div class="control-group">
         <div class="controls">
           <div class="input-prepend">
-            <span class="add-on"><i class="icon-envelope"></i></span>
+            <span class="add-on"><i class="icon-envelope-alt"></i></span>
             <input class="span8" id="inputIcon" type="text">
           </div>
         </div>
