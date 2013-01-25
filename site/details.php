@@ -11,7 +11,6 @@
         Cumbria<br />
         CA10 1NN
       </p>
-      <p><a href="mailto:contact@inseven.co.uk">contact@inseven.co.uk</a></p>
     </div>
 
     <div class="span4">
