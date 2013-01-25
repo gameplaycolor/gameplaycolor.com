@@ -30,7 +30,7 @@
       <h4>Support</h4>
       <p>Feel free to contact support if you have any problems or questions.</p>
       <p><a href="mailto:support@inseven.co.uk"><i class="icon-envelope-alt"></i> support@inseven.co.uk</a></p>
-      <p><a href=""><i class="icon-twitter"></i> insevenlimited </a></p>
+      <p><a href="https://twitter.com/insevenlimited"><i class="icon-twitter"></i> insevenlimited </a></p>
     </div>
   </div>
 
