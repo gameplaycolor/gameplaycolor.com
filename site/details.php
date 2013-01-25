@@ -21,7 +21,7 @@
         <div class="controls">
           <div class="input-prepend">
             <span class="add-on"><i class="icon-envelope-alt"></i></span>
-            <input class="span8" id="inputIcon" type="text">
+            <input class="span9" id="inputIcon" type="text">
           </div>
         </div>
       </div>
