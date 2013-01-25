@@ -55,26 +55,21 @@
 </div>
 
 <div class="full-width tetris">
-  <!-- <div class="shadow top"></div>
-  <div class="shadow bottom"></div> -->
   <div class="container-narrow">
-
     <div class="row-fluid marketing">
-
-<!--       <div class="span6 center">
-        <img class="screenshot" src="/images/tetris_small_2.png" />
-        <img class="screenshot" src="/images/tetris_small_2.png" />
-      </div>
-
-      <div class="span6 center">
-        <img class="screenshot" src="/images/tetris_small_2.png" />
-        <img class="screenshot" src="/images/tetris_small_2.png" />
-      </div>
- -->
     </div>
-    
   </div>
 </div>
+
+<!-- <div id="myCarousel" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="active item"><img src="/images/tetris_screenshot.png" /></div>
+    <div class="item"><img src="/images/tetris_screenshot.png" /></div>
+    <div class="item"><img src="/images/tetris_screenshot.png" /></div>
+  </div>
+  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+</div> -->
 
 <?php include '../../details.php'; ?>
 <?php include '../../footer.php'; ?>
