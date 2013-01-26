@@ -11,7 +11,7 @@
   <div class="container-narrow">
     <div class="jumbotron">
       <img src="/images/hdr_gameplay.png" />
-      <p class="lead tagline">Open source Game Boy emulator web app for the iPhone 5.<br />Based on the JSGB emulator core with Google Drive for storage.</p>
+      <p class="lead tagline">Game Boy emulator for the iPhone 5.</p>
       <a href="#myModal" role="button" class="btn btn-primary" data-toggle="modal">Play Now</a>
     </div>
   </div>
@@ -48,12 +48,6 @@
           <p>Licensed under the GPL and available on <a href="https://github.com/jbmorley/game-play">Github</a>, Game Play is open source through-and-through.  Game Boy emulation uses the <a href="http://www.codebase.es/jsgb/">JSGB</a> emulator core.</p>
         </div>
      </div>
-    </div>
-
-    <div class="row-fluid">
-      <div class="span12">
-        <p class="requirements">Requires iPhone 5 or later.</p>
-      </div>
     </div>
 
   </div>
