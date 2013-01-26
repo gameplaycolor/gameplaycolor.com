@@ -10,7 +10,7 @@
 <div class="full-width">
   <div class="container-narrow">
     <div class="jumbotron">
-      <img src="images/phones.png" />
+      <img src="/images/hdr_gameplay.png" />
       <p class="lead tagline">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
       <a href="#myModal" role="button" class="btn btn-primary" data-toggle="modal">Play Now</a>
     </div>
