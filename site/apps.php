@@ -14,13 +14,13 @@
       <div class="span6">
         <div class="icon lead tagline">
           <a href="/apps/gameplay/"><img src="/images/icn_gameplay.png" /></a><br/>
-          <a href="/apps/gameplay/">Game Play</a> &mdash; Play Game Boy games on your iPhone 5
+          <a href="/apps/gameplay/">Game Play</a> &mdash; Game Boy emulator for the iPhone 5
         </div>
       </div>
       <div class="span6">
         <div class="icon lead tagline">
           <a href="/apps/learn/"><img src="/images/icn_learn.png" /></a><br/>
-          <a href="/apps/learn/">Learn </a> &mdash; Some software
+          <a href="/apps/learn/">Learn </a> &mdash; Flash cards that never let you forget to study
         </div>
       </div>
     </div>

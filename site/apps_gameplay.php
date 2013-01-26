@@ -11,7 +11,7 @@
   <div class="container-narrow">
     <div class="jumbotron">
       <img src="/images/hdr_gameplay.png" />
-      <p class="lead tagline">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+      <p class="lead tagline">Open source Game Boy emulator web app for the iPhone 5.<br />Based on the JSGB emulator core with Google Drive for storage.</p>
       <a href="#myModal" role="button" class="btn btn-primary" data-toggle="modal">Play Now</a>
     </div>
   </div>
@@ -19,37 +19,41 @@
 
 <div class="container-narrow">
 
-  <div class="row-fluid features">
-    <div class="span6">
-
-      <div class="feature">
-        <h4><i class="icon-eye-open"></i> Beautiful Cover Art</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
+  <div class="features">
+    <div class="row-fluid">
+      <div class="span6">
+        <div class="feature">
+          <h4><i class="icon-eye-open"></i> Beautiful Cover Art</h4>
+          <p>Game Play automatically identifies cover art stored alongside your ROMs and shows it on beautifully rendered cartridges. Simply drop a JPEG or PNG file with the same name as your game into Google Drive and Game Play does the rest.</p>
+        </div>
       </div>
-
-      <div class="feature">
-        <h4><i class="icon-remove"></i> Offline Support</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
+      <div class="span6">
+        <div class="feature">
+          <h4><i class="icon-hdd"></i> Google Drive</h4>
+          <p>Store all your Game Boy ROMs and cover art in Google Drive.  Adding a game to Game Play is as simple as dragging-and-dropping it into your Google Drive and opening the game library.</p>
+        </div>
       </div>
-      
     </div>
 
-    <div class="span6">
-
-      <div class="feature">
-        <h4><i class="icon-hdd"></i> Google Drive</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
+    <div class="row-fluid">
+      <div class="span6">
+        <div class="feature">
+          <h4><i class="icon-remove"></i> Offline Support</h4>
+          <p>Game Play makes use of the HTML 5 application cache and databases to provide complete offline support.  Play your games wherever and whenever you want.</p>
+        </div>
       </div>
-      
-      <div class="feature">
-        <h4><i class="icon-github"></i> Open Source</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in odio ac tellus semper venenatis. Integer sed consectetur augue. Aliquam blandit viverra risus quis dignissim. Donec et magna at sem laoreet faucibus vel et nibh. Aenean fermentum nunc non felis venenatis molestie.</p>
-      </div>
-
+      <div class="span6">
+        <div class="feature">
+          <h4><i class="icon-github"></i> Open Source</h4>
+          <p>Licensed under the GPL and available on <a href="https://github.com/jbmorley/game-play">Github</a>, Game Play is open source through-and-through.  Game Boy emulation uses the <a href="http://www.codebase.es/jsgb/">JSGB</a> emulator core.</p>
+        </div>
+     </div>
     </div>
 
-    <div class="span11">
-      <p class="requirements">Requires iPhone 5 or later.</p>
+    <div class="row-fluid">
+      <div class="span12">
+        <p class="requirements">Requires iPhone 5 or later.</p>
+      </div>
     </div>
 
   </div>
