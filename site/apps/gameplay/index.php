@@ -8,7 +8,6 @@
 ?>
 
 <div class="full-width">
-  <div class="shadow bottom"></div>
   <div class="container-narrow">
     <div class="jumbotron">
       <img src="images/phones.png" />
@@ -58,6 +57,7 @@
     </div>
   </div>
 </div>
+
 
 <?php
 
