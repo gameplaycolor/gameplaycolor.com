@@ -43,28 +43,28 @@ body {
 }
 
 .full-width {
-  background: url('../images/background.png');
+  background: url('../images/bg_texture.png');
   width: 100%;
   padding: 20px 0;
   position: relative;
 }
 
 .sketchpad {
-  background: url('../images/sketchpad.jpg') center;
+  background: url('../images/bg_sketchpad.jpg') center;
 }
 
 .tetris {
-  background: url('../images/tetris_background.png');
+  background: url('../images/bg_tetris.png');
 }
 
 .tagline {
   color: #bbb;
-  text-shadow: 0 2px #222;
+  text-shadow: 0 1px #222;
 }
 
 .bright {
   color: #f4f4f4;
-  text-shadow: 0 2px #222;
+  text-shadow: 0 1px #222;
 }
 
 .footer {
