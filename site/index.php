@@ -1,6 +1,6 @@
 <?php
-  include 'header.php';
-  include 'navigation.php';
+
+  include 'inseven.php';
 
   head();
   navigation();
@@ -20,5 +20,9 @@
   </div>
 </div>
 
-<?php include 'details.php'; ?>
-<?php include 'footer.php'; ?>
+<?php
+
+  details();
+  footer();
+
+?>

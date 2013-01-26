@@ -1,8 +1,8 @@
 <?php
-  include '../../header.php';
-  include '../../navigation.php';
 
-  head();
+  include '../../inseven.php';
+
+  head("Game Play");
   navigation();
 
 ?>
@@ -11,11 +11,9 @@
   <div class="shadow bottom"></div>
   <div class="container-narrow">
     <div class="jumbotron">
-      <!-- <a class="btn btn-large btn-success" href="#">Sign up today</a> -->
       <img src="images/phones.png" />
-      <!-- <h1>Game Play</h1> -->
       <p class="lead tagline">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      <a href="#myModal" role="button" class="btn btn-primary" data-toggle="modal">Install Now</a>
+      <a href="#myModal" role="button" class="btn btn-primary" data-toggle="modal">Play Now</a>
     </div>
   </div>
 </div>
@@ -61,7 +59,7 @@
   </div>
 </div>
 
-<!-- <div id="myCarousel" class="carousel slide">
+<div id="myCarousel" class="carousel slide">
   <div class="carousel-inner">
     <div class="active item"><img src="/images/tetris_screenshot.png" /></div>
     <div class="item"><img src="/images/tetris_screenshot.png" /></div>
@@ -69,7 +67,11 @@
   </div>
   <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
   <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-</div> -->
+</div>
 
-<?php include '../../details.php'; ?>
-<?php include '../../footer.php'; ?>
+<?php
+
+  details();
+  footer();
+
+?>

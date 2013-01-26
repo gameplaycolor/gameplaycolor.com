@@ -1,3 +1,5 @@
+<?php function details() { ?>
+
 <div class="container-narrow">
 
   <div class="row-fluid marketing">
@@ -16,14 +18,16 @@
     <div class="span4">
       <h4>Mailing List</h4>
       <p>Subscribe to the mailing list for news and product announcements.</p>
-      <div class="control-group">
-        <div class="controls">
-          <div class="input-prepend">
-            <span class="add-on"><i class="icon-envelope-alt"></i></span>
-            <input class="span9" id="inputIcon" type="text">
+      <form action="http://inseven.us6.list-manage.com/subscribe/post?u=381733ebc7b77ee687e0cff06&amp;id=d4b5165168" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div class="control-group">
+          <div class="controls">
+            <div class="input-prepend">
+              <span class="add-on"><i class="icon-envelope-alt"></i></span>
+              <input type="email" name="EMAIL" id="mce-EMAIL" class="span9" id="inputIcon" type="text">
+            </div>
           </div>
         </div>
-      </div>
+      </form>
     </div>
     
     <div class="span4">
@@ -43,3 +47,5 @@
   </div>
 
 </div> <!-- /container -->
+
+<?php } ?>

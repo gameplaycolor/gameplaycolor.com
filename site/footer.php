@@ -1,3 +1,5 @@
+<?php function footer() { ?>
+
     </div> <!-- /container -->
 
     <!-- Le javascript
@@ -20,3 +22,5 @@
 
   </body>
 </html>
+
+<?php } ?>
