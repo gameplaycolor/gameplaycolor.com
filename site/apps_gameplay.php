@@ -47,6 +47,11 @@
       </div>
 
     </div>
+
+    <div class="span11">
+      <p class="requirements">Requires iPhone 5 or later.</p>
+    </div>
+
   </div>
   
 </div>
