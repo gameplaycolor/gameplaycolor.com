@@ -17,7 +17,7 @@
   </div>
 </div>
 
-<div class="container-narrow gameplay">
+<div class="container-narrow">
 
   <div class="row-fluid features">
     <div class="span6">
