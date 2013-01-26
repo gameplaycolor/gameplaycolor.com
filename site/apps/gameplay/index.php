@@ -59,16 +59,6 @@
   </div>
 </div>
 
-<div id="myCarousel" class="carousel slide">
-  <div class="carousel-inner">
-    <div class="active item"><img src="/images/tetris_screenshot.png" /></div>
-    <div class="item"><img src="/images/tetris_screenshot.png" /></div>
-    <div class="item"><img src="/images/tetris_screenshot.png" /></div>
-  </div>
-  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-</div>
-
 <?php
 
   details();
