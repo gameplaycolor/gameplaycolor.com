@@ -14,7 +14,7 @@
       <h1 class="logo">InSeven Limited.</h1>
     </div>
     <div class="jumbotron">
-      <p class="lead tagline bright">InSeven Limited provides software consultancy with a particular focus on mobile phone technologies. We offer bespoke development and consultancy across a range of platforms including iOS and Android, built upon many years of experience in the mobile industry.</p>
+      <p class="lead tagline bright">InSeven Limited build great apps like <a href="/apps/gameplay">Game Play</a> and <a href="/apps/learn">Learn</a> and offer bespoke development and consultancy.  We specialise in mobile, with a particular focus on iOS and Android.</p>
     </div>
 
   </div>

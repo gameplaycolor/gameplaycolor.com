@@ -88,15 +88,6 @@ body {
   text-shadow: 0 1px #fff;
 }
 
-.icon {
-  width: 200px;
-  height: 200px;
-}
-
-.icons {
-  text-align: center;
-}
-
 .logo {
   color: #000;
   opacity: 0.9;
@@ -111,3 +102,18 @@ body {
   color: #aaa;
   text-align: center;
 }
+
+.icons {
+  padding-bottom: 60px;
+  text-align: center;
+}
+
+.icon {
+}
+
+.icon a {
+  color: #ddd;
+  font-weight: bold;
+  text-shadow: 0 1px #000;
+}
+
