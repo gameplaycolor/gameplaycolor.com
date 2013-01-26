@@ -1,6 +1,6 @@
 <?php
 
-  include '../../inseven.php';
+  include 'inseven.php';
 
   head("Game Play");
   navigation("/apps/gameplay");

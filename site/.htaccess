@@ -1,1 +1,4 @@
 ErrorDocument 404 /404.php
+
+RewriteEngine On
+RewriteRule ^apps/(.+)/ apps_$1.php
