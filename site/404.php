@@ -14,7 +14,7 @@
       <h1 class="logo">Not Found.</h1>
     </div>
     <div class="jumbotron">
-      <p class="lead tagline bright">The page you are looking for cannot be found.</p>
+      <p class="lead tagline bright">The page you are looking for cannot be found.<br /><a href="/">Go Home &#8594;</a></p>
     </div>
 
   </div>
