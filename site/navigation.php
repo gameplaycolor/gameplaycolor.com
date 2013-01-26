@@ -1,4 +1,16 @@
-<?php function navigation() { ?>
+<?php
+
+function navigation_item($href, $title, $current) {
+  $class = "";
+  if ($current == $href) {
+    $class = 'class = "active"';
+  }
+  echo '<li ' . $class . '><a href="' . $href . '">' . $title . '</a></li>';
+}
+
+
+function navigation($current = "/") {
+?>
 
 <div class="navbar navbar-inverse navbar-fixed-top">
   <div class="navbar-inner">
@@ -11,13 +23,16 @@
       <a class="brand" href="/">InSeven Limited</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
-          <li class="active"><a href="/">Home</a></li>
-          <li><a href="/apps/gameplay/">Game Play</a></li>
-          <li><a href="#about">Learn</a></li>
+          <?php navigation_item("/", "Home", $current); ?>
+          <?php navigation_item("/apps/gameplay", "Game Play", $current); ?>
         </ul>
       </div><!--/.nav-collapse -->
     </div>
   </div>
 </div>
 
-<?php } ?>
+<?php
+
+}
+
+?>
