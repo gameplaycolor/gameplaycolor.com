@@ -25,6 +25,7 @@ function navigation($current = "/") {
         <ul class="nav">
           <?php navigation_item("/", "Home", $current); ?>
           <?php navigation_item("/apps/gameplay/", "Game Play", $current); ?>
+          <?php navigation_item("/apps/learn/", "Learn", $current); ?>
         </ul>
       </div><!--/.nav-collapse -->
     </div>

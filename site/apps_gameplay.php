@@ -11,7 +11,8 @@
   <div class="container-narrow">
     <div class="jumbotron">
       <img src="/images/hdr_gameplay.png" />
-      <p class="lead tagline">Game Boy emulator for the iPhone 5.</p>
+      <h1 class="logo">Game Play</h1><br/>
+      <p class="lead tagline">Play Game Boy games on your iPhone 5.</p>
       <a href="#myModal" role="button" class="btn btn-primary" data-toggle="modal">Play Now</a>
     </div>
   </div>

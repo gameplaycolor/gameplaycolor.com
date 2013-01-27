@@ -74,6 +74,10 @@ a:hover {
   background: url('../images/bg_tetris.png');
 }
 
+.cardboard {
+  background: url('../images/bg_cardboard.png');
+}
+
 .tagline {
   color: #bbb;
   text-shadow: 0 1px #222;
