@@ -43,7 +43,7 @@
       <div class="span12">
         <div class="feature">
           <h4 id="bespoke-development"><i class="icon-comments"></i> Bespoke Development</h4>
-          <p>Building on over 10 years experience in the mobile industry, InSeven Limited provide world class bespoke application development and software consultancy. Contact us at <a href="mailto:contact@inseven.co.uk">contact@inseven.co.uk</a> for more information.</p>
+          <p>With over 10 years experience in the mobile industry, InSeven Limited provide world class bespoke application development and software consultancy. Contact us at <a href="mailto:contact@inseven.co.uk">contact@inseven.co.uk</a> for more information.</p>
         </div>
       </div>
     </div>
