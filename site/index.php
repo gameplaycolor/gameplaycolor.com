@@ -11,13 +11,13 @@
   <div class="container-narrow">
   
     <div class="jumbotron">
-      <h1 class="logo">InSeven Limited.</h1>
+      <h1 class="logo">InSeven Limited</h1>
     </div>
     <div class="jumbotron">
       <p class="lead tagline bright">InSeven build <a href="#great-apps">great apps</a> and offer <a href="#bespoke-development">bespoke development and consultancy</a>.<br />  We specialise in mobile software, with a particular focus on iOS and Android.</p>
     </div>
 
-    <div class="jumbotron" id="great-apps">
+    <div class="jumbotron">
       <div class="row-fluid">
         <div class="span2"></div>
         <div class="span4">
@@ -41,6 +41,16 @@
 <div class="container-narrow">
 
   <div class="features">
+
+    <div class="row-fluid">
+      <div class="span12">
+        <div class="feature">
+          <h4 id="great-apps"><i class="icon-heart"></i> Great Apps</h4>
+          <p>Nulla facilisi. Pellentesque malesuada adipiscing dictum. Nulla facilisi. Nullam convallis vehicula adipiscing. Aliquam erat volutpat. Mauris imperdiet justo vel lectus venenatis sed tristique est vehicula.</p>
+        </div>
+      </div>
+    </div>
+
 
     <div class="row-fluid">
       <div class="span12">
