@@ -94,8 +94,11 @@ body {
 
 .logo {
   color: #000;
-  opacity: 0.9;
-  text-shadow: 0 1px #444;
+  /*opacity: 0.95;*/
+  text-shadow: 0 1px #666;
+  color: #eee;
+  /*opacity: 0.95;*/
+  text-shadow: 0 4px #000;
 }
 
 .center {
@@ -125,6 +128,10 @@ body {
     margin-bottom: 0;
   }
 
+  .jumbotron h1 {
+    font-size: 60px;
+  }
+
 }
 
 @media (max-width: 767px) {
@@ -139,6 +146,10 @@ body {
   .navbar-static-top {
     margin-right: 0;
     margin-left: 0;
+  }
+
+  .jumbotron h1 {
+    font-size: 50px;
   }
 
 }
