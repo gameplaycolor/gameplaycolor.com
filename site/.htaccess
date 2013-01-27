@@ -3,6 +3,7 @@ ErrorDocument 404 /404.php
 RewriteEngine On
 
 RewriteRule ^apps$ /apps/ [R]
+# RewriteRule ^apps/$ / [R]
 RewriteRule ^apps/gameplay$ /apps/gameplay/ [R]
 RewriteRule ^apps/learn$ /apps/learn/ [R]
 
