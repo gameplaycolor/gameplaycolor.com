@@ -20,7 +20,7 @@
       <div class="span6">
         <div class="icon lead tagline">
           <a href="/apps/learn/"><img src="/images/icn_learn.png" /></a><br/>
-          <a href="/apps/learn/">Learn </a> &mdash; Flash cards that never let you forget to study
+          <a href="/apps/learn/">Learn</a> &mdash; Flash cards that never let you forget to study
         </div>
       </div>
     </div>

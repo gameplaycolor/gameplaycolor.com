@@ -3,7 +3,7 @@
   include 'inseven.php';
 
   head("Game Play");
-  navigation("/apps/gameplay");
+  navigation("/apps/gameplay/");
 
 ?>
 
