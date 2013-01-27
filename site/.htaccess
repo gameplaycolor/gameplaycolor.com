@@ -1,5 +1,10 @@
 ErrorDocument 404 /404.php
 
 RewriteEngine On
+
+RewriteRule ^apps$ /apps/ [R]
+RewriteRule ^apps/gameplay$ /apps/gameplay/ [R]
+RewriteRule ^apps/learn$ /apps/learn/ [R]
+
 RewriteRule ^apps/$ apps.php
 RewriteRule ^apps/(.+)/$ apps_$1.php
