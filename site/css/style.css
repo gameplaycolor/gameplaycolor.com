@@ -6,7 +6,8 @@ body {
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
-  max-width: 700px;
+  max-width: 740px;
+  padding: 0 20px;
 }
 .container-narrow > hr {
   margin: 30px 0;
@@ -43,10 +44,13 @@ body {
 }
 
 .full-width {
-  background: url('../images/bg_texture.png');
   width: 100%;
   padding: 20px 0;
   position: relative;
+}
+
+.texture {
+  background: url('../images/bg_texture.png');
 }
 
 .sketchpad {
@@ -107,5 +111,35 @@ body {
   color: #ddd;
   font-weight: bold;
   text-shadow: 0 1px #000;
+}
+
+/* Bootstrap Tweaks */
+
+@media (max-width: 979px) {
+
+  body {
+    padding-top: 0;
+  }
+
+  .navbar-fixed-top {
+    margin-bottom: 0;
+  }
+
+}
+
+@media (max-width: 767px) {
+
+  body {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .navbar-fixed-top,
+  .navbar-fixed-bottom,
+  .navbar-static-top {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
 }
 

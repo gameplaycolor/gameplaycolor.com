@@ -7,7 +7,7 @@
 
 ?>
 
-<div class="full-width">
+<div class="full-width texture">
   <div class="container-narrow">
 
     <div class="row-fluid features icons">
