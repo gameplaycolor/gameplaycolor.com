@@ -9,5 +9,3 @@ RewriteRule ^apps/learn$ /apps/learn/ [R]
 
 RewriteRule ^apps/$ apps.php
 RewriteRule ^apps/(.+)/$ apps_$1.php
-
-RewriteRule ^apps/gameplay/play gameplay
