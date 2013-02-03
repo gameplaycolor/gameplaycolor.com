@@ -52,35 +52,18 @@
       <div class="span6">
         <div class="feature">
           <h4><i class="icon-book"></i> Extensive Library</h4>
-          <p>Learn supports a wide range of flashcard formats.  Manage and edit multiple sets and export them to share with friends and classmates.</p>
+          <p>Learn supports a wide range of flashcard formats.  Manage and edit multiple sets and then share them with friends and classmates.</p>
         </div>
       </div>
       <div class="span6">
         <div class="feature">
-          <h4><i class="icon-lightbulb"></i> Study Your Way</h4>
-          <p>Learn lets you review cards whichever way works for you, offering a number of different strategies, including the Leitner system.</p>
+          <h4><i class="icon-lightbulb"></i> Flexible</h4>
+          <p>Learn lets you study how you want, offering a number of different ways to review cards, including the Leitner system.</p>
         </div>
      </div>
     </div>
 
   </div>
-
-  <!--
-  <hr />
-  <div class="container-narrow">
-    <div class="features">
-        <div class="row-fluid">
-        <div class="span12">
-          <div class="feature">
-            <h4><i class="icon-desktop"></i> Edit Locally</h4>
-            <p>Mac OS X editor for editing sets locally.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  -->
-
   
 </div>
 
