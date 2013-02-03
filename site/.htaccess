@@ -9,3 +9,7 @@ RewriteRule ^apps/learn$ /apps/learn/ [R]
 
 RewriteRule ^apps/$ apps.php
 RewriteRule ^apps/(.+)/$ apps_$1.php
+
+
+RewriteRule ^apps/gameplay/app$ /apps/gameplay/app/ [R]
+RewriteRule ^apps/learn/app$ /apps/learn/app/ [R]
