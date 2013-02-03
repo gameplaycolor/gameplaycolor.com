@@ -46,7 +46,7 @@
       <div class="span12">
         <div class="feature">
           <h4 id="great-apps"><i class="icon-heart"></i> Great Apps</h4>
-          <p>Nulla facilisi. Pellentesque malesuada adipiscing dictum. Nulla facilisi. Nullam convallis vehicula adipiscing. Aliquam erat volutpat. Mauris imperdiet justo vel lectus venenatis sed tristique est vehicula.</p>
+          <p>InSeven continue to build great apps like <a href="apps/gameplay/">Game Play</a> and <a href="apps/learn/">Learn</a>. Sign up to our <a href="#mailing-list">mailing list</a> to find out about future releases.</p>
         </div>
       </div>
     </div>
