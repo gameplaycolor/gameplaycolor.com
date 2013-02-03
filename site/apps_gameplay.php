@@ -13,7 +13,7 @@
       <img src="/images/hdr_gameplay.png" />
       <h1 class="logo">Game Play</h1><br/>
       <p class="lead tagline">Play Game Boy games on your iPhone 5.</p>
-      <a href="#myModal" role="button" class="btn btn-primary" data-toggle="modal">Play Now</a>
+      <a href="play" role="button" class="btn btn-primary" onclick="_gaq.push(['_trackEvent', 'Play Now', 'clicked']);">Play Now</a>
     </div>
   </div>
 </div>
