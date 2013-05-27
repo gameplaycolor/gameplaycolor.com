@@ -62,15 +62,15 @@
             <ol>
               <li>
                 <h5>Why does Game Play not work on my iPhone 4/4S?</h5>
-                <p>Game Play performance is currently quite poor on the iPhone 4 and iPhone 4S, so we've restricted it to the iPhone 5 for initial release.</p>
+                <p>The iPhone 4 and iPhone 4S are not fast enough to run Game Play.</p>
               </li>
               <li>
                 <h5>Why am I getting an 'Unknown memory bank controller' error?</h5>
-                <p>Game Play does not currently support Game Boy Color ROMs.  Support will be coming in future releases.</p>
+                <p>Game Play does not currently support Game Boy Color or larger Game Boy ROMs.  Support for both of these will be coming in future releases.  Unfortunately this restriction affects games like Pokemon and Zelda.</p>
               </li>
               <li>
-                <h5>Why can't I play my Pokemon ROMs?</h5>
-                <p>See the previous answer.</p>
+                <h5>When will Game Play support Game Boy Color ROMs?</h5>
+                <p>There is currently no ETA for Game Boy Color support, but we're working on it as fast as we can.  Rest assured, we want it too!</p>
               </li>
             </ol>
             </ul>
