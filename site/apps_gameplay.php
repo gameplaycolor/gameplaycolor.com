@@ -61,19 +61,70 @@
             <h4 id="faq"><i class="icon-question-sign"></i> FAQ</h4>
             <ol>
               <li>
-                <h5>Which games work with Game Play?<h5>
-                <p>Game Play supports a wide range of Game Boy original ROMs.  Games that are known to work include: <strong>Adventure Island</strong>, <strong>Adventure Island 2</strong>, <strong>Bionic Commando</strong>, <strong>Bram Stoker's Dracula</strong>, <strong>Castle Quest</strong>, <strong>Castlevania 2 - Belmont's Revenge</strong>, <strong>Dr. Mario</strong>, <strong>Duck Tales 1</strong>, <strong>Duck Tales 2</strong>, <strong>Fist of the North Star</strong>, <strong>Kirby's Dream Land</strong>, <strong>Mega Man 1</strong>, <strong>Mega Man 2</strong>, <strong>Mega Man 3</strong>, <strong>Mystical Ninja</strong>, <strong>Ninja Boy 1</strong>, <strong>Ninja Boy 2</strong>, <strong>Ninja Gaiden Shadow</strong>, <strong>Othello</strong>, <strong>Ren &amp; Stimpy Space Cadet Advenutres</strong>, <strong>Super Mario World</strong>, <strong>Tale Spin</strong>, <strong>Tecmo Bowl</strong>, <strong>The Castlevania Adventure ('86)</strong>, <strong>The Flash</strong>, <strong>The Lion King</strong>, <strong>The Little Mermaid</strong>, <strong>The Pagemaster</strong>, <strong>The Real Ghostbusters</strong>, <strong>Tiny Toon Adventures - Montana's Movie Madness</strong>, <strong>Tiny Toon Advenutres - Bab's Big Break</strong>, <strong>TMNT - Fall of the Foot Clan</strong>, <strong>TMNT II - Back from the Swewers</strong>, <strong>TMNT III - Radical Rescue</strong>, <strong>Yoshi's Cookie</strong>.</p>
+                <h5>Where can I download games?</h5>
+                <p>
+                  While we cannot officially recommend any single site for downloading Game Boy ROMs, we suggest using Google to search ROMs by title.
+                </p>
+                <p>
+                  Please remember that piracy is illegal and you should only download ROMs you already own.
+                </p>
+              </li>
+              <li>
+                <h5>Which games work with Game Play?</h5>
+                <p>
+                  The following games have been tested with Game Play:
+                  <a href='https://www.google.com/?q=adventure+island+game+boy+rom+-color' target='_blank'>Adventure Island</a>,
+                  <a href='https://www.google.com/?q=adventure+island+2+game+boy+rom+-color' target='_blank'>Adventure Island 2</a>,
+                  <a href='https://www.google.com/?q=bionic+commando+game+boy+rom+-color' target='_blank'>Bionic Commando</a>,
+                  <a href='https://www.google.com/?q=bomberman+game+boy+rom+-color' target='_blank'>Bomberman</a>,
+                  <a href='https://www.google.com/?q=bram+stokers+dracula+game+boy+rom+-color' target='_blank'>Bram Stoker's Dracula</a>,
+                  <a href='https://www.google.com/?q=castle+quest+game+boy+rom+-color' target='_blank'>Castle Quest</a>,
+                  <a href='https://www.google.com/?q=castlevania+2+belmonts+revenge+game+boy+rom+-color' target='_blank'>Castlevania 2 - Belmont's Revenge</a>,
+                  <a href='https://www.google.com/?q=double+dragon+game+boy+rom+-color' target='_blank'>Double Dragon</a>,
+                  <a href='https://www.google.com/?q=dr+mario+game+boy+rom+-color' target='_blank'>Dr. Mario</a>,
+                  <a href='https://www.google.com/?q=duck+tales+1+game+boy+rom+-color' target='_blank'>Duck Tales 1</a>,
+                  <a href='https://www.google.com/?q=duck+tales+2+game+boy+rom+-color' target='_blank'>Duck Tales 2</a>,
+                  <a href='https://www.google.com/?q=fist+of+the+north+star+game+boy+rom+-color' target='_blank'>Fist of the North Star</a>,
+                  <a href='https://www.google.com/?q=kirbys+dream+land+game+boy+rom+-color' target='_blank'>Kirby's Dream Land</a>,
+                  <a href='https://www.google.com/?q=mega+man+1+game+boy+rom+-color' target='_blank'>Mega Man 1</a>,
+                  <a href='https://www.google.com/?q=mega+man+2+game+boy+rom+-color' target='_blank'>Mega Man 2</a>,
+                  <a href='https://www.google.com/?q=mega+man+3+game+boy+rom+-color' target='_blank'>Mega Man 3</a>,
+                  <a href='https://www.google.com/?q=mystical+ninja+game+boy+rom+-color' target='_blank'>Mystical Ninja</a>,
+                  <a href='https://www.google.com/?q=ninja+boy+1+game+boy+rom+-color' target='_blank'>Ninja Boy 1</a>,
+                  <a href='https://www.google.com/?q=ninja+boy+2+game+boy+rom+-color' target='_blank'>Ninja Boy 2</a>,
+                  <a href='https://www.google.com/?q=ninja+gaiden+shadow+game+boy+rom+-color' target='_blank'>Ninja Gaiden Shadow</a>,
+                  <a href='https://www.google.com/?q=othello+game+boy+rom+-color' target='_blank'>Othello</a>,
+                  <a href='https://www.google.com/?q=ren+and+stimpy+space+cadet+advenutres+game+boy+rom+-color' target='_blank'>Ren & Stimpy Space Cadet Advenutres</a>,
+                  <a href='https://www.google.com/?q=super+mario+land+game+boy+rom+-color' target='_blank'>Super Mario Land</a>,
+                  <a href='https://www.google.com/?q=tale+spin+game+boy+rom+-color' target='_blank'>Tale Spin</a>,
+                  <a href='https://www.google.com/?q=tecmo+bowl+game+boy+rom+-color' target='_blank'>Tecmo Bowl</a>,
+                  <a href='https://www.google.com/?q=the+castlevania+adventure+(86)+game+boy+rom+-color' target='_blank'>The Castlevania Adventure ('86)</a>,
+                  <a href='https://www.google.com/?q=the+flash+game+boy+rom+-color' target='_blank'>The Flash</a>,
+                  <a href='https://www.google.com/?q=the+lion+king+game+boy+rom+-color' target='_blank'>The Lion King</a>,
+                  <a href='https://www.google.com/?q=the+little+mermaid+game+boy+rom+-color' target='_blank'>The Little Mermaid</a>,
+                  <a href='https://www.google.com/?q=the+pagemaster+game+boy+rom+-color' target='_blank'>The Pagemaster</a>,
+                  <a href='https://www.google.com/?q=the+real+ghostbusters+game+boy+rom+-color' target='_blank'>The Real Ghostbusters</a>,
+                  <a href='https://www.google.com/?q=tiny+toon+adventures+montanas+movie+madness+game+boy+rom+-color' target='_blank'>Tiny Toon Adventures - Montana's Movie Madness</a>,
+                  <a href='https://www.google.com/?q=tiny+toon+advenutres+babs+big+break+game+boy+rom+-color' target='_blank'>Tiny Toon Advenutres - Bab's Big Break</a>,
+                  <a href='https://www.google.com/?q=tmnt+fall+of+the+foot+clan+game+boy+rom+-color' target='_blank'>TMNT - Fall of the Foot Clan</a>,
+                  <a href='https://www.google.com/?q=tmnt+ii+back+from+the+swewers+game+boy+rom+-color' target='_blank'>TMNT II - Back from the Swewers</a>,
+                  <a href='https://www.google.com/?q=tmnt+iii+radical+rescue+game+boy+rom+-color' target='_blank'>TMNT III - Radical Rescue</a>,
+                  <a href='https://www.google.com/?q=yoshis+cookie+game+boy+rom+-color' target='_blank'>Yoshi's Cookie</a>.
+                </p>
+                <p>
+                  Thanks to our great users for their help in compiling this list.  If you find a game we've missed, please <a href="mailto:support@inseven.co.uk">contact us</a>.
+                </p>
               <li>
                 <h5>Why does Game Play not work on my iPhone 4/4S?</h5>
                 <p>The iPhone 4 and iPhone 4S are not fast enough to run Game Play.</p>
               </li>
               <li>
                 <h5>Why am I getting an 'Unknown memory bank controller' error?</h5>
-                <p>Game Play does not currently support Game Boy Color or larger Game Boy ROMs.  Support for both of these will be coming in future releases.  Unfortunately this restriction affects games like Pokemon and Zelda.</p>
+                <p>Game Play does not currently support Game Boy Color or Game Boy ROMs larger than 246kb.  Support for both of these will be coming in future releases.  Unfortunately this restriction affects games like Pokemon and Zelda.</p>
               </li>
               <li>
                 <h5>When will Game Play support Game Boy Color ROMs?</h5>
-                <p>There is currently no ETA for Game Boy Color support, but we're working on it as fast as we can.  Rest assured, we want it too!</p>
+                <p>Future versions of Game Play will include Game Boy Color support.  There is currently no ETA but we're hard at work on delivering it as soon as we can.</p>
               </li>
             </ol>
             </ul>
