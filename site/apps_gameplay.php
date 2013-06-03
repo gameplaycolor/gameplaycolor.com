@@ -116,7 +116,7 @@
                 </p>
               <li>
                 <h5>Why does Game Play not work on my iPhone 4/4S?</h5>
-                <p>The iPhone 4 and iPhone 4S are not fast enough to run Game Play. There are currently no plans to provide support for these devices.</p>
+                <p>The iPhone 4 and iPhone 4S are not fast enough to run Game Play. There are no plans to provide support for these devices.</p>
               </li>
               <li>
                 <h5>Why am I getting an 'Unknown memory bank controller' error?</h5>
