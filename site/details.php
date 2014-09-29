@@ -41,7 +41,7 @@
 
   <div class="footer">
     <p>
-      Copyright &copy; InSeven Limited 2012-2013. All rights reserved.<br/>
+      Copyright &copy; InSeven Limited 2012-2014. All rights reserved.<br/>
       InSeven Limited, Registered in England and Wales, Number 7082463.
     </p>
   </div>

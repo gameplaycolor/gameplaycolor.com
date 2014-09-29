@@ -63,7 +63,7 @@ a:hover {
 }
 
 .texture {
-  background: url('../images/bg_texture.png');
+  background-color: #222;
 }
 
 .sketchpad {
@@ -74,18 +74,12 @@ a:hover {
   background: url('../images/bg_tetris.png');
 }
 
-.cardboard {
-  background: url('../images/bg_cardboard.png');
-}
-
 .tagline {
   color: #bbb;
-  text-shadow: 0 1px #222;
 }
 
 .bright {
   color: #f4f4f4;
-  text-shadow: 0 1px #222;
 }
 
 .footer {
@@ -106,12 +100,10 @@ a:hover {
 .feature p {
   line-height: 1.8em;
   font-size: 1.14em;
-  text-shadow: 0 1px #fff;
 }
 
 .logo {
   color: #eee;
-  text-shadow: 0 2px #000;
 }
 
 .center {

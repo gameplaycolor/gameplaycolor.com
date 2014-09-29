@@ -19,21 +19,13 @@
 
     <div class="jumbotron">
       <div class="row-fluid">
-        <div class="span2"></div>
-        <div class="span4">
+        <div class="span12">
           <div class="icon lead tagline">
             <a href="/apps/gameplay/"><img src="/images/ico_gameplay.png" /></a><br/>
           </div>
         </div>
-        <div class="span4">
-          <div class="icon lead tagline">
-            <a href="/apps/learn/"><img src="/images/ico_learn.png" /></a><br/>
-          </div>
-        </div>
-        <div class="span2"></div>
       </div>
     </div>
-
 
   </div>
 </div>
@@ -46,11 +38,10 @@
       <div class="span12">
         <div class="feature">
           <h4 id="great-apps"><i class="icon-heart"></i> Great Apps</h4>
-          <p>InSeven continue to build great apps like <a href="apps/gameplay/">Game Play</a> and <a href="apps/learn/">Learn</a>. Sign up to our <a href="#mailing-list">mailing list</a> to find out about future releases.</p>
+          <p>InSeven Limited build great apps like <a href="apps/gameplay/">Game Play</a>. Sign up to our <a href="#mailing-list">mailing list</a> to find out about future releases.</p>
         </div>
       </div>
     </div>
-
 
     <div class="row-fluid">
       <div class="span12">
