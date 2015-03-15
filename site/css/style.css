@@ -67,11 +67,11 @@ a:hover {
 }
 
 .sketchpad {
-  background: url('../images/bg_sketchpad.jpg') center;
+  background: url('../images/bg_sketchpad.jpg') no-repeat center center fixed;
 }
 
 .tetris {
-  background: url('../images/bg_tetris.png');
+  background: url('../images/bg_tetris.png') no-repeat center center fixed;
 }
 
 .tagline {
