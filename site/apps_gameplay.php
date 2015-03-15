@@ -10,7 +10,7 @@
 <div class="full-width texture">
   <div class="container-narrow">
     <div class="jumbotron">
-      <img src="/images/hdr_gameplay.png" />
+      <div class="image_hdr_gameplay"></div>
       <h1 class="logo">Game Play</h1><br/>
       <p class="lead tagline">Play Game Boy games on your iPhone 5.</p>
       <a href="app/" role="button" class="btn btn-primary" onclick="_gaq.push(['_trackEvent', 'Play Now', 'clicked']);">Play Now</a>
@@ -72,15 +72,7 @@
               <li>
                 <h5>Which games work with Game Play?</h5>
                 <p>
-                  The following games have been tested with Game Play:
-                  Adventure Island,
-                  Adventure Island 2,
-                  Bionic Commando,
-                  Bomberman,
-                  Bram Stoker's Dracula,
-                  Castle Quest,
-                  Castlevania 2 - Belmont's Revenge,
-                  Double Dragon,
+                  The following games have been tested with Game Play: Adventure Island, Adventure Island 2, Bionic Commando, Bomberman, Bram Stoker's Dracula, Castle Quest, Castlevania 2 - Belmont's Revenge, Double Dragon,
                   Dr. Mario,
                   Duck Tales 1,
                   Duck Tales 2,

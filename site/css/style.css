@@ -121,6 +121,22 @@ a:hover {
   text-shadow: 0 1px #000;
 }
 
+.image_hdr_gameplay {
+  width: 481px;
+  height: 562px;
+  display: inline-block;
+  background-size: 481px 562px;
+  background-image: url(../images/hdr_gameplay.png);
+}
+
+@media only screen and (-webkit-device-pixel-ratio:2) {
+
+  .image_hdr_gameplay {
+    background-image: url(../images/hdr_gameplay_2x.png);
+  }
+
+}
+
 /* Bootstrap Tweaks */
 
 @media (max-width: 979px) {
