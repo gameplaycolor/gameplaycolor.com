@@ -19,11 +19,18 @@
 
     <div class="jumbotron">
       <div class="row-fluid">
-        <div class="span12">
+        <div class="span2"></div>
+        <div class="span4">
           <div class="icon lead tagline">
-            <a href="/apps/gameplay/"><img src="/images/ico_gameplay.png" /></a><br/>
+            <a href="/apps/gameplaycolor/"><div class="appicon gameplaycolor"></div></a><br/>
           </div>
         </div>
+        <div class="span4">
+          <div class="icon lead tagline">
+            <a href="/apps/gameplay/"><div class="appicon gameplay"></div></a><br/>
+          </div>
+        </div>
+        <div class="span2"></div>
       </div>
     </div>
 

@@ -50,10 +50,7 @@
         </div>
      </div>
     </div>
-    <hr />
-  </div>
-
-  <div class="container-narrow">
+    
     <div class="features">
         <div class="row-fluid">
         <div class="span12">

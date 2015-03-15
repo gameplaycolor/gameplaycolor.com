@@ -66,6 +66,10 @@ a:hover {
   background-color: #222;
 }
 
+.wood {
+  background: url('../images/bg_wood.png') repeat center center fixed;
+}
+
 .sketchpad {
   background: url('../images/bg_sketchpad.jpg') no-repeat center center fixed;
 }
@@ -121,12 +125,56 @@ a:hover {
   text-shadow: 0 1px #000;
 }
 
+.appicon {
+  width: 200px;
+  height: 200px;
+  background-size: 200px 200px;
+  border-radius: 40px;
+  background-color: red;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+  display: inline-block;
+}
+
+.gameplaycolor {
+  background-image: url(../images/ico_gameplaycolor.png);
+}
+
+.gameplay {
+  background-image: url(../images/ico_gameplay.png);
+}
+
 .faq {
   cursor: pointer;
 }
 
 .lead {
   font-size: 24px;
+}
+
+.color-title {
+  font-family: "Comic Sans MS";
+  font-weight: bold;
+  letter-spacing: -8px;
+}
+
+.color-title > .pink {
+  color: #C71669;
+}
+
+.color-title > .purple {
+  color: #4E4A85;
+}
+
+.color-title > .lime {
+  color: #9AC834;
+}
+
+.color-title > .yellow {
+  color: #FFE437;
+}
+
+.color-title > .cyan {
+  color: #1988B9;
 }
 
 .image_hdr_gameplay {
