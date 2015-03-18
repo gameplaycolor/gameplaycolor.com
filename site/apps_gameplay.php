@@ -24,12 +24,14 @@
     <div class="row-fluid">
       <div class="span6">
         <div class="feature">
+          <i class="feature-icon fa fa-image fx-fw"></i>
           <h4>Beautiful Cover Art</h4>
           <p>Game Play automatically identifies cover art stored alongside your ROMs and shows it on beautifully rendered cartridges. Simply drop a JPEG or PNG file with the same name as your game into Google Drive and Game Play does the rest.</p>
         </div>
       </div>
       <div class="span6">
         <div class="feature">
+          <i class="feature-icon fa fa-google fa-fw"></i>
           <h4>Google Drive</h4>
           <p>Store all your Game Boy ROMs and cover art in Google Drive.  Adding a game to Game Play is as simple as dragging-and-dropping it into your Google Drive and opening the game library.</p>
         </div>
@@ -39,12 +41,14 @@
     <div class="row-fluid">
       <div class="span6">
         <div class="feature">
+          <i class="feature-icon fa fa-plane fa-fw"></i>
           <h4>Offline Support</h4>
           <p>Game Play makes use of the HTML 5 application cache and databases to provide complete offline support.  Play your games wherever and whenever you want.</p>
         </div>
       </div>
       <div class="span6">
         <div class="feature">
+          <i class="feature-icon fa fa-github fa-fw"></i>
           <h4>Open Source</h4>
           <p>Licensed under the GPL and available on <a href="https://github.com/jbmorley/gameplay">GitHub</a>, Game Play is open source through-and-through.  Game Boy emulation uses the <a href="http://www.codebase.es/jsgb/">JSGB</a> emulator core.</p>
         </div>
@@ -55,6 +59,7 @@
         <div class="row-fluid">
         <div class="span12">
           <div class="feature">
+            <i class="feature-icon fa fa-question-circle fa-fw"></i>
             <h4 id="faq">FAQ</h4>
             <ol>
               <li>

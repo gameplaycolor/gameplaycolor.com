@@ -32,7 +32,7 @@
     
     <div class="span4">
       <h4>Support</h4>
-      <p><a href="mailto:contact@inseven.co.uk"><i class="fa fa-envelope fa-fw"></i> contact@inseven.co.uk</a></p>
+      <p><a href="mailto:support@inseven.co.uk"><i class="fa fa-envelope fa-fw"></i> support@inseven.co.uk</a></p>
       <p><a href="https://twitter.com/insevenlimited"><i class="fa fa-twitter fa-fw"></i> insevenlimited </a></p>
     </div>
   </div>
