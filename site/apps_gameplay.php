@@ -46,7 +46,7 @@
       <div class="span6">
         <div class="feature">
           <h4>Open Source</h4>
-          <p>Licensed under the GPL and available on <a href="https://github.com/jbmorley/gameplay">Github</a>, Game Play is open source through-and-through.  Game Boy emulation uses the <a href="http://www.codebase.es/jsgb/">JSGB</a> emulator core.</p>
+          <p>Licensed under the GPL and available on <a href="https://github.com/jbmorley/gameplay">GitHub</a>, Game Play is open source through-and-through.  Game Boy emulation uses the <a href="http://www.codebase.es/jsgb/">JSGB</a> emulator core.</p>
         </div>
      </div>
     </div>

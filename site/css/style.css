@@ -1,6 +1,7 @@
 body {
-  padding-top: 20px;
-  padding-bottom: 40px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    padding-top: 20px;
+    padding-bottom: 40px;
 }
 
 /* Custom container */
@@ -25,8 +26,21 @@ body {
 }
 
 .jumbotron .btn {
-  font-size: 21px;
-  padding: 14px 24px;
+    font-size: 21px;
+    padding: 14px 24px;
+    background: none;
+    border: 2px solid white;
+    border-radius: 8px;
+    text-shadow: 0;
+    box-shadow: 0;
+}
+
+.jumbotron .btn:hover {
+    border: 2px solid transparent;
+    background: white;
+    color: #333;
+    text-shadow: 0;
+    box-shadow: 0;
 }
 
 .tagline a {
@@ -78,6 +92,10 @@ a:hover {
   background: url('../images/bg_tetris.png') no-repeat center center fixed;
 }
 
+.mario {
+  background: url('../images/bg_mario.png') no-repeat bottom center fixed;
+}
+
 .tagline {
   color: #bbb;
 }
@@ -97,8 +115,36 @@ a:hover {
   margin: 0;
 }
 
+
 .feature {
-  margin-bottom: 60px;
+    position: relative;
+    margin-bottom: 60px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+.feature > p {
+    color: #888;
+}
+
+.feature > .feature-icon {
+    position: absolute;
+    top: 0;
+    left: -50px;
+    font-size: 38px;
+    color: #bbb;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+}
+
+.feature:hover > .feature-icon {
+    color: #222;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
 }
 
 .feature p {
@@ -126,13 +172,26 @@ a:hover {
 }
 
 .appicon {
-  width: 200px;
-  height: 200px;
-  background-size: 200px 200px;
-  border-radius: 40px;
-  background-color: red;
-  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
-  display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 12px;
+    background-size: 200px 200px;
+    border-radius: 40px;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+}
+
+.appicon:hover {
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+    -webkit-transform: scale(1.06);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
 }
 
 .gameplaycolor {
@@ -183,6 +242,16 @@ a:hover {
   display: inline-block;
   background-size: 481px 562px;
   background-image: url(../images/hdr_gameplay.png);
+}
+
+.image_hdr_gameplaycolor {
+  width: 278px;
+  height: 562px;
+  display: inline-block;
+  background-size: 278px 562px;
+  background-image: url(../images/hdr_gameplaycolor_2x.png);
+
+
 }
 
 @media only screen and (-webkit-device-pixel-ratio:2) {

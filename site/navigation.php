@@ -20,7 +20,7 @@ function navigation($current = "/") {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-      <a class="brand" href="/">InSeven Limited</a>
+      <a class="brand" href="/">InSeven</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
           <?php navigation_item("/apps/gameplaycolor/", "Game Play Color", $current); ?>
