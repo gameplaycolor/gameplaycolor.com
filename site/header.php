@@ -9,10 +9,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <script src="/js/jquery-2.1.3.min.js"></script>
+
     <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
-    <!-- <link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->

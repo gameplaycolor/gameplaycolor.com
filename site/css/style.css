@@ -25,22 +25,23 @@ body {
   line-height: 1;
 }
 
-.jumbotron .btn {
+.jumbotron .btn, .pay .btn {
     font-size: 21px;
     padding: 14px 24px;
     background: none;
     border: 2px solid white;
     border-radius: 8px;
     text-shadow: 0;
-    box-shadow: 0;
+    box-shadow: none;
+    color: white;
 }
 
-.jumbotron .btn:hover {
+.jumbotron .btn:hover, .pay .btn:hover {
     border: 2px solid transparent;
     background: white;
     color: #333;
     text-shadow: 0;
-    box-shadow: 0;
+    box-shadow: none;
 }
 
 .tagline a {
@@ -85,15 +86,35 @@ a:hover {
 }
 
 .sketchpad {
-  background: url('../images/bg_sketchpad.jpg') no-repeat center center fixed;
+  background: url('../images/bg_sketchpad.jpg') repeat center center fixed;
 }
 
 .tetris {
-  background: url('../images/bg_tetris.png') no-repeat center center fixed;
+  background: url('../images/bg_tetris.png') repeat center center fixed;
 }
 
 .mario {
-  background: url('../images/bg_mario.png') no-repeat bottom center fixed;
+  background: url('../images/bg_mario.png') repeat bottom center fixed;
+}
+
+.pay {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  line-height: 1.4em;
+}
+
+input.input-pay {
+  font-size: 21px;
+  padding: 14px 24px;
+  background: none;
+  border: 2px solid white;
+  border-radius: 8px;
+  text-shadow: 0;
+  box-shadow: none;
+  color: white;
+  margin: 6px;
+  width: 60px;
 }
 
 .tagline {
