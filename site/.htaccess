@@ -8,7 +8,8 @@ RewriteRule ^apps/gameplay$ /apps/gameplay/ [R]
 RewriteRule ^apps/learn$ /apps/learn/ [R]
 
 RewriteRule ^apps/$ apps.php
-RewriteRule ^apps/(.+)/$ apps_$1.php
+RewriteRule ^apps/([^/]+)/$ apps_$1.php
+RewriteRule ^apps/([^/]+)/([^/]+)/$ apps_$1_$2.php
 
 
 RewriteRule ^apps/gameplay/app$ /apps/gameplay/app/ [R]
