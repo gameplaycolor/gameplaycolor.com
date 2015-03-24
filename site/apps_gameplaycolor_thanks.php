@@ -89,7 +89,7 @@ navigation("/apps/gameplaycolor/");
   </div>
 </div>
 
-<div class="full-width sketchpad">
+<div class="full-width mario">
   <div class="container-narrow">
     <div class="row-fluid marketing">
     </div>
