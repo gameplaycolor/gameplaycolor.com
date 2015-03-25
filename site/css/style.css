@@ -351,11 +351,11 @@ input.input-pay:focus {
 }
 
 .image_hdr_gameplaycolor {
-  width: 278px;
-  height: 562px;
+  width: 329px;
+  height: 612px;
   display: inline-block;
-  background-size: 278px 562px;
-  background-image: url(../images/hdr_gameplaycolor_2x.png);
+  background-size: 329px 612px;
+  background-image: url(../images/hdr_gameplaycolor.png);
 
 
 }
@@ -364,6 +364,10 @@ input.input-pay:focus {
 
   .image_hdr_gameplay {
     background-image: url(../images/hdr_gameplay_2x.png);
+  }
+
+  .image_hdr_gameplaycolor {
+    background-image: url(../images/hdr_gameplaycolor_2x.png);
   }
 
 }
