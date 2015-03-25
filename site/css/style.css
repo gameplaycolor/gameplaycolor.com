@@ -380,10 +380,6 @@ input.input-pay:focus {
     margin-bottom: 0;
   }
 
-  .jumbotron h1 {
-    font-size: 60px;
-  }
-
 }
 
 @media (max-width: 767px) {
@@ -398,10 +394,6 @@ input.input-pay:focus {
   .navbar-static-top {
     margin-right: 0;
     margin-left: 0;
-  }
-
-  .jumbotron h1 {
-    font-size: 50px;
   }
 
 }
