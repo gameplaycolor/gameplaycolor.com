@@ -56,25 +56,6 @@ navigation("/apps/gameplaycolor/");
     <div class="row-fluid">
       <div class="span6">
         <div class="feature">
-          <h4>Offline Support</h4>
-	  <i class="feature-icon fa fa-plane fa-fw"></i>
-	  <p>Play your games wherever and whenever you want, even without signal.</p>
-          <p class="detail">Game Play makes use of the HTML 5 application cache and databases to provide complete offline support.</p>
-        </div>
-      </div>
-      <div class="span6">
-        <div class="feature">
-	        <i class="feature-icon fa fa-github fa-fw"></i>
-          <h4>Open Source</h4>
-          <p>Licensed under the GPL and available on <a href="https://github.com/jbmorley/gameplay">GitHub</a>, Game Play is open source through-and-through.</p>
-	        <p class="detail">Game Boy emulation uses the <a href="https://github.com/grantgalitz/GameBoy-Online">GameBoy-Online</a> emulator core.</p>
-        </div>
-     </div>
-    </div>
-
-    <div class="row-fluid">
-      <div class="span6">
-        <div class="feature">
           <i class="feature-icon fa fa-volume-up fa-fw"></i>
           <h4>Audio</h4>
           <p>Enjoy your games in full, rich 8-bit audio.</p>
@@ -88,6 +69,26 @@ navigation("/apps/gameplaycolor/");
         </div>
      </div>
     </div>
+
+    <div class="row-fluid">
+      <div class="span6">
+        <div class="feature">
+          <h4>Offline Support</h4>
+          <i class="feature-icon fa fa-plane fa-fw"></i>
+          <p>Play your games wherever and whenever you want, even without signal.</p>
+          <p class="detail">Game Play makes use of the HTML 5 application cache and databases to provide complete offline support.</p>
+        </div>
+      </div>
+      <div class="span6">
+        <div class="feature">
+          <i class="feature-icon fa fa-github fa-fw"></i>
+          <h4>Open Source</h4>
+          <p>Licensed under the GPL and available on <a href="https://github.com/jbmorley/gameplay">GitHub</a>, Game Play is open source through-and-through.</p>
+          <p class="detail">Game Boy emulation uses the <a href="https://github.com/grantgalitz/GameBoy-Online">GameBoy-Online</a> emulator core.</p>
+        </div>
+     </div>
+    </div>
+
 
     <div class="row-fluid">
       <div spann="span12">
