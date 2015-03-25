@@ -100,7 +100,11 @@ a:hover {
 }
 
 .mario {
-  background: url('../images/bg_mario.png') repeat center 400px;
+  background: url('../images/bg_mario.png') repeat center center;
+  height: 190px;
+  padding: 0;
+  margin: 0;
+  background-size: 1505px 190px;
 }
 
 .thanks {

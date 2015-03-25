@@ -41,7 +41,6 @@ navigation("/apps/gameplaycolor/");
           <i class="feature-icon fa fa-image fx-fw"></i>
           <h4>Beautiful Cover Art</h4>
           <p>Game Play Color automatically identifies cover art stored alongside your ROMs and shows it on beautifully rendered cartridges.</p>
-	  <p class="detail">Simply drop a JPEG or PNG file with the same name as your game into Google Drive and Game Play does the rest.</p>
         </div>
       </div>
       <div class="span6">
@@ -49,7 +48,7 @@ navigation("/apps/gameplaycolor/");
 	  <i class="feature-icon fa fa-google fa-fw"></i>
           <h4>Google Drive</h4>
           <p>Store all your Game Boy and Game Boy Color ROMs<sup>2</sup> and cover art in Google Drive.</p>
-	  <p class="detail">Adding a game to Game Play Color is as simple as dragging-and-dropping it into your Google Drive and opening the game library.</p>
+          <p class="detail">Simply dragging-and-drop your games into Google Drive.</p>
         </div>
       </div>
     </div>
