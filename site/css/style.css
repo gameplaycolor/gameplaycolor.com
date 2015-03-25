@@ -179,7 +179,7 @@ a:hover {
   line-height: 200px;
   height: 200px;
   vertical-align: middle;
-  
+
   padding: 0 10px 0 20px;
 
 }
@@ -317,7 +317,7 @@ input.input-pay:focus {
 }
 
 .color-title {
-  font-family: "Comic Sans MS";
+  font-family: "Comic Sans MS", "Marker Felt", sans-serif;
   font-weight: bold;
   letter-spacing: -8px;
 }
