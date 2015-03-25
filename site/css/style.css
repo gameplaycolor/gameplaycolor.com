@@ -92,7 +92,11 @@ a:hover {
 }
 
 .sketchpad {
-  background: url('../images/bg_sketchpad.jpg') repeat center center;
+  background: url('../images/bg_sketchpad.png') repeat left center;
+  height: 190px;
+  padding: 0;
+  margin: 0;
+  background-size: 1632px 190px;
 }
 
 .tetris {
