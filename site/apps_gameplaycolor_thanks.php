@@ -40,10 +40,6 @@ navigation("/apps/gameplaycolor/");
             }
           });
 
-          $("#pay-value").on("click", function () {
-            $(this).select();
-          });
-
           var checkValue = function() {
             var dollars = parseFloat($("#pay-value").val());
             if (isNaN(dollars)) {
