@@ -383,6 +383,14 @@ input.input-pay:focus {
     background-image: url(../images/hdr_gameplaycolor_2x.png);
   }
 
+  .gameplay {
+    background-image: url(../images/ico_gameplay_2x.png);
+  }
+
+  .gameplaycolor {
+    background-image: url(../images/ico_gameplaycolor_2x.png);
+  }
+
 }
 
 @media (max-width: 979px) {
