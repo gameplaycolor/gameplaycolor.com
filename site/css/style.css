@@ -113,9 +113,16 @@ a:hover {
   transition: 1.0s ease-in-out;
 }
 
+.thanks-description {
+  text-align: left;
+}
+
+.thanks-button {
+  text-align: right;
+}
+
 .btn-thanks {
   margin-top: 4px;
-  float: right;
 }
 
 .pay h1 {
@@ -370,8 +377,6 @@ input.input-pay:focus {
 
 }
 
-/* Bootstrap Tweaks */
-
 @media (max-width: 979px) {
 
   body {
@@ -396,6 +401,14 @@ input.input-pay:focus {
   .navbar-static-top {
     margin-right: 0;
     margin-left: 0;
+  }
+
+  .thanks-description {
+    text-align: center;
+  }
+
+  .thanks-button {
+    text-align: center;
   }
 
 }

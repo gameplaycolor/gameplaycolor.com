@@ -22,10 +22,10 @@ navigation("/apps/gameplaycolor/");
 <div class="full-width thanks texture">
   <div class="container-narrow">
     <div class="row-fluid">
-      <div class="span8">
+      <div class="span8 thanks-description">
         <p>Game Play Color is available free of charge. If you love it, consider paying something to say thanks.</p>
       </div>
-      <div class="span4">
+      <div class="span4 thanks-button">
         <a href="thanks/" class="btn btn-large btn-thanks"><i class="feature-icon fa fa-heart"></i> Say Thanks</a>
       </div>
     </div>
