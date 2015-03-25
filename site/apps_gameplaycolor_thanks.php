@@ -2,7 +2,7 @@
 
 include 'inseven.php';
 
-head("Game Play Color");
+head("Say Thanks");
 navigation("/apps/gameplaycolor/");
 
 ?>
@@ -15,8 +15,10 @@ navigation("/apps/gameplaycolor/");
         <h1 style="text-align: center;">Game Play Color</h1>
         <p>Game Play Color is available free of charge. If you love it, consider paying something to say thanks.</p>
         <form>
-          <div class="span12 pay-box">
-            <span class="pay-currency">$</span><input id="pay-value" class="input-pay" type="text" value="">
+
+          <div class="pay-box">
+            <div class="pay-currency">$</div>
+            <input id="pay-value" type="number" step="0.01" value="">
           </div>
           <div id="pay-error" class="pay-error"><p>Please enter a number</p></div>
           <div class="pay-button">

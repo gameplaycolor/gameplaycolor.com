@@ -26,7 +26,7 @@ navigation("/apps/gameplaycolor/");
         <p>Game Play Color is available free of charge. If you love it, consider paying something to say thanks.</p>
       </div>
       <div class="span4">
-        <a href="thanks/" class="btn btn-large btn-thanks"><i class="feature-icon fa fa-heart"></i> Say Thanks!</a>
+        <a href="thanks/" class="btn btn-large btn-thanks"><i class="feature-icon fa fa-heart"></i> Say Thanks</a>
       </div>
     </div>
   </div>

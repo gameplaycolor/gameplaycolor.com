@@ -146,6 +146,7 @@ a:hover {
 .btn-pay {
   color: black;
   border: 2px solid black;
+  margin-top: 30px;
 }
 
 .btn-pay:hover {
@@ -154,42 +155,59 @@ a:hover {
 }
 
 .pay-box {
-  vertical-align: middle;
-  position: relative;
-  margin: 20px 0 30px 0;
+
+  margin: 20px 0 0 0;
+
   background-color: #ddd;
   border-radius: 12px;
+  height: 200px;
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flexbox;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  width: 100%;
 }
 
 .pay-currency {
+
   opacity: 0.3;
   font-size: 140px;
   line-height: 200px;
   height: 200px;
   vertical-align: middle;
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding-left: 20px;
+  
+  padding: 0 10px 0 20px;
+
 }
 
-input.input-pay {
+#pay-value {
+
   margin: 0;
-  padding: 0;
   font-size: 140px;
   background: none;
   text-shadow: 0;
   box-shadow: none;
-  width: 400px;
   height: 200px;
   line-height: 200px;
   border: 0;
-  text-align: center;
-  display: inline-block;
   vertical-align: middle;
-  text-align: left;
-  padding-left: 100px;
-  width: 100%;
+
+  -webkit-flex-grow: 1;
+  -moz-flex-grow: 1;
+  -ms-flex-grow: 1;
+  flex-grow: 1; 
+
+  padding: 0 20px 0 0;
+}
+
+#pay-value::-webkit-outer-spin-button,
+#pay-value::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
 }
 
 input.input-pay:focus {
