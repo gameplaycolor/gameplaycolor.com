@@ -58,7 +58,7 @@ navigation("/apps/gameplaycolor/");
         <div class="feature">
           <i class="feature-icon fa fa-volume-up fa-fw"></i>
           <h4>Audio</h4>
-          <p>Enjoy your games in full, rich 8-bit audio.</p>
+          <p>Enjoy your games in full, rich, 8-bit audio.</p>
         </div>
       </div>
       <div class="span6">
@@ -76,7 +76,6 @@ navigation("/apps/gameplaycolor/");
           <h4>Offline Support</h4>
           <i class="feature-icon fa fa-plane fa-fw"></i>
           <p>Play your games wherever and whenever you want, even without signal.</p>
-          <p class="detail">Game Play makes use of the HTML 5 application cache and databases to provide complete offline support.</p>
         </div>
       </div>
       <div class="span6">
