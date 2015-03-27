@@ -85,6 +85,7 @@ navigation("/apps/gameplaycolor/");
           <h4>Open Source</h4>
           <p>Licensed under the GPL and available on <a href="https://github.com/jbmorley/gameplay">GitHub</a>, Game Play is open source through-and-through.</p>
           <p class="detail">Game Boy emulation uses the <a href="https://github.com/grantgalitz/GameBoy-Online">GameBoy-Online</a> emulator core.</p>
+          <p class="detail">See <a href="https://github.com/jbmorley/gameplay/blob/master/LICENSE.md">LICENSE</a>.
         </div>
      </div>
     </div>
