@@ -41,7 +41,7 @@ navigation("/apps/gameplaycolor/");
           <i class="feature-icon fa fa-google fa-fw"></i>
           <h4>Google Drive</h4>
           <p>Store all your Game Boy and Game Boy Color ROMs<sup>2</sup> and cover art in Google Drive.</p>
-          <p class="detail">Simply dragging-and-drop your games into Google Drive.</p>
+          <p class="detail">Simply drag-and-drop your games into Google Drive.</p>
         </div>
       </div>
       <div class="span6">
@@ -65,7 +65,7 @@ navigation("/apps/gameplaycolor/");
         <div class="feature">
           <i class="feature-icon fa fa-floppy-o fa-fw"></i>
           <h4>Saved Games</h4>
-          <p></p>
+          <p>Game Play remembers your ROM save state allowing you to continue playing where you left off.</p>
         </div>
      </div>
     </div>
