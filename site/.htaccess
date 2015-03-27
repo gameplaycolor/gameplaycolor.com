@@ -4,8 +4,11 @@ RewriteEngine On
 
 RewriteRule ^apps$ /apps/ [R]
 RewriteRule ^apps/$ / [R]
+
 RewriteRule ^apps/gameplay$ /apps/gameplay/ [R]
-RewriteRule ^apps/learn$ /apps/learn/ [R]
+
+RewriteRule ^apps/gameplaycolor$ /apps/gameplaycolor/ [R]
+RewriteRule ^apps/gameplaycolor/thanks$ /apps/gameplaycolor/thanks/ [R]
 
 RewriteRule ^apps/gameplay/app$ /apps/gameplay/app/ [R]
 RewriteRule ^apps/learn/app$ /apps/learn/app/ [R]
