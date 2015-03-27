@@ -40,8 +40,7 @@ navigation("/apps/gameplaycolor/");
         <div class="feature">
           <i class="feature-icon fa fa-google fa-fw"></i>
           <h4>Google Drive</h4>
-          <p>Store all your Game Boy and Game Boy Color ROMs<sup>2</sup> and cover art in Google Drive.</p>
-          <p class="detail">Simply drag-and-drop your games into Google Drive.</p>
+          <p>Store all your Game Boy and Game Boy Color ROMs<sup>2</sup> and cover art in Google Drive. Simply drag-and-drop your games into Google Drive.</p>
         </div>
       </div>
       <div class="span6">
