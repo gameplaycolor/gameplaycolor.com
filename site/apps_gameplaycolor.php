@@ -47,7 +47,7 @@ navigation("/apps/gameplaycolor/");
         <div class="feature">
           <i class="feature-icon fa fa-image fx-fw"></i>
           <h4>Beautiful Cover Art</h4>
-          <p>Game Play Color automatically identifies cover art stored alongside your ROMs and shows it on beautifully rendered cartridges.</p>
+          <p>Game Play Color automatically identifies cover art stored alongside your ROMs and displays it in a beautiful game library.</p>
         </div>
       </div>
     </div>
