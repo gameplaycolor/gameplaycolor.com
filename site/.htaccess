@@ -5,13 +5,12 @@ RewriteEngine On
 RewriteRule ^apps$ /apps/ [R]
 RewriteRule ^apps/$ / [R]
 
-RewriteRule ^apps/gameplay$ /apps/gameplay/ [R]
-
 RewriteRule ^apps/gameplaycolor$ /apps/gameplaycolor/ [R]
 Redirect /apps/gameplaycolor/ https://gameplaycolor.com
-
 RewriteRule ^apps/gameplaycolor/thanks$ /apps/gameplaycolor/thanks/ [R]
+Redirect /apps/gameplaycolor/thanks/ https://gameplaycolor.com/thanks/
 
+RewriteRule ^apps/gameplay$ /apps/gameplay/ [R]
 RewriteRule ^apps/gameplay/app$ /apps/gameplay/app/ [R]
 RewriteRule ^apps/learn/app$ /apps/learn/app/ [R]
 
