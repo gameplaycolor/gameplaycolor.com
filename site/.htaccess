@@ -6,9 +6,9 @@ RewriteRule ^apps$ /apps/ [R]
 RewriteRule ^apps/$ / [R]
 
 RewriteRule ^apps/gameplaycolor$ /apps/gameplaycolor/ [R]
-Redirect permanent /apps/gameplaycolor/ https://gameplaycolor.com
+Redirect permanent /apps/gameplaycolor/ https://gameplaycolor.com/
 RewriteRule ^apps/gameplaycolor/thanks$ /apps/gameplaycolor/thanks/ [R]
-Redirect permanent /apps/gameplaycolor/thanks/ https://gameplaycolor.com\/thanks
+Redirect permanent /apps/gameplaycolor/thanks/ https://gameplaycolor.com/thanks
 
 RewriteRule ^apps/gameplay$ /apps/gameplay/ [R]
 RewriteRule ^apps/gameplay/app$ /apps/gameplay/app/ [R]
