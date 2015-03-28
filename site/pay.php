@@ -2,11 +2,11 @@
 
 require_once(__DIR__ . "/../vendor/autoload.php");
 
-define("STRIPE_API_KEY", "sk_test_BQokikJOvBiI2HlWgH4olfQ2");
+define("STRIPE_API_KEY", "sk_test_0GriiXphZwqm5P3RqQqHYF7m");
 
-define("PARAMETER_STRIPE_TOKEN", "stripeToken");
+define("PARAMETER_TOKEN", "token");
 define("PARAMETER_AMOUNT", "amount");
-define("PARAMETER_EMAIL", "amount");
+define("PARAMETER_EMAIL", "email");
 
 function success() {
     print json_encode(array("success" => true));
@@ -14,6 +14,7 @@ function success() {
 }
 
 function fail($error) {
+    error_log($error);
     print json_encode(array("success" => false, "error" => $error));
     exit;
 }
@@ -25,7 +26,7 @@ function parameter($key) {
     fail("Unable to read parameter '" . $key . "'");
 }
 
-$token = parameter(PARAMETER_STRIPE_TOKEN);
+$token = parameter(PARAMETER_TOKEN);
 $amount = parameter(PARAMETER_AMOUNT);
 $email = parameter(PARAMETER_EMAIL);
 
@@ -49,8 +50,7 @@ try {
 
 } catch (Exception $e) {
 
-    error_log("Uncaught exception: " . $e);
-    fail("Uncaught exception.");
+    fail($e);
 
 }
 

@@ -28,15 +28,24 @@ navigation("/apps/gameplaycolor/");
 
         <script>
 
-        var colorIndex = 0;
+        var amount = 0;
 
         $(document).ready(function() {
 
           var handler = StripeCheckout.configure({
             key: 'pk_test_aeBNlZkIpwgR77CpOhC2zcAt',
+            allowRememberMe: false,
             token: function(token) {
-              // Use the token to create the charge with a server-side script.
-              // You can access the token ID with `token.id`
+              $.post(
+                "/pay.php",
+                { token: token.id, email: token.email, amount: amount },
+                function(result) {
+                  console.log(result)
+                },
+                "json"
+              ).fail(function() {
+                console.log("Failed :(");
+              })
             }
           });
 
@@ -63,10 +72,10 @@ navigation("/apps/gameplaycolor/");
               return;
             }
 
-            var cents = dollars * 100;
+            amount = dollars * 100;
             handler.open({
               name: 'Game Play Color',
-              amount: cents
+              amount: amount
             });
 
           });
