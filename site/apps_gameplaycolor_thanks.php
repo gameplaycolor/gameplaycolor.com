@@ -32,6 +32,10 @@ navigation("/apps/gameplaycolor/");
             <p class="pay-failure-message">Awww&hellip;<br />That didn't work.</p>
             <p class="pay-footnote">(Don't worry. You've not been charged.)</p>
           </div>
+          <div id="pay-declined" class="pay-failure">
+            <p class="pay-failure-message">Sorry.<br />Your card was declined.</p>
+            <p class="pay-footnote">(Don't worry. You've not been charged.)</p>
+          </div>
         </div>
         <p>* We do not store any personal information and will never send you any unsolicited correspondence.</p>
 
@@ -59,6 +63,11 @@ navigation("/apps/gameplaycolor/");
           $('#pay-failure').show();
         }
 
+        function showDeclined() {
+          spinner.stop();
+          $('#pay-declined').show();
+        }
+
         $(document).ready(function() {
 
           var handler = StripeCheckout.configure({
@@ -72,8 +81,10 @@ navigation("/apps/gameplaycolor/");
                 "/pay.php",
                 { token: token.id, email: token.email, amount: amount },
                 function(result) {
-                  if (result.success) {
+                  if (result.success == 0) {
                     showSuccess();
+                  } else if (result.success == 1) {
+                    showDeclined();
                   } else {
                     showFailure();
                   }

@@ -138,11 +138,11 @@ a:hover {
   position: relative;
 }
 
-#pay-success, #pay-failure {
+#pay-success, #pay-failure, #pay-declined {
   display: none;
 }
 
-.pay-success, .pay-failure {
+.pay-success, .pay-failure, .pay-declined {
   text-align: center;
 }
 

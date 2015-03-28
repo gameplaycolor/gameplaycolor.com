@@ -9,13 +9,19 @@ define("PARAMETER_AMOUNT", "amount");
 define("PARAMETER_EMAIL", "email");
 
 function success() {
-    print json_encode(array("success" => true));
+    print json_encode(array("success" => 0));
+    exit;
+}
+
+function declined() {
+    error_log("The card was declined.");
+    print json_encode(array("success" => 1));
     exit;
 }
 
 function fail($error) {
     error_log($error);
-    print json_encode(array("success" => false, "error" => $error));
+    print json_encode(array("success" => 2, "error" => $error));
     exit;
 }
 
@@ -46,7 +52,7 @@ try {
 
 } catch(\Stripe\Error\Card $e) {
 
-    fail("The card was declined.");
+    declined();
 
 } catch (Exception $e) {
 
