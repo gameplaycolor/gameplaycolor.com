@@ -133,6 +133,23 @@ a:hover {
   margin-top: 4px;
 }
 
+.pay-container {
+  min-height: 380px;
+  position: relative;
+}
+
+#pay-success {
+  display: none;
+}
+
+#pay-failure {
+  display: none;
+}
+
+.pay-success, .pay-failure {
+  text-align: center;
+}
+
 .pay h1 {
   font-size: 72px;
   line-height: 1;
@@ -143,6 +160,17 @@ a:hover {
   font-size: 1.16em;
   padding-top: 20px;
   color: #888;
+}
+
+p.pay-success-message, p.pay-failure-message {
+  color: green;
+  font-size: 68px;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+
+p.pay-failure-message {
+  color: #990033;
 }
 
 .pay-button {
