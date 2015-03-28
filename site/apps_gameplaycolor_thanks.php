@@ -13,7 +13,7 @@ navigation("/apps/gameplaycolor/");
       <div class="span12">
 
         <h1 style="text-align: center;">Game Play Color</h1>
-        <p>Game Play Color is available free of charge. If you love it, consider paying something to say thanks.</p>
+        <p>Game Play Color is available free of charge. If you love it, consider paying something to say thanks*.</p>
         <div id="pay-container" class="pay-container">
           <form id="pay-form">
             <div class="pay-box">
@@ -33,6 +33,7 @@ navigation("/apps/gameplaycolor/");
             <p class="pay-footnote">(Don't worry. You've not been charged.)</p>
           </div>
         </div>
+        <p>* We do not store any personal information and will never send you any unsolicited correspondence.</p>
 
         <script>
 
