@@ -50,6 +50,8 @@ try {
         "currency" => "usd",
         "source" => $token,
         "description" => "Game Play Color",
+        "statement_descriptor" => "INSEVEN LTD. GAME PLAY",
+        "receipt_email" => $email,
         "metadata" => array("email" => $email)
     ));
 
