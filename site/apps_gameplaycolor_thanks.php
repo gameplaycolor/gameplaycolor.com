@@ -34,7 +34,7 @@ navigation("/apps/gameplaycolor/");
           </div>
           <div id="pay-declined" class="pay-failure">
             <p class="pay-failure-message">Sorry.<br />Your card was declined.</p>
-            <p class="pay-footnote">(Don't worry. You've not been charged.)</p>
+            <p class="pay-footnote">Please contact your card issuer.</p>
           </div>
         </div>
         <p>* We do not store any personal information and will never send you any unsolicited correspondence.</p>
