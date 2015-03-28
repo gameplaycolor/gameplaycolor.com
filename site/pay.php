@@ -11,28 +11,19 @@ define("PARAMETER_STRIPE_TOKEN", "stripeToken");
 define("PARAMETER_AMOUNT", "amount");
 define("PARAMETER_EMAIL", "amount");
 
-function terminate($error = NULL) {
-    if (isset($error)) {
-        print json_encode(array("success" => false, "error" => $error));
-    } else {
-        print json_encode(array("success" => true));
-    }
+function success() {
+    print json_encode(array("success" => true));
     exit;
 }
 
-function success() {
-    terminate();
-}
-
 function fail($error) {
-    terminate($error);
+    print json_encode(array("success" => false, "error" => $error));
+    exit;
 }
 
 function parameter($key) {
     if (array_key_exists($key, $_POST)) {
         return $_POST[$key];
-    } else if (array_key_exists($key, $_GET)) {
-        return $_GET[$key];
     }
     fail("Unable to read parameter '" . $key . "'");
 }
