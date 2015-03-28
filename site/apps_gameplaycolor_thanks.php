@@ -61,7 +61,7 @@ navigation("/apps/gameplaycolor/");
         $(document).ready(function() {
 
           var handler = StripeCheckout.configure({
-            key: 'pk_test_aeBNlZkIpwgR77CpOhC2zcAt',
+            key: 'pk_live_Hhu9TMyex0TCTQv5Fbwpkir8',
             allowRememberMe: false,
             token: function(token) {
 

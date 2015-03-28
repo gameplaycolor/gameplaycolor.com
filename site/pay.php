@@ -2,7 +2,7 @@
 
 require_once(__DIR__ . "/../vendor/autoload.php");
 
-define("STRIPE_API_KEY", "sk_test_0GriiXphZwqm5P3RqQqHYF7m");
+define("STRIPE_API_KEY", "sk_live_nhAk4w4uC8pgwHZxPIvwB9ac");
 
 define("PARAMETER_TOKEN", "token");
 define("PARAMETER_AMOUNT", "amount");
