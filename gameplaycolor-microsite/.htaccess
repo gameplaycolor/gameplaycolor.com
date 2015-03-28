@@ -1,0 +1,7 @@
+ErrorDocument 404 /404.php
+
+RewriteEngine On
+
+RewriteRule ^apps/gameplaycolor$ /apps/gameplaycolor/ [R]
+RewriteRule ^thanks$ /thanks/ [R]
+RewriteRule ^thanks/$ thanks.php
