@@ -23,7 +23,7 @@ function navigation($current = "/") {
       <a class="brand" href="/">InSeven</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
-          <!-- <?php navigation_item("/apps/gameplaycolor/", "Game Play Color", $current); ?> -->
+          <?php navigation_item("/apps/gameplaycolor/", "Game Play Color", $current); ?>
           <?php navigation_item("/apps/gameplay/", "Game Play", $current); ?>
         </ul>
       </div><!--/.nav-collapse -->
