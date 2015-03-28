@@ -26,7 +26,7 @@ navigation("/apps/gameplaycolor/");
             </div>
           </form>
           <div id="pay-success" class="pay-success">
-            <p class="pay-success-message">Thanks!<br />You're Awesome.</p>
+            <p class="pay-success-message">Thanks.<br />You're Awesome!</p>
           </div>
           <div id="pay-failure" class="pay-failure">
             <p class="pay-failure-message">Awww&hellip;<br />That didn't work.</p>
