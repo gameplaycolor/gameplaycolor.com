@@ -19,7 +19,7 @@
         <div class="span2"></div>
         <div class="span4">
           <div class="icon lead tagline">
-            <a href="/apps/gameplaycolor/"><div class="appicon gameplaycolor"></div></a><br/>
+            <a href="//gameplaycolor.com/"><div class="appicon gameplaycolor"></div></a><br/>
       	    <p class="bright">Game Play Color</p>
           </div>
         </div>
@@ -43,7 +43,7 @@
         <div class="feature">
           <i class="feature-icon fa fa-heart"></i>
           <h4 id="great-apps">Great Apps</h4>
-          <p>InSeven Limited build great apps like <a href="apps/gameplaycolor/">Game Play Color</a> and <a href="apps/gameplay/">Game Play</a>.</p>
+          <p>InSeven Limited build great apps like <a href="//gameplaycolor.com/">Game Play Color</a> and <a href="apps/gameplay/">Game Play</a>.</p>
           <p>Sign up to our <a href="#mailing-list">mailing list</a> to find out about future releases.</p>
         </div>
       </div>
