@@ -4,7 +4,7 @@
   require_once(__DIR__ . '/../common/inseven.php');
 
   head("Game Play");
-  navigation("/apps/gameplay/");
+  navigation("https://inseven.co.uk/apps/gameplay/");
 
 ?>
 
