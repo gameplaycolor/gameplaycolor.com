@@ -1,6 +1,6 @@
 <?php
 
-  include 'inseven.php';
+  include '../common/inseven.php';
 
   head("Not Found");
   navigation("404");

@@ -1,6 +1,6 @@
 <?php
 
-include 'inseven.php';
+include '../common/inseven.php';
 
 head("Say Thanks");
 navigation("/apps/gameplaycolor/");

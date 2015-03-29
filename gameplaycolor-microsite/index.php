@@ -1,6 +1,6 @@
 <?php
 
-include 'inseven.php';
+include '../common/inseven.php';
 
 head("Game Play Color");
 navigation("/");
