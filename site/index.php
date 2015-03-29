@@ -4,7 +4,7 @@
   require_once(__DIR__ . '/../common/inseven.php');
 
   head();
-  navigation();
+  navigation("https://inseven.co.uk/");
 
 ?>
 
