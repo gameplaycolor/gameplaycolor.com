@@ -14,7 +14,7 @@ navigation("/");
       <h1 class="logo">Game Play 
         <span class="color-title"><span class="pink">C</span><span class="purple">O</span><span class="lime">L</span><span class="yellow">O</span><span class="cyan">R</span></span></h1><br/>
       <p class="lead tagline">Game Boy Color<sup>1</sup> games on your iPhone and iPad.</p>
-      <a href="https://app.gameplaycolor.com/" role="button" class="btn btn-primary" onclick="_gaq.push(['_trackEvent', 'Play Now', 'clicked']);">Play Now</a>
+      <a href="app/" role="button" class="btn btn-primary" onclick="_gaq.push(['_trackEvent', 'Play Now', 'clicked']);">Play Now</a>
     </div>
   </div>
 </div>
