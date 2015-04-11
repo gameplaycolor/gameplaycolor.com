@@ -122,7 +122,7 @@ navigation("/apps/gameplaycolor/");
 
             amount = dollars * 100;
             handler.open({
-              name: 'Game Play Color',
+              name: 'InSeven Limited',
               amount: amount
             });
 
