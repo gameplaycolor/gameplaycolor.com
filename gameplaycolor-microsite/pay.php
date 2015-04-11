@@ -44,8 +44,8 @@ try {
         "amount" => $amount,
         "currency" => "usd",
         "source" => $token,
-        "description" => "Game Play Color",
-        "statement_descriptor" => "INSEVEN LTD. GAME PLAY",
+        "description" => "InSeven Limited Thanks",
+        "statement_descriptor" => "INSEVEN LIMITED THANKS",
         "receipt_email" => $email,
         "metadata" => array("email" => $email)
     ));
