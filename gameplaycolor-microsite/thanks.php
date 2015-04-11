@@ -13,8 +13,8 @@ navigation("/apps/gameplaycolor/");
     <div class="row-fluid">
       <div class="span12">
 
-        <h1 style="text-align: center;">Game Play Color</h1>
-        <p>Game Play Color is available free of charge. If you love it, consider paying something to say thanks*.</p>
+        <h1 style="text-align: center;">Say Thanks</h1>
+        <p>Our software is available free of charge. If you love it, consider paying something to say thanks*.</p>
         <div id="pay-container" class="pay-container">
           <form id="pay-form">
             <div class="pay-box">
