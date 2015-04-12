@@ -28,10 +28,10 @@ navigation("https://gameplaycolor.com/");
           <li><a href="#multiplayer">Are there any plans to add <em>multiplayer</em> and <em>link cable</em> support?</a></li>
         </ol>
         <hr />
-        <h2><a id="devices"></a>Additional Device Support</h2>
+        <h3><a id="devices"></a>Additional Device Support</h3>
         <p>We're received a lot of requests for <em>Game Boy Advance</em> and <em>Nintendo DS</em> support in Game Play Color. While we've got our hands full at the moment supporting the current feature set of Game Play Color, it's something we'll certainly consider for future products and releases.</p>
         <hr />
-        <h2><a id="multiplayer"></a>Multiplayer / Link Cable Support</h2>
+        <h3><a id="multiplayer"></a>Multiplayer / Link Cable Support</h3>
         <p>We'd absolutely love to add this feature but we're fairly limited by the environment provided to web apps today (there's no support for peer-to-peer networking). When the appropriate technologies become available, we'll be sure to look again.</p>
         <p>
       </div>
