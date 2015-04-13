@@ -24,9 +24,13 @@ navigation("https://gameplaycolor.com/");
 
         <h2>FAQ</h2>
         <ol>
+          <li><a href="#games">Where can I download games?</a></li>
           <li><a href="#devices">Are there any plans to add <em>Game Boy Advance</em> or <em>Nintendo DS</em> support?</a></li>
           <li><a href="#multiplayer">Are there any plans to add <em>multiplayer</em> and <em>link cable</em> support?</a></li>
         </ol>
+        <hr />
+        <h3><a id="games"></a>Downloading Games</h3>
+        <p>While we cannot officially recommend any single site for downloading <em>Game Boy</em> and <em>Game Boy Color</em> ROMs, we suggest using <em>Google</em> to search for ROMs by title<sup> 2</sup>.</p>
         <hr />
         <h3><a id="devices"></a>Additional Device Support</h3>
         <p>We're received a lot of requests for <em>Game Boy Advance</em> and <em>Nintendo DS</em> support in Game Play Color. While we've got our hands full at the moment supporting the current feature set of Game Play Color, it's something we'll certainly consider for future products and releases.</p>
