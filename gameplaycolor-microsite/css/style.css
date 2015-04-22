@@ -397,6 +397,26 @@ input.input-pay:focus {
   background-image: url(../images/hdr_gameplaycolor.png);
 }
 
+.container-faq h3 {
+  padding-top: 36px;
+}
+
+.container-faq p {
+  padding-top: 0;
+  color: #000;
+  line-height: 1.6em;
+}
+
+.container-faq li {
+  line-height: 1.4em;
+  padding-top: 8px;
+  font-size: 1.06em;
+}
+
+.container-faq img {
+  padding: 8px 0;
+}
+
 @media only screen and (-webkit-device-pixel-ratio:2) {
 
   .image_hdr_gameplay {
