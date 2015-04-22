@@ -50,7 +50,8 @@ navigation("https://gameplaycolor.com/");
         <hr />
         <a id="devices">
         <h3></a>Additional Device Support</h3>
-        <p>We're received a lot of requests for <em>Game Boy Advance</em> and <em>Nintendo DS</em> support in Game Play Color. While we've got our hands full at the moment supporting the current feature set of Game Play Color, it's something we'll certainly consider for future products and releases.</p>
+        <p>We're received a lot of requests for <em>Game Boy Advance</em>, <em>Nintendo DS</em> and even some for <em>Nintendo 64</em> support in Game Play Color.</p>
+        <p>We've got our hands full at the moment with the current feature set of Game Play Color but we'll certainly consider additional device support for future products and releases. Obviously we're limited to what's performs well running in JavaScript on a phone so, for example, Nintendo 64 support looks highly unlikely, while Game Boy Advance support might seem more realistic.</p>
         <hr />
         <a id="multiplayer">
         <h3></a>Multiplayer / Link Cable Support</h3>
