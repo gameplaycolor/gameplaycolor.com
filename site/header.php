@@ -1,5 +1,5 @@
 <?php
 function head($title = "") {
-    track_head($title, "UA-37991248-1");
+    track_head("InSeven", $title, "UA-37991248-1");
 }
 ?>
