@@ -20,7 +20,7 @@
         <div class="span2"></div>
         <div class="span4">
           <div class="icon lead tagline">
-            <a href="//gameplaycolor.com/"><div class="appicon gameplaycolor"></div></a><br/>
+            <a href="//gameplaycolor.com/" target="_blank"><div class="appicon gameplaycolor"></div></a><br/>
       	    <p class="bright">Game Play Color</p>
           </div>
         </div>

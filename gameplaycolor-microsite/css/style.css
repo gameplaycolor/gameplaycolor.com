@@ -339,6 +339,10 @@ input.input-pay:focus {
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
 }
 
+a.brand.active {
+  color: white;
+}
+
 .gameplaycolor {
   background-image: url(../images/ico_gameplaycolor.png);
 }
