@@ -359,6 +359,10 @@ a.brand.active {
   cursor: pointer;
 }
 
+.faq-top {
+  text-align: right;
+}
+
 .lead {
   font-size: 24px;
 }
