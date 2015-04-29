@@ -25,14 +25,20 @@ navigation("https://gameplaycolor.com/");
         <h2>FAQ</h2>
         <ol>
           <li><a href="#games">Where can I download games?</a></li>
+          <li><a href="#color">How do I change the console color?</a></li>
           <li><a href="#signout">How do I sign out of Google Drive?</a></li>
           <li><a href="#devices">Are there any plans to add <em>Game Boy Advance</em> or <em>Nintendo DS</em> support?</a></li>
           <li><a href="#multiplayer">Are there any plans to add <em>multiplayer</em> and <em>link cable</em> support?</a></li>
         </ol>
         <hr />
         <a id="games"></a>
-        <h3>Downloading Games</h3>
+        <h3>Where can I download games?</h3>
         <p>While we cannot officially recommend any single site for downloading <em>Game Boy</em> and <em>Game Boy Color</em> ROMs, we suggest using <em>Google</em> to search for ROMs by title<sup> 2</sup>.</p>
+        <hr />
+        <a id="color"></a>
+        <h3>How do I change the console color?</h3>
+        <p><img src ="/images/ss_colors.png" /></p>
+        <p>Like the original Game Boy Color, Game Play Color is available in a range of colors: simply shake your iPhone, iPod or iPad.</p>
         <hr />
         <a id="signout"></a>
         <h3>How do I sign out of Google Drive?</h3>
@@ -48,13 +54,13 @@ navigation("https://gameplaycolor.com/");
         </ol>
         <p>Next time you launch Game Play, you will be presented with the sign in screen again.</p>
         <hr />
-        <a id="devices">
-        <h3></a>Additional Device Support</h3>
+        <a id="devices"></a>
+        <h3>Are there any plans to add <em>Game Boy Advance</em> or <em>Nintendo DS</em> support?</a></h3>
         <p>We're received a lot of requests for <em>Game Boy Advance</em>, <em>Nintendo DS</em> and even some for <em>Nintendo 64</em> support in Game Play Color.</p>
         <p>We've got our hands full at the moment with the current feature set of Game Play Color but we'll certainly consider additional device support for future products and releases. Obviously we're limited to what's performs well running in JavaScript on a phone so, for example, Nintendo 64 support looks highly unlikely, while Game Boy Advance support might seem more realistic.</p>
         <hr />
-        <a id="multiplayer">
-        <h3></a>Multiplayer / Link Cable Support</h3>
+        <a id="multiplayer"></a>
+        <h3>Are there any plans to add <em>multiplayer</em> and <em>link cable</em> support?</h3>
         <p>We'd absolutely love to add this feature but we're fairly limited by the environment provided to web apps today (there's no support for peer-to-peer networking). When the appropriate technologies become available, we'll be sure to look again.</p>
       </div>
     </div>
