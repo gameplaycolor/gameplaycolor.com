@@ -8,11 +8,12 @@ navigation("/faq/");
 
 ?>
 
-<div class="full-width wood">
+<div class="full-width pay">
   <div class="container-narrow">
-    <div class="jumbotron">
-      <h1 class="logo">Game Play 
-        <span class="color-title"><span class="pink">C</span><span class="purple">O</span><span class="lime">L</span><span class="yellow">O</span><span class="cyan">R</span></span></h1><br/>
+    <div class="row-fluid">
+      <div class="span12">
+        <h1 style="text-align: center;">Frequently Asked Questions</h1>
+      </div>
     </div>
   </div>
 </div>
@@ -21,8 +22,6 @@ navigation("/faq/");
   <div class="container-narrow">
     <div class="row-fluid">
       <div class="span12 container-faq">
-
-        <h2>FAQ</h2>
         <ol>
           <li><a href="#games">Where can I download games?</a></li>
           <li><a href="#color">How do I change the console color?</a></li>
