@@ -24,6 +24,7 @@ navigation("/faq/");
       <div class="span12 container-faq">
         <ol>
           <li><a href="#games">Where can I download games?</a></li>
+          <li><a href="#add">How do I add games to Game Play Color?</a></li>
           <li><a href="#color">How do I change the console color?</a></li>
           <li><a href="#signout">How do I sign out of Google Drive?</a></li>
           <li><a href="#devices">Are there any plans to add Game Boy Advance or Nintendo DS support?</a></li>
@@ -33,6 +34,32 @@ navigation("/faq/");
         <a id="games"></a>
         <h3>Where can I download games?</h3>
         <p>While we cannot officially recommend any single site for downloading Game Boy and Game Boy Color ROMs, we suggest using <a href="https://google.com" target="_blank">Google</a> to search for ROMs by title<sup> <a href="#2">2</a></sup>.</p>
+        <hr />
+        <a id="add"></a>
+        <h3>How do I add games to Game Play Color?</h3>
+        <p>You can add games to Game Play Color by one of two mechanisms:</p>
+        <ol>
+          <li>
+            <p><strong>Using a Mac or PC</strong></p>
+            <ol type="i">
+              <li><a href="#games">Download</a> or create an image of the ROM you wish to play.<br /><img src="/images/ss_add_download.png" width="855px" height="522px"></img></li>
+              <li>If the ROM is compressed (usually indicated by a <strong>.zip</strong> extension) double-click it to extract it. This should leave you with a <strong>.gb</strong> or <strong>.gbc</strong> file.<br /><img src="/images/ss_add_extract.png" width="855px" height="522px"></img></li>
+              <li>Sign into <a href="https://drive.google.com" target="_blank">Google Drive</a> on your Mac or PC.<br /><img src="/images/ss_add_drive.png" width="855px" height="522px"></img></li>
+              <li>Drag-and-drop your downloaded ROM (<strong>Shantae.gbc</strong> in our example) into Google Drive.<br /><img src="/images/ss_add_upload.png" width="855px" height="522px"></li>
+              <li>Google Drive should show a progress bar during the upload and a message when it has completed (e.g. <strong>Shantae.gbc has been uploaded to Games</strong> in our example).<br /><img src="/images/ss_add_complete.png" width="855px" height="522px"></li>
+              <li>Launch Game Play Color on your iOS device by tapping the <strong>Game Play</strong> icon on your home screen. Sign into Google Drive if prompted.</li>
+              <li>Show the game picker by tapping on the emulator screen. Your newly uploaded game should now available in your game library.<br /><img src="/images/ss_add_library_new.png" width="375px" height="667px"></li>
+              <li>Tap the game once to start downloading. A spinner will appear to indicate that the download is in progress.<br /><img src="/images/ss_add_library_download.png" width="375px" height="667px"></li>
+              <li>The game will change colour and the spinner will disappear when the download is complete and the game is ready to play.<br /><img src="/images/ss_add_library_downloaded.png" width="375px" height="667px"></li>
+              <li>Tap the game to again to start playing.<br /><img src="/images/ss_add_play.png" width="375px" height="667px"></li>
+            </ol>
+          </li>
+          <li>
+            <p><strong>Using your iPhone, iPod or iPad</strong></p>
+            <p>The great guys over at <a href="https://www.youtube.com/channel/UCrSGNNsPxE-qsqoqnkFZHBg" target="_blank">OPERATIONiDROID</a> and <a href="http://iemulators.com" target="_blank">iEmulators</a> have produced a video explaining one of the many techniques available for getting ROMs into Game Play Color using just your iOS device:</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Eoaq6HVvxY0" frameborder="0" allowfullscreen></iframe>
+          </li>
+        </ol>
         <hr />
         <a id="color"></a>
         <h3>How do I change the console color?</h3>
