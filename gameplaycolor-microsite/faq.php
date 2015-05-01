@@ -25,6 +25,7 @@ navigation("/faq/");
         <ol>
           <li><a href="#games">Where can I download games?</a></li>
           <li><a href="#add">How do I add games to Game Play Color?</a></li>
+          <li><a href="#artwork">How do I add artwork to Game Play Color?</a></li>
           <li><a href="#color">How do I change the console color?</a></li>
           <li><a href="#signout">How do I sign out of Google Drive?</a></li>
           <li><a href="#devices">Are there any plans to add Game Boy Advance or Nintendo DS support?</a></li>
@@ -61,6 +62,20 @@ navigation("/faq/");
             <p>The great guys over at <a href="https://www.youtube.com/channel/UCrSGNNsPxE-qsqoqnkFZHBg" target="_blank">OPERATIONiDROID</a> and <a href="http://iemulators.com" target="_blank">iEmulators</a> have produced a video explaining one of the many techniques available for getting ROMs into Game Play Color using just your iOS device:</p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/Eoaq6HVvxY0" frameborder="0" allowfullscreen></iframe>
           </li>
+        </ol>
+        <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
+        <hr />
+
+        <a id="artwork"></a>
+        <h3>How do I add artwork to Game Play Color?</h3>
+        <ol>
+          <li>Add some ROMs to Game Play Color as described <a href="#add">above</a>.</li>
+          <li>Download a <strong>JPEG</strong> (.jpg) of the cover art for your ROM you wish to add artwork to.<br /><img src="/images/ss_artwork_download.png" width="855px" height="522px"></img></li>
+          <li>Rename the file to match the name of the ROM.<br />In our example, our ROM file is entitield <strong>Shantae.gbc</strong>, so we rename the artwork to <strong>Shantae.jpg</strong>.<br /><img src="/images/ss_artwork_rename.png" width="855px" height="522px"></img></li>
+          <li>Sign in to <a href="https://drive.google.com" target="_blank">Google Drive</a>.</li>
+          <li>Drag-and-drop the artwork file into Google Drive.<br /><img src="/images/ss_artwork_upload.png" width="855px" height="522px"></li>
+          <li>Google Drive should show a progress bar during the upload and a message when it has completed (e.g. <strong>Shantae.jpg has been uploaded to Games</strong> in our example).<br /><img src="/images/ss_artwork_uploaded.png" width="855px" height="522px"></li>
+          <li>Launch Game Play Color on your iOS device and show the game library by tapping on the emulator screen. After a few moments, your ROM should display the game artwork.<br /><img src="/images/ss_artwork_complete.png" width="375px" height="667px"></li>
         </ol>
         <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
         <hr />
