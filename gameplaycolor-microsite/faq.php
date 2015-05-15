@@ -27,6 +27,9 @@ navigation("/faq/");
           <li><a href="#add">How do I add games to Game Play Color?</a></li>
           <li><a href="#artwork">How do I add artwork to Game Play Color?</a></li>
           <li><a href="#color">How do I change the console color?</a></li>
+          <li><a href="#save">Can I save games with Game Play Color?</a></li>
+          <li><a href="#snapshots">Does Game Play Color support .sav files?</a></li>
+          <li><a href="#sync">Can I share saved games across my devices?</a></li>
           <li><a href="#signout">How do I sign out of Google Drive?</a></li>
           <li><a href="#devices">Are there any plans to add Game Boy Advance or Nintendo DS support?</a></li>
           <li><a href="#multiplayer">Are there any plans to add multiplayer and link cable support?</a></li>
@@ -84,6 +87,28 @@ navigation("/faq/");
         <h3>How do I change the console color?</h3>
         <p><img src ="/images/ss_colors.png" /></p>
         <p>Like the original Game Boy Color, Game Play Color is available in a range of colors: simply shake your iPhone, iPod or iPad.</p>
+        <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
+        <hr />
+
+        <a id="save"></a>
+        <h3>Can I save games with Game Play Color?</h3>
+        <p>Yes. Game Play Color supports saving games as implemented in the original ROMs. Simply save each game as you would on an original Game Boy or Game Boy Color.</p>
+        <p><em>For example, to save your game in <strong>Pokémon</strong>, tap <strong>Select</strong> during game-play, select <strong>SAVE</strong> from the menu, then choose <strong>YES</strong> to save.</em></p>
+        <p>Note: Saved games are currently stored on the device and are not backed up to Google Drive. Removing Game Play Color from your home screen will delete your saved games. We're exploring saving game state on Google Drive in future updates.</p>
+        <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
+        <hr />
+
+        <a id="snapshots"></a>
+        <h3>Does Game Play Color support .sav files?</h3>
+        <p>Many emulators offer a way to snapshot the emulator state and store this as a .sav file. While Game Play Color <a href="#save">supports saving games</a>, save state is stored locally on each device and there is currently no support for saving or loading snapshots.</p>
+        <p>We've have had a lot of requests for this feature and it's something we're exploring for future updates to Game Play Color.</p>
+        <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
+        <hr />
+
+        <a id="sync"></a>
+        <h3>Can I share saved games across my devices?</h3>
+        <p>Saved games are currently stored per-device and are not synchronzied with Google Drive. This means it is not currently possible to share saved games across devices.</p>
+        <p>We've have had a number of requests for this feature and it's something we're exploring for future updates to Game Play Color.</p>
         <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
         <hr />
 
