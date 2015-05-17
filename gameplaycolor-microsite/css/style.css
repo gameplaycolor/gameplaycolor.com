@@ -430,6 +430,15 @@ a.brand.active {
   padding: 8px 0;
 }
 
+a.permalink {
+  font-weight: normal;
+  color: #ddd;
+}
+
+a.permalink:hover {
+  color: rgb(51, 51, 51);
+}
+
 @media only screen and (-webkit-device-pixel-ratio:2) {
 
   .image_hdr_gameplay {

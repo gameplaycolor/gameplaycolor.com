@@ -36,13 +36,13 @@ navigation("/faq/");
         </ol>
         <hr />
         <a id="games"></a>
-        <h3>Where can I download games?</h3>
+        <h3>Where can I download games? <a class="permalink" href="#games">∞</a></h3>
         <p>While we cannot officially recommend any single site for downloading Game Boy and Game Boy Color ROMs, we suggest using <a href="https://google.com" target="_blank">Google</a> to search for ROMs by title<sup> <a href="#2">2</a></sup>.</p>
         <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
         <hr />
 
         <a id="add"></a>
-        <h3>How do I add games to Game Play Color?</h3>
+        <h3>How do I add games to Game Play Color? <a class="permalink" href="#add">∞</a></h3>
         <p>You can add games to Game Play Color by one of two mechanisms:</p>
         <ol>
           <li>
@@ -70,7 +70,7 @@ navigation("/faq/");
         <hr />
 
         <a id="artwork"></a>
-        <h3>How do I add artwork to Game Play Color?</h3>
+        <h3>How do I add artwork to Game Play Color? <a class="permalink" href="#artwork">∞</a></h3>
         <ol>
           <li>Add some ROMs to Game Play Color as described <a href="#add">above</a>.</li>
           <li>Download a <strong>JPEG</strong> (.jpg) of the cover art for your ROM you wish to add artwork to.<br /><img src="/images/ss_artwork_download.png" width="855px" height="522px"></img></li>
@@ -84,14 +84,14 @@ navigation("/faq/");
         <hr />
 
         <a id="color"></a>
-        <h3>How do I change the console color?</h3>
+        <h3>How do I change the console color? <a class="permalink" href="#color">∞</a></h3>
         <p><img src ="/images/ss_colors.png" /></p>
         <p>Like the original Game Boy Color, Game Play Color is available in a range of colors: simply shake your iPhone, iPod or iPad.</p>
         <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
         <hr />
 
         <a id="save"></a>
-        <h3>Can I save games with Game Play Color?</h3>
+        <h3>Can I save games with Game Play Color? <a class="permalink" href="#save">∞</a></h3>
         <p>Yes. Game Play Color supports saving games as implemented in the original ROMs. Simply save each game as you would on an original Game Boy or Game Boy Color.</p>
         <p><em>For example, to save your game in <strong>Pokémon</strong>, tap <strong>Select</strong> during game-play, select <strong>SAVE</strong> from the menu, then choose <strong>YES</strong> to save.</em></p>
         <p>Note: Saved games are currently stored on the device and are not backed up to Google Drive. Removing Game Play Color from your home screen will delete your saved games. We're exploring saving game state on Google Drive in future updates.</p>
@@ -99,21 +99,21 @@ navigation("/faq/");
         <hr />
 
         <a id="snapshots"></a>
-        <h3>Does Game Play Color support .sav files?</h3>
+        <h3>Does Game Play Color support .sav files? <a class="permalink" href="#snapshots">∞</a></h3>
         <p>Many emulators offer a way to snapshot the emulator state and store this as a .sav file. While Game Play Color <a href="#save">supports saving games</a>, save state is stored locally on each device and there is currently no support for saving or loading snapshots.</p>
         <p>We've have had a lot of requests for this feature and it's something we're exploring for future updates to Game Play Color.</p>
         <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
         <hr />
 
         <a id="sync"></a>
-        <h3>Can I share saved games across my devices?</h3>
+        <h3>Can I share saved games across my devices? <a class="permalink" href="#sync">∞</a></h3>
         <p>Saved games are currently stored per-device and are not synchronzied with Google Drive. This means it is not currently possible to share saved games across devices.</p>
         <p>We've have had a number of requests for this feature and it's something we're exploring for future updates to Game Play Color.</p>
         <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
         <hr />
 
         <a id="signout"></a>
-        <h3>How do I sign out of Google Drive?</h3>
+        <h3>How do I sign out of Google Drive? <a class="permalink" href="#signout">∞</a></h3>
         <p>It's not currently possible to sign out of Google Drive in-app (<a href="https://github.com/jbmorley/gameplay/issues/20">issue #20</a>).</p>
         <p>Instead, you can sign out using the Google Drive website:</p>
         <ol>
@@ -129,14 +129,14 @@ navigation("/faq/");
         <hr />
 
         <a id="devices"></a>
-        <h3>Are there any plans to add Game Boy Advance or Nintendo DS support?</a></h3>
+        <h3>Are there any plans to add Game Boy Advance or Nintendo DS support? <a class="permalink" href="#devices">∞</a></a></h3>
         <p>We're received a lot of requests for Game Boy Advance, Nintendo DS and even some for Nintendo 64 support in Game Play Color.</p>
         <p>We've got our hands full at the moment with the current feature set of Game Play Color but we'll certainly consider additional device support for future products and releases. Obviously we're limited to what's performs well running in JavaScript on a phone so, for example, Nintendo 64 support looks highly unlikely, while Game Boy Advance support might seem more realistic.</p>
         <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
         <hr />
 
         <a id="multiplayer"></a>
-        <h3>Are there any plans to add multiplayer and link cable support?</h3>
+        <h3>Are there any plans to add multiplayer and link cable support? <a class="permalink" href="#multiplayer">∞</a></h3>
         <p>We'd absolutely love to add this feature but we're fairly limited by the environment provided to web apps today (there's no support for peer-to-peer networking). When the appropriate technologies become available, we'll be sure to look again.</p>
         <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
