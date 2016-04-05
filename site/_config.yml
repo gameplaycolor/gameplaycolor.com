@@ -7,8 +7,6 @@ url: "https://inseven.co.uk"
 navigation:
   - text: "FAQ"
     url: "/faq/"
-  - text: "Say Thanks"
-    url: "/thanks/"
   - text: "&#x2192; InSeven Limited"
     url: "https://inseven.co.uk/"
     target: "_blank"

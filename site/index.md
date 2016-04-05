@@ -15,19 +15,6 @@ artwork: mario
   </div>
 </div>
 
-<div class="full-width thanks texture">
-  <div class="container-narrow">
-    <div class="row-fluid">
-      <div class="span8 thanks-description">
-        <p>Game Play Color is available free of charge. If you love it, consider paying something to say thanks.</p>
-      </div>
-      <div class="span4 thanks-button">
-        <a href="thanks/" class="btn btn-large btn-thanks"><i class="feature-icon fa fa-heart"></i> Say Thanks</a>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="container-narrow">
 
   <div class="features">
@@ -62,10 +49,11 @@ artwork: mario
           <h4>Saved Games</h4>
           <p>Game Play remembers your ROM save state allowing you to continue playing where you left off.</p>
         </div>
-     </div>
+      </div>
     </div>
 
     <div class="row-fluid">
+
       <div class="span6">
         <div class="feature">
           <h4>Offline Support</h4>
@@ -73,21 +61,25 @@ artwork: mario
           <p>Play your games wherever and whenever you want, even without signal.</p>
         </div>
       </div>
+
       <div class="span6">
         <div class="feature">
           <i class="feature-icon fa fa-github fa-fw"></i>
           <h4>Open Source</h4>
           <p>Licensed under the GPL and available on <a href="https://github.com/jbmorley/gameplay">GitHub</a>, Game Play is open source through-and-through.</p>
           <p class="detail">Game Boy emulation uses the <a href="https://github.com/grantgalitz/GameBoy-Online">GameBoy-Online</a> emulator core.</p>
-          <p class="detail">See <a href="https://github.com/jbmorley/gameplay/blob/master/LICENSE.md">LICENSE</a>.
+          <p class="detail">See <a href="https://github.com/jbmorley/gameplay/blob/master/LICENSE.md">LICENSE</a>.</p>
         </div>
-     </div>
+      </div>
+
     </div>
+
   </div>
 
   <hr />
+
   <div class="row-fluid">
-    <div spann="span12">
+    <div class="span12">
       <ol>
         <li><a id="1"></a>Game Boy and Game Boy Color are trademarks of Nintendo Co., Ltd.. All rights reserved.</li>
         <li><a id="2"></a>Downloading copied ROMs is illegal: only use images you have created from ROMs you own yourself.</li>
