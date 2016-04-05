@@ -10,10 +10,9 @@ title: Frequently Asked Questions
 4. [How do I change the console color?](#color)
 5. [Can I save games with Game Play Color?](#save)
 6. [Does Game Play Color support .sav files?](#snapshots)
-7. [Can I share saved games across my devices?](#sync)
-8. [How do I sign out of Google Drive?](#signout)
-9. [Are there any plans to add Game Boy Advance or Nintendo DS support?](#devices)
-10. [Are there any plans to add multiplayer and link cable support?](#multiplayer)
+7. [How do I sign out of Google Drive?](#signout)
+8. [Are there any plans to add Game Boy Advance or Nintendo DS support?](#devices)
+9. [Are there any plans to add multiplayer and link cable support?](#multiplayer)
 
 ---
 
@@ -92,13 +91,6 @@ _Please remember that downloading copied ROMs is illegal: only use images you ha
 <h3>Does Game Play Color support .sav files? <a class="permalink" href="#snapshots">∞</a></h3>
 <p>Many emulators offer a way to snapshot the emulator state and store this as a .sav file. While Game Play Color <a href="#save">supports saving games</a>, save state is stored locally on each device and there is currently no support for saving or loading snapshots.</p>
 <p>We've have had a lot of requests for this feature and it's something we're exploring for future updates to Game Play Color.</p>
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
-<hr />
-
-<a id="sync"></a>
-<h3>Can I share saved games across my devices? <a class="permalink" href="#sync">∞</a></h3>
-<p>Saved games are currently stored per-device and are not synchronzied with Google Drive. This means it is not currently possible to share saved games across devices.</p>
-<p>We've have had a number of requests for this feature and it's something we're exploring for future updates to Game Play Color.</p>
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
 <hr />
 
