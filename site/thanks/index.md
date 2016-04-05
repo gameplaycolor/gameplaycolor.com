@@ -1,6 +1,7 @@
 ---
 layout: page
 artwork: mario
+title: Say Thanks
 ---
 
 <div class="full-width pay">
