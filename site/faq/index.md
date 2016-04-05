@@ -32,7 +32,8 @@ _Please remember that downloading copied ROMs is illegal: only use images for RO
 
 ### How do I add games to Game Play Color? <a class="permalink" href="#add">∞</a>
 
-<p>You can add games to Game Play Color by one of two mechanisms:</p>
+You can add games to Game Play Color by one of two mechanisms:
+
 <ol>
   <li>
     <p><strong>Using a Mac or PC</strong></p>

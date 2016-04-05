@@ -6,18 +6,24 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-      <a class="brand" href="/">{{ site.title }}</a>
+
+      {% assign home_active = nil %}
+      {% if page.url == "/" or page.url == "/index.html" %}
+        {% assign home_active = 'active' %}
+      {% endif %}
+
+      <a class="brand {{ home_active }}" href="/">{{ site.title }}</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
           {% for link in site.navigation %}
 
-            {% assign current = nil %}
+            {% assign active = nil %}
             {% capture index_url %}{{ link.url }}index.html{% endcapture %}
             {% if page.url == link.url or page.url == index_url %}
-              {% assign current = 'active' %}
+              {% assign active = 'active' %}
             {% endif %}
 
-            <li class="{{ current }}">
+            <li class="{{ active }}">
               <a href="{{ link.url }}" {% if link.target %} target="{{ link.target }}" {% endif %}>
                 {{ link.text }}
               </a>
