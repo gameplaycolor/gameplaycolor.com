@@ -6,7 +6,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-      <a class="brand" href="/">InSeven</a>
+      <a class="brand" href="/">{{ site.title }}</a>
       <div class="nav-collapse collapse">
         <ul class="nav">
           {% for link in site.navigation %}
@@ -17,7 +17,11 @@
               {% assign current = 'active' %}
             {% endif %}
 
-            <li class="{{ current }}"><a href="{{ link.url }}">{{ link.text }}</a></li>
+            <li class="{{ current }}">
+              <a href="{{ link.url }}" {% if link.target %} target="{{ link.target }}" {% endif %}>
+                {{ link.text }}
+              </a>
+            </li>
 
           {% endfor %}
         </ul>

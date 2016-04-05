@@ -1,10 +1,17 @@
 # Site settings
-title: InSeven
+title: Game Play Color
 email: support@inseven.co.uk
 baseurl: ""
 url: "https://inseven.co.uk"
 
 navigation:
+  - text: "FAQ"
+    url: "/faq/"
+  - text: "Say Thanks"
+    url: "/thanks/"
+  - text: "&#x2192; InSeven Limited"
+    url: "https://inseven.co.uk/"
+    target: "_blank"
 
 # Build settings
 markdown: kramdown

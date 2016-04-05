@@ -14,6 +14,10 @@ body {
   margin: 30px 0;
 }
 
+hr {
+  border-bottom: 1px solid #666;
+}
+
 /* Main marketing message and sign up button */
 .jumbotron {
   margin: 60px 0 20px 0;
@@ -339,6 +343,10 @@ input.input-pay:focus {
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
 }
 
+a.brand.active {
+  color: white;
+}
+
 .gameplaycolor {
   background-image: url(../images/ico_gameplaycolor.png);
 }
@@ -349,6 +357,10 @@ input.input-pay:focus {
 
 .faq {
   cursor: pointer;
+}
+
+.faq-top {
+  text-align: right;
 }
 
 .lead {
@@ -395,6 +407,36 @@ input.input-pay:focus {
   display: inline-block;
   background-size: 329px 612px;
   background-image: url(../images/hdr_gameplaycolor.png);
+}
+
+.container-faq h3 {
+  padding-top: 36px;
+}
+
+.container-faq p {
+  padding-top: 0;
+  color: #000;
+  line-height: 1.6em;
+}
+
+.container-faq li, .container-faq ol li p {
+  color: #222;
+  line-height: 1.4em;
+  padding-top: 8px;
+  font-size: 1.06em;
+}
+
+.container-faq img {
+  padding: 8px 0;
+}
+
+a.permalink {
+  font-weight: normal;
+  color: #ddd;
+}
+
+a.permalink:hover {
+  color: rgb(51, 51, 51);
 }
 
 @media only screen and (-webkit-device-pixel-ratio:2) {

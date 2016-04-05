@@ -1,12 +1,7 @@
-<?php
-
-require_once(__DIR__ . '/header.php');
-require_once(__DIR__ . '/common.php');
-
-head("Say Thanks");
-navigation("/thanks/");
-
-?>
+---
+layout: page
+artwork: mario
+---
 
 <div class="full-width pay">
   <div class="container-narrow">
@@ -143,18 +138,3 @@ navigation("/thanks/");
     </div>
   </div>
 </div>
-
-<div class="full-width mario">
-  <div class="container-narrow">
-    <div class="row-fluid marketing">
-    </div>
-  </div>
-</div>
-
-
-<?php
-
-details();
-footer();
-
-?>
