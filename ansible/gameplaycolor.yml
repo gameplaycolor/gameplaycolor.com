@@ -1,0 +1,43 @@
+---
+# Usage:
+#   The local site root / build directory must be specified on the command line using --extra-vars "root=".
+#
+- name: inseven.co.uk
+  hosts: inseven
+  vars:
+
+    port: 80
+    domain: inseven.co.uk
+    redirects:
+      - inseven.uk
+      - www.inseven.uk
+      - www.inseven.co.uk
+    admin: support@inseven.co.uk
+    build_dir: ../site/_site
+
+  tasks:
+
+    - name: create site directory
+      file: path="/var/www/{{ domain }}" state=directory owner="{{ ansible_user_id }}" group="{{ ansible_user_id }}"
+      become: yes
+
+    - name: synchronize contents
+      synchronize: src="{{ build_dir }}/" dest="/var/www/{{ domain }}/" delete=yes
+
+    - name: create virtual host file
+      template: src=virtualhost.conf dest="/etc/apache2/sites-available/{{ domain }}.conf"
+      become: yes
+
+    - name: enable site
+      command: a2ensite "{{ domain }}"
+      args:
+        creates: "/etc/apache2/sites-enabled/{{ domain }}.conf"
+      notify:
+        restart apache2
+      become: yes
+
+  handlers:
+
+    - name: restart apache2
+      service: name=apache2 state=restarted
+      become: yes
