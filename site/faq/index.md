@@ -22,7 +22,7 @@ title: Frequently Asked Questions
 
 While we cannot officially recommend any single site for downloading Game Boy and Game Boy Color ROMs, we suggest using [Google](https://google.com) to search for ROMs by title.
 
-_Please remember that downloading copied ROMs is illegal: only use images you have created from ROMs you own yourself._
+_Please remember that downloading copied ROMs is illegal: only use images for ROMs you own._
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
