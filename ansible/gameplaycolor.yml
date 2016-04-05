@@ -2,17 +2,20 @@
 # Usage:
 #   The local site root / build directory must be specified on the command line using --extra-vars "root=".
 #
-- name: inseven.co.uk
-  hosts: inseven
+- name: gameplaycolor.com
+  hosts: gameplaycolor
   vars:
 
     port: 80
-    domain: inseven.co.uk
+    domain: gameplaycolor.com
+    aliases:
+      - www2.gameplaycolor.com
     redirects:
-      - inseven.uk
-      - www.inseven.uk
-      - www.inseven.co.uk
+      - www.gameplaycolor.com
     admin: support@inseven.co.uk
+    directory_aliases:
+      - path: "/app"
+        target: "/var/www/app.gameplaycolor.com"
     build_dir: ../site/_site
 
   tasks:
@@ -26,6 +29,8 @@
 
     - name: create virtual host file
       template: src=virtualhost.conf dest="/etc/apache2/sites-available/{{ domain }}.conf"
+      notify:
+        - restart apache2
       become: yes
 
     - name: enable site
@@ -33,7 +38,7 @@
       args:
         creates: "/etc/apache2/sites-enabled/{{ domain }}.conf"
       notify:
-        restart apache2
+        - restart apache2
       become: yes
 
   handlers:
