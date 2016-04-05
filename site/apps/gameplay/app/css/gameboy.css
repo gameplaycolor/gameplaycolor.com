@@ -1,0 +1,661 @@
+body
+  {
+  padding: 0;
+  margin: 0;
+  -webkit-user-select: none;
+  background-color: black;
+  font: 15px Geneva, Arial, Helvetica, sans-serif;
+  background-size: 320px 568px;
+  }
+
+#LCD
+  {
+  image-rendering: -webkit-optimize-contrast;
+  }
+
+#display
+  {
+  position: absolute;
+  top: 0;
+  left: 124px;
+  }
+
+.display
+  {
+  width: 320px;
+  height: 288px;
+  background-color: #EFFDE1;
+  position: absolute;
+  background-size: 320px 288px;
+  }
+
+#STATUS
+  {
+  display: none;
+  }
+
+.button
+  {
+  width: 63px;
+  height: 62px;
+  background-size: 63px 62px;
+  }
+
+.button.pressed
+  {
+  }
+
+.button-option
+  {
+  width: 42px;
+  height: 31px;
+  background-size: 42px 31px;
+  }
+
+.button-option.pressed
+  {
+  }
+
+#group-buttons
+  {
+  position: absolute;
+  height: 115px;
+  width: 132px;
+  background-size: 132px 115px;
+  top: 60px;
+  right: 0;
+  }
+
+#group-options
+  {
+  position: absolute;
+  width: 125px;
+  height: 50px;
+  top: 248px;
+  right: 0;
+  background-size: 125px 50px;
+  }
+
+#control-a
+  {
+  position: absolute;
+  top: 5px;
+  right: 3px;
+  }
+
+#control-b
+  {
+  position: absolute;
+  bottom: 9px;
+  left: 3px;
+  }
+
+#control-select
+  {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  }
+
+#control-start
+  {
+  position: absolute;
+  top: 5px;
+  right: 7px;
+  }
+
+#control-dpad
+  {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  background-size: 128px 128px;
+  top: 60px;
+  left: 0;
+  }
+
+#button-done
+  {
+  position: absolute;
+  top: 8px;
+  right: 6px;
+  width: 61px;
+  height: 30px;
+  text-align: center;
+  }
+
+.button-done
+  {
+  background-size: 61px 30px;
+  }
+
+#debug
+  {
+  height: 20px;
+  width: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: black;
+  color: white;
+  opacity: 0.7;
+  padding: 20px 0;
+  text-align: center;
+  width: 568px;
+  }
+  
+#screen-console
+  {
+  background-color: #ccc;
+  background-size: 320px 260px;
+  background-position: right bottom;
+  }
+
+#title-bar
+  {
+  position: absolute;
+  left: 0;
+  top: 256px;
+  width: 568px;
+  height: 57px;
+  background-size: 320px 57px;
+  }
+
+#title-bar-label
+  {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  text-shadow: 0 1px white;
+  padding-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  }
+ 
+#list-games
+  {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-size: 320px 568px;
+  }
+
+.content
+  {
+  position: absolute;
+  top: 44px;
+  left: 0px;
+  height: 256px;
+  width: 568px;
+  }
+  
+#list-games-content
+  {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 120px;
+  width: 2000px;
+  }
+
+#list-games-page-control
+  {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 36px;
+  width: 568px;
+  display: -webkit-box;
+  display: box;
+  -webkit-box-orient: horizontal;
+  box-orient: horizontal;
+  -webkit-box-pack: center;
+  box-pack: center;
+  }
+
+.page
+  {
+  width: 6px;
+  height: 6px;
+  background-color: white;
+  border-radius: 50%;
+  opacity: 0.5;
+  margin: 5px;
+  }
+
+.page.active
+  {
+  opacity: 1.000000;
+  }
+  
+.game
+  {
+  position: absolute;
+  text-align: center;
+  background-size: 126px 141px;
+  background-position: center;
+  background-repeat: no-repeat; 
+  }
+
+.game-title
+  {
+  font-family: 'Comic Sans MS', 'Marker Felt', sans-serif;
+  background-color: #bbb;
+  width: 85px;
+  height: 74px;
+  border-radius: 2px;
+  word-wrap: break-word;
+  position: absolute;
+  top: 40px;
+  left: 27px;
+  }
+
+.game-thumbnail
+  {
+  position: absolute;
+  width: 85px;
+  height: 74px;
+  border-radius: 2px;
+  word-wrap: break-word;
+  position: absolute;
+  top: 40px;
+  left: 27px;
+  }
+    
+#screen-games
+  {
+  }
+
+#screen-empty
+  {
+  }
+
+#screen-loading
+  {
+
+  }
+
+.placeholder
+  {
+  color: white;
+  text-shadow: 0 1px #000;
+  text-align: center;
+  padding: 80px 40px;
+  }
+
+#screen-authorize
+  {
+  }
+
+#screen-authorize h1
+  {
+  padding-top: 0;
+  margin-top: 0;
+  }
+
+#screen-authorize-panel
+  {
+  position: absolute;
+  background-color: #fff;  
+  top: 20px;
+  left: 20px;
+  width: 508px;
+  height: 196px;
+  padding: 10px;
+  font-size: 14px;
+  }
+
+.actions
+  {
+  text-align: center;
+  margin: 30px;
+  }
+
+.google-button-blue
+  {
+  border: 1px solid #3079ED;
+  color: white;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.1);
+  background-color: #4D90FE;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#4d90fe  ),to(#4787ed  ));
+  background-image: -webkit-linear-gradient(top,#4d90fe  ,#4787ed  );
+  background-image: -moz-linear-gradient(top,#4d90fe  ,#4787ed  );
+  background-image: -ms-linear-gradient(top,#4d90fe  ,#4787ed  );
+  background-image: -o-linear-gradient(top,#4d90fe  ,#4787ed  );
+  background-image: linear-gradient(top,#4d90fe  ,#4787ed  );
+  padding: 8px;
+  }
+
+.google-button-blue:hover
+  {
+  border: 1px solid #2F5BB7;
+  color: white;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+  background-color: #357AE8;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#4d90fe  ),to(#357ae8  ));
+  background-image: -webkit-linear-gradient(top,#4d90fe  ,#357ae8  );
+  background-image: -moz-linear-gradient(top,#4d90fe  ,#357ae8  );
+  background-image: -ms-linear-gradient(top,#4d90fe  ,#357ae8  );
+  background-image: -o-linear-gradient(top,#4d90fe  ,#357ae8  );
+  background-image: linear-gradient(top,#4d90fe  ,#357ae8  );
+  }
+
+.screen
+  {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 568px;
+  height: 300px;
+  }
+
+.title-button
+  {
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#707070), to(#1C1C1C));
+  border-radius: 4px;
+  border: 1px solid black;
+  height: 32px;
+  width: 598px;
+  }
+
+.title
+  {
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#4A4A4A), to(#000000));
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  color: white;
+  z-index: 20;
+  }
+
+.title h3
+  {
+  margin-top: 11px;
+  }
+
+#control-games-scroll
+  {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  height: 300px;
+  width: 300px;
+  }
+
+#control-games-list
+  {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300px;
+  }
+
+.table
+  {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  }
+
+.table li
+  {
+  height: 88px;
+  border-bottom: 1px solid #ccc;
+  }
+
+#instructions
+  {
+  color: white;
+  text-shadow: 0 1px #000;
+  padding: 40px;
+  text-align: center;
+  }
+
+.icon
+  {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  margin-bottom: 20px;
+  background-size: 150px 150px;
+  }
+
+.copyright
+  {
+  font-size: 10px;
+  font-weight: normal;
+  }
+
+#copyright-games
+  {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  font-size: 10px;
+  font-weight: normal;
+  color: #444;
+  text-shadow: 0 1px #000;
+  width: 568px;
+  text-align: center;
+  }
+
+#instructions a
+  {
+  color: #666;
+  text-decoration: none;
+  }
+
+.license
+  {
+  color: #666;
+  }
+
+#update-button
+  {
+  position: absolute;
+  background-color: rgb(64, 64, 189);
+  color: white;
+  border-radius: 4px;
+  padding: 2px;
+  text-align: center;
+  width: 110px;
+  height: 13px;
+  left: 5px;
+  bottom: 12px;
+  text-transform: uppercase;
+  font-size: 11px;
+  }
+
+@media only screen and (-webkit-device-pixel-ratio:1) {
+
+  body { background-image: url(../images/background.png); }
+
+  .icon { background-image: url(../images/showcase.png); }
+
+  #LCD-loading { background: url(../images/loading.png); }
+  #LCD-idle { background: url(../images/idle.png); }
+
+  #list-games { background-image: url(../images/background.png); }
+
+  .button-done { background-image: url(../images/done.png); }
+  .button-done.pressed { background-image: url(../images/done_pressed.png); }
+  
+  .game { background-image: url(../images/cartridge.png); }
+
+  #screen-console { background-image: url(../images/console.png); }
+  #title-bar { background-image: url(../images/title.png); }
+
+  #group-buttons { background-image: url(../images/labels.png); }
+  .button { background-image: url(../images/button.png); }
+  .button.pressed { background-image: url(../images/button_pressed.png); }
+
+  #control-dpad.sprite-pad-default   { background-image: url(../images/pad.png); }
+  #control-dpad.sprite-pad-up        { background-image: url(../images/pad.png); }
+  #control-dpad.sprite-pad-upright   { background-image: url(../images/pad.png); }
+  #control-dpad.sprite-pad-right     { background-image: url(../images/pad.png); }
+  #control-dpad.sprite-pad-downright { background-image: url(../images/pad.png); }
+  #control-dpad.sprite-pad-down      { background-image: url(../images/pad.png); }
+  #control-dpad.sprite-pad-downleft  { background-image: url(../images/pad.png); }
+  #control-dpad.sprite-pad-left      { background-image: url(../images/pad.png); }
+  #control-dpad.sprite-pad-upleft    { background-image: url(../images/pad.png); }
+
+  #group-options { background-image: url(../images/labels_options.png); }
+  .button-option { background-image: url(../images/option.png); }
+  .button-option.pressed { background-image: url(../images/option_pressed.png); }
+
+}
+
+@media only screen and (-webkit-device-pixel-ratio:2) {
+
+  body { background-image: url(../images/background_2x.png); }
+
+  .icon { background-image: url(../images/showcase_2x.png); }
+
+  #LCD-loading { background: url(../images/loading_2x.png); }
+  #LCD-idle { background: url(../images/idle_2x.png); }
+
+  #list-games { background-image: url(../images/background_2x.png); }
+
+  .button-done { background-image: url(../images/done_2x.png); }
+  .button-done.pressed { background-image: url(../images/done_pressed_2x.png); }
+
+  .game { background-image: url(../images/cartridge_2x.png); }
+
+  #screen-console { background-image: url(../images/console_2x.png); }
+  #title-bar { background-image: url(../images/title_2x.png); }
+
+  #group-buttons { background-image: url(../images/labels_2x.png); }
+  .button { background-image: url(../images/button_2x.png); }
+  .button.pressed { background-image: url(../images/button_pressed_2x.png); }
+
+  #control-dpad.sprite-pad-default   { background-image: url(../images/pad_2x.png); }
+  #control-dpad.sprite-pad-up        { background-image: url(../images/pad_2x.png); }
+  #control-dpad.sprite-pad-upright   { background-image: url(../images/pad_2x.png); }
+  #control-dpad.sprite-pad-right     { background-image: url(../images/pad_2x.png); }
+  #control-dpad.sprite-pad-downright { background-image: url(../images/pad_2x.png); }
+  #control-dpad.sprite-pad-down      { background-image: url(../images/pad_2x.png); }
+  #control-dpad.sprite-pad-downleft  { background-image: url(../images/pad_2x.png); }
+  #control-dpad.sprite-pad-left      { background-image: url(../images/pad_2x.png); }
+  #control-dpad.sprite-pad-upleft    { background-image: url(../images/pad_2x.png); }
+
+  #group-options { background-image: url(../images/labels_options_2x.png); }
+  .button-option { background-image: url(../images/option_2x.png); }
+  .button-option.pressed { background-image: url(../images/option_pressed_2x.png); }
+
+} 
+
+@media only screen and (max-width:320px) {
+
+  #display
+    {
+    top: 0;
+    left: 0;    
+    }
+      
+  .screen
+    {
+    width: 320px;
+    height: 548px;
+    }
+
+  #group-options
+    {
+    top: 462px;
+    left: 98px;
+    }
+
+  #group-buttons
+    {
+    top: 317px;
+    right: 12px;
+    }
+
+  #control-dpad
+    {
+    top: 304px;
+    left: 13px;
+    }
+
+  #control-screen
+    {
+    top: 0;
+    left: 0;
+    }
+
+  #debug
+    {
+    width: 320px;
+    }
+
+  .title
+    {
+    height: 44px;
+    width: 320px;
+    }
+
+  #control-games
+    {
+    right: 8px;
+    top: 498px;
+    }
+
+  #title-bar
+    {
+    left: 0;
+    top: 504px;
+    width: 320px;
+    height: 57px;
+    }
+    
+  #spinner
+    {
+    padding-top: 280px;
+    }
+    
+  .content
+    {
+    top: 44px;
+    left: 0px;
+    height: 504px;
+    width: 320px;
+    }
+    
+  #list-games-content
+    {
+    height: 420px;
+    width: 2000px;
+    }
+
+  #list-games-page-control
+    {
+    width: 320px;
+    }
+
+  #screen-authorize-panel
+    {
+    top: 30px;
+    left: 30px;
+    width: 220px;
+    height: 390px;
+    }
+
+  .placeholder
+    {
+    padding: 160px 40px;
+    }
+
+  #copyright-games
+    {
+    width: 320px;
+    }
+
+  #update-button
+    {
+    left: 103px;
+    bottom: 6px;
+    }
+
+}
+

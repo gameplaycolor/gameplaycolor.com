@@ -1,0 +1,27 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+      <a class="brand" href="/">InSeven</a>
+      <div class="nav-collapse collapse">
+        <ul class="nav">
+          {% for link in site.navigation %}
+
+            {% assign current = nil %}
+            {% capture index_url %}{{ link.url }}index.html{% endcapture %}
+            {% if page.url == link.url or page.url == index_url %}
+              {% assign current = 'active' %}
+            {% endif %}
+
+            <li class="{{ current }}"><a href="{{ link.url }}">{{ link.text }}</a></li>
+
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

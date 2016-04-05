@@ -1,0 +1,10 @@
+# Site settings
+title: InSeven
+email: support@inseven.co.uk
+baseurl: ""
+url: "https://inseven.co.uk"
+
+navigation:
+
+# Build settings
+markdown: kramdown
