@@ -13,6 +13,7 @@ title: Frequently Asked Questions
 7. [Are there any plans to add Game Boy Advance or Nintendo DS support?](#devices)
 8. [Are there any plans to add multiplayer and link cable support?](#multiplayer)
 9. [Why aren't my games showing up?](#missing)
+10. [Are there any plans to support cheats such as GameShark or Game Genie?](#cheats)
 
 ---
 
@@ -198,3 +199,17 @@ If you have zipped Game Boy or Game Boy Color ROMs (**.zip**), you will need to 
 Check out our guide on [adding games](#add) for more help.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
+
+---
+
+<a id="cheats"></a>
+
+### Are there any plans to support cheats such as GameShark or Game Genie? <a class="permalink" href="#cheats">∞</a>
+
+We've received many requests to support [GameShark](https://en.wikipedia.org/wiki/GameShark) and [Game Genie](https://en.wikipedia.org/wiki/Game_Genie) cheats.
+
+While we would like to support this in a future release, there are a [number](#snapshots) [of](#multiplayer) [things](#devices) on the roadmap, and it's likely to be a while before we get to it.
+
+We're tracking this as [Issue #51](https://github.com/jbmorley/gameplay/issues/51) on GitHub.
+
+<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
