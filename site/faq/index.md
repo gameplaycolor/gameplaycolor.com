@@ -13,6 +13,7 @@ title: Frequently Asked Questions
 7. [How do I sign out of Google Drive?](#signout)
 8. [Are there any plans to add Game Boy Advance or Nintendo DS support?](#devices)
 9. [Are there any plans to add multiplayer and link cable support?](#multiplayer)
+10. [Why aren't my games showing up?](#missing)
 
 ---
 
@@ -212,5 +213,21 @@ We've got our hands full at the moment with the current feature set of Game Play
 ### Are there any plans to add multiplayer and link cable support? <a class="permalink" href="#multiplayer">∞</a>
 
 We'd absolutely love to add this feature but we're fairly limited by the environment provided to web apps today (there's no support for peer-to-peer networking). When the appropriate technologies become available, we'll be sure to look again.
+
+<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
+
+---
+
+<a id="missing"></a>
+
+### Why aren't my games showing up? <a class="permalink" href="#missing">∞</a>
+
+Game Play Color should automatically update to show any **.gbc** or **.gb** files you [add to Google Drive](#add).
+
+If your games are not appearing, check that you haven't mistakenly added Game Boy Advance (.gba) ROMs, as these are currently [unsupported](#devices).
+
+If you have zipped Game Boy or Game Boy Color ROMs (**.zip**), you will need to unzip these before they will appear.
+
+Check out our guide on [adding games](#add) for more help.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
