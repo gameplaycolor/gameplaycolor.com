@@ -10,10 +10,9 @@ title: Frequently Asked Questions
 4. [How do I change the console color?](#color)
 5. [Can I save games with Game Play Color?](#save)
 6. [Does Game Play Color support .sav files?](#snapshots)
-7. [How do I sign out of Google Drive?](#signout)
-8. [Are there any plans to add Game Boy Advance or Nintendo DS support?](#devices)
-9. [Are there any plans to add multiplayer and link cable support?](#multiplayer)
-10. [Why aren't my games showing up?](#missing)
+7. [Are there any plans to add Game Boy Advance or Nintendo DS support?](#devices)
+8. [Are there any plans to add multiplayer and link cable support?](#multiplayer)
+9. [Why aren't my games showing up?](#missing)
 
 ---
 
@@ -157,42 +156,6 @@ Many emulators offer a way to snapshot the emulator state and store this as a .s
 We've have had a lot of requests for this feature and it's something we're exploring for future updates to Game Play Color.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
-
----
-
-<a id="signout"></a>
-
-### How do I sign out of Google Drive? <a class="permalink" href="#signout">∞</a>
-
-t's not currently possible to sign out of Google Drive in-app (<a href="https://github.com/jbmorley/gameplay/issues/20">issue #20</a>).
-
-Instead, you can sign out using the Google Drive website:
-
-1. Navigate to [https://drive.google.com](https://drive.google.com) in your web browser.
-
-2. Sign in using the account you wish to disconnect from Game Play.
-
-3. Click the **Gear** icon in the top right corner, and then click **Settings**.
-
-   <img src="/images/faq_drive_settings.png" width="201px" height="261px" />
-
-4. Select **Managing Apps**.
-
-   <img src="/images/faq_drive_settings_apps.png" width="782px" height="426px" />
-
-5. Identify **Game Play** in the list of apps, click the **Options** button, and then click **Disconnect from Drive**.
-
-   <img src="/images/faq_drive_settings_apps_disconnect.png" width="782px" height="426px" />
-
-   _If you can't find Game Play listed, it's possible you used a signed in with a different Google Drive account._
-
-6. Click **Disconnect** to confirm.
-
-   <img src="/images/faq_drive_disconnect_app.png" width="546px" height="247px" />
-
-Next time you launch Game Play, you will be presented with the sign in screen again.
-
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
 ---
 
