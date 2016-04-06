@@ -155,6 +155,8 @@ Many emulators offer a way to snapshot the emulator state and store this as a .s
 
 We've have had a lot of requests for this feature and it's something we're exploring for future updates to Game Play Color.
 
+We're tracking this as [Issue #46](https://github.com/jbmorley/gameplay/issues/46) on GitHub.
+
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
 
 ---
