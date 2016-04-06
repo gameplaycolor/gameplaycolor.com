@@ -5,27 +5,21 @@ Building
 --------
 
 ```bash
-cd site
-jekyll build
+./scripts/site build
 ```
 
 Testing
 -------
 
 ```bash
-cd site
-jekyll serve
+./scripts/site serve
 ```
 
 Deploying
 ---------
 
 ```bash
-jekyll build \
-    --source site \
-    --destination site/_site
-cd ansible
-ansible-playbook gameplaycolor.yml
+./scripts/site deploy
 ```
 
 Application Icons
