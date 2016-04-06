@@ -18,6 +18,10 @@ hr {
   border-bottom: 1px solid #666;
 }
 
+ol > li > ol {
+  list-style-type: lower-roman;
+}
+
 /* Main marketing message and sign up button */
 .jumbotron {
   margin: 60px 0 20px 0;

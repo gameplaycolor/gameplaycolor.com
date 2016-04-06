@@ -34,28 +34,52 @@ _Please remember that downloading copied ROMs is illegal: only use images for RO
 
 You can add games to Game Play Color by one of two mechanisms:
 
-<ol>
-  <li>
-    <p><strong>Using a Mac or PC</strong></p>
-    <ol type="i">
-      <li><a href="#games">Download</a> or create an image of the ROM you wish to play.<br /><img src="/images/ss_add_download.png" width="855px" height="522px"></img></li>
-      <li>If the ROM is compressed (usually indicated by a <strong>.zip</strong> extension) double-click it to extract it. This should leave you with a <strong>.gb</strong> or <strong>.gbc</strong> file.<br /><img src="/images/ss_add_extract.png" width="855px" height="522px"></img></li>
-      <li>Sign in to <a href="https://drive.google.com" target="_blank">Google Drive</a> on your Mac or PC.<br /><img src="/images/ss_add_drive.png" width="855px" height="522px"></img></li>
-      <li>Drag-and-drop your downloaded ROM (<strong>Shantae.gbc</strong> in our example) into Google Drive.<br /><img src="/images/ss_add_upload.png" width="855px" height="522px"></li>
-      <li>Google Drive should show a progress bar during the upload and a message when it has completed (e.g. <strong>Shantae.gbc has been uploaded to Games</strong> in our example).<br /><img src="/images/ss_add_complete.png" width="855px" height="522px"></li>
-      <li>Launch Game Play Color on your iOS device by tapping the <strong>Game Play</strong> icon on your home screen. Sign in to Google Drive if prompted.</li>
-      <li>Show the game library by tapping on the emulator screen. Your newly uploaded game should be visible in the library.<br /><img src="/images/ss_add_library_new.png" width="375px" height="667px"></li>
-      <li>Tap the game once to start downloading. A spinner will appear to indicate that the download is in progress.<br /><img src="/images/ss_add_library_download.png" width="375px" height="667px"></li>
-      <li>When the download is complete, the game will change colour and the spinner will disappear.<br /><img src="/images/ss_add_library_downloaded.png" width="375px" height="667px"></li>
-      <li>Tap the game to again to start playing.<br /><img src="/images/ss_add_play.png" width="375px" height="667px"></li>
-    </ol>
-  </li>
-  <li>
-    <p><strong>Using your iPhone, iPod or iPad</strong></p>
-    <p>The great guys over at <a href="https://www.youtube.com/channel/UCrSGNNsPxE-qsqoqnkFZHBg" target="_blank">OPERATIONiDROID</a> and <a href="http://iemulators.com" target="_blank">iEmulators</a> have produced a video explaining one of the many techniques available for getting ROMs into Game Play Color using just your iOS device:</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Eoaq6HVvxY0" frameborder="0" allowfullscreen></iframe>
-  </li>
-</ol>
+1. **Using a Mac or PC**
+
+    1. [Download](#games) or create an image of the ROM you wish to play.
+
+       <img src="/images/ss_add_download.png" width="855px" height="522px">
+
+    2. If the ROM is compressed (usually indicated by a **.zip** extension) double-click it to extract it. This should leave you with a **.gb** or **.gbc** file.
+
+       <img src="/images/ss_add_extract.png" width="855px" height="522px">
+
+    3. Sign in to [Google Drive](https://drive.google.com) on your Mac or PC.
+
+       <img src="/images/ss_add_drive.png" width="855px" height="522px">
+
+    4. Drag-and-drop your downloaded ROM (**Shantae.gbc** in our example) into Google Drive.
+
+       <img src="/images/ss_add_upload.png" width="855px" height="522px">
+
+    5. Google Drive should show a progress bar during the upload and a message when it has completed (e.g. **Shantae.gbc has been uploaded to Games** in our example).
+
+       <img src="/images/ss_add_complete.png" width="855px" height="522px">
+
+    6. Launch Game Play Color on your iOS device by tapping the **Game Play** icon on your home screen. Sign in to Google Drive if prompted.
+
+    7. Show the game library by tapping on the emulator screen. Your newly uploaded game should be visible in the library.
+
+       <img src="/images/ss_add_library_new.png" width="375px" height="667px">
+
+    8. Tap the game once to start downloading. A spinner will appear to indicate that the download is in progress.
+
+       <img src="/images/ss_add_library_download.png" width="375px" height="667px">
+
+    9. When the download is complete, the game will change colour and the spinner will disappear.
+
+       <img src="/images/ss_add_library_downloaded.png" width="375px" height="667px">
+
+    10. Tap the game to again to start playing.
+
+        <img src="/images/ss_add_play.png" width="375px" height="667px">
+
+
+2. **Using your iPhone, iPod or iPad**
+
+   The great guys over at [OPERATIONiDROID](https://www.youtube.com/channel/UCrSGNNsPxE-qsqoqnkFZHBg) and [iEmulators](http://iemulators.com) have produced a video explaining one of the many techniques available for getting ROMs into Game Play Color using just your iOS device:
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Eoaq6HVvxY0" frameborder="0" allowfullscreen></iframe>
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
