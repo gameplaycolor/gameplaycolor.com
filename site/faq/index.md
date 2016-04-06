@@ -175,7 +175,9 @@ We've got our hands full at the moment with the current feature set of Game Play
 
 ### Are there any plans to add multiplayer and link cable support? <a class="permalink" href="#multiplayer">∞</a>
 
-We'd absolutely love to add this feature but we're fairly limited by the environment provided to web apps today (there's no support for peer-to-peer networking). When the appropriate technologies become available, we'll be sure to look again.
+We know lots of you would love to trade Pokémon (and we're keen to play a bit of two-player Tetris ourselves). We're therefore planning to add link cable support in a future release.
+
+We're tracking this as [Issue #55](https://github.com/jbmorley/gameplay/issues/55) on GitHub.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
