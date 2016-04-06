@@ -56,69 +56,137 @@ You can add games to Game Play Color by one of two mechanisms:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Eoaq6HVvxY0" frameborder="0" allowfullscreen></iframe>
   </li>
 </ol>
+
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
-<hr />
+
+---
 
 <a id="artwork"></a>
-<h3>How do I add artwork to Game Play Color? <a class="permalink" href="#artwork">∞</a></h3>
-<ol>
-  <li>Add some ROMs to Game Play Color as described <a href="#add">above</a>.</li>
-  <li>Download a <strong>JPEG</strong> (.jpg) of the cover art for your ROM you wish to add artwork to.<br /><img src="/images/ss_artwork_download.png" width="855px" height="522px"></img></li>
-  <li>Rename the file to match the name of the ROM.<br />In our example, our ROM file is entitield <strong>Shantae.gbc</strong>, so we rename the artwork to <strong>Shantae.jpg</strong>.<br /><img src="/images/ss_artwork_rename.png" width="855px" height="522px"></img></li>
-  <li>Sign in to <a href="https://drive.google.com" target="_blank">Google Drive</a>.</li>
-  <li>Drag-and-drop the artwork file into Google Drive.<br /><img src="/images/ss_artwork_upload.png" width="855px" height="522px"></li>
-  <li>Google Drive should show a progress bar during the upload and a message when it has completed (e.g. <strong>Shantae.jpg has been uploaded to Games</strong> in our example).<br /><img src="/images/ss_artwork_uploaded.png" width="855px" height="522px"></li>
-  <li>Launch Game Play Color on your iOS device and show the game library by tapping on the emulator screen. After a few moments, your ROM should display the game artwork.<br /><img src="/images/ss_artwork_complete.png" width="375px" height="667px"></li>
-</ol>
+
+### How do I add artwork to Game Play Color? <a class="permalink" href="#artwork">∞</a>
+
+1. Add some ROMs to Game Play Color as described [above](#add).
+
+2. Download a **JPEG** (.jpg) of the cover art for your ROM you wish to add artwork to.
+
+   <img src="/images/ss_artwork_download.png" width="855px" height="522px" />
+
+3. Rename the file to match the name of the ROM.
+
+   In our example, our ROM file is entitield **Shantae.gbc**, so we rename the artwork to **Shantae.jpg**.
+
+   <img src="/images/ss_artwork_rename.png" width="855px" height="522px" />
+
+4. Sign in to [Google Drive](https://drive.google.com).
+
+5. Drag-and-drop the artwork file into Google Drive.
+
+   <img src="/images/ss_artwork_upload.png" width="855px" height="522px">
+
+6. Google Drive should show a progress bar during the upload and a message when it has completed
+
+   (e.g., **Shantae.jpg has been uploaded to Games** in our example).
+
+   <img src="/images/ss_artwork_uploaded.png" width="855px" height="522px" />
+
+7. Launch Game Play Color on your iOS device and show the game library by tapping on the emulator screen. After a few moments, your ROM should display the game artwork.
+
+   <img src="/images/ss_artwork_complete.png" width="375px" height="667px" />
+
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
-<hr />
+
+---
 
 <a id="color"></a>
-<h3>How do I change the console color? <a class="permalink" href="#color">∞</a></h3>
-<p><img src ="/images/ss_colors.png" /></p>
-<p>Like the original Game Boy Color, Game Play Color is available in a range of colors: simply shake your iPhone, iPod or iPad.</p>
+
+### How do I change the console color? <a class="permalink" href="#color">∞</a>
+
+<img src ="/images/ss_colors.png" />
+
+Like the original Game Boy Color, Game Play Color is available in a range of colors: simply shake your iPhone, iPod or iPad.
+
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
-<hr />
+
+---
 
 <a id="save"></a>
-<h3>Can I save games with Game Play Color? <a class="permalink" href="#save">∞</a></h3>
-<p>Yes. Game Play Color supports saving games as implemented in the original ROMs. Simply save each game as you would on an original Game Boy or Game Boy Color.</p>
-<p><em>For example, to save your game in <strong>Pokémon</strong>, tap <strong>Select</strong> during game-play, select <strong>SAVE</strong> from the menu, then choose <strong>YES</strong> to save.</em></p>
-<p>Note: Saved games are currently stored on the device and are not backed up to Google Drive. Removing Game Play Color from your home screen will delete your saved games. We're exploring saving game state on Google Drive in future updates.</p>
+
+### Can I save games with Game Play Color? <a class="permalink" href="#save">∞</a>
+
+Yes. Game Play Color supports saving games as implemented in the original ROMs. Simply save each game as you would on an original Game Boy or Game Boy Color.
+
+_For example, to save your game in **Pokémon**, tap **Select** during game-play, select **SAVE** from the menu, then choose **YES** to save._
+
+Note: Saved games are currently stored on the device and are not backed up to Google Drive. Removing Game Play Color from your home screen will delete your saved games. We're exploring saving game state on Google Drive in future updates.
+
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
-<hr />
+
+---
 
 <a id="snapshots"></a>
-<h3>Does Game Play Color support .sav files? <a class="permalink" href="#snapshots">∞</a></h3>
-<p>Many emulators offer a way to snapshot the emulator state and store this as a .sav file. While Game Play Color <a href="#save">supports saving games</a>, save state is stored locally on each device and there is currently no support for saving or loading snapshots.</p>
-<p>We've have had a lot of requests for this feature and it's something we're exploring for future updates to Game Play Color.</p>
+
+### Does Game Play Color support .sav files? <a class="permalink" href="#snapshots">∞</a>
+
+Many emulators offer a way to snapshot the emulator state and store this as a .sav file. While Game Play Color [supports saving games](#save), save state is stored locally on each device and there is currently no support for saving or loading snapshots.
+
+We've have had a lot of requests for this feature and it's something we're exploring for future updates to Game Play Color.
+
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
-<hr />
+
+---
 
 <a id="signout"></a>
-<h3>How do I sign out of Google Drive? <a class="permalink" href="#signout">∞</a></h3>
-<p>It's not currently possible to sign out of Google Drive in-app (<a href="https://github.com/jbmorley/gameplay/issues/20">issue #20</a>).</p>
-<p>Instead, you can sign out using the Google Drive website:</p>
-<ol>
-  <li>Navigate to <a href="https://drive.google.com" target="_blank">https://drive.google.com</a> in your web browser.</li>
-  <li>Sign in using the account you wish to disconnect from Game Play.</li>
-  <li>Click the <strong>Gear</strong> icon in the top right corner, and then click <strong>Settings</strong>.<br /><img src="/images/faq_drive_settings.png" width="201px" height="261px" /></li>
-  <li>Select <strong>Managing Apps</strong>.<br /><img src="/images/faq_drive_settings_apps.png" width="782px" height="426px" /></li>
-  <li>Identify <strong>Game Play</strong> in the list of apps, click the <strong>Options</strong> button, and then click <strong>Disconnect from Drive</strong>.<br /><img src="/images/faq_drive_settings_apps_disconnect.png" width="782px" height="426px" /><br /><em>If you can't find Game Play listed, it's possible you used a signed in with a different Google Drive account.</em></li>
-  <li>Click <strong>Disconnect</strong> to confirm.<br /><img src="/images/faq_drive_disconnect_app.png" width="546px" height="247px" /></li>
-</ol>
-<p>Next time you launch Game Play, you will be presented with the sign in screen again.</p>
+
+### How do I sign out of Google Drive? <a class="permalink" href="#signout">∞</a>
+
+t's not currently possible to sign out of Google Drive in-app (<a href="https://github.com/jbmorley/gameplay/issues/20">issue #20</a>).
+
+Instead, you can sign out using the Google Drive website:
+
+1. Navigate to [https://drive.google.com](https://drive.google.com) in your web browser.
+
+2. Sign in using the account you wish to disconnect from Game Play.
+
+3. Click the **Gear** icon in the top right corner, and then click **Settings**.
+
+   <img src="/images/faq_drive_settings.png" width="201px" height="261px" />
+
+4. Select **Managing Apps**.
+
+   <img src="/images/faq_drive_settings_apps.png" width="782px" height="426px" />
+
+5. Identify **Game Play** in the list of apps, click the **Options** button, and then click **Disconnect from Drive**.
+
+   <img src="/images/faq_drive_settings_apps_disconnect.png" width="782px" height="426px" />
+
+   _If you can't find Game Play listed, it's possible you used a signed in with a different Google Drive account._
+
+6. Click **Disconnect** to confirm.
+
+   <img src="/images/faq_drive_disconnect_app.png" width="546px" height="247px" />
+
+Next time you launch Game Play, you will be presented with the sign in screen again.
+
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
-<hr />
+
+---
 
 <a id="devices"></a>
-<h3>Are there any plans to add Game Boy Advance or Nintendo DS support? <a class="permalink" href="#devices">∞</a></a></h3>
-<p>We're received a lot of requests for Game Boy Advance, Nintendo DS and even some for Nintendo 64 support in Game Play Color.</p>
-<p>We've got our hands full at the moment with the current feature set of Game Play Color but we'll certainly consider additional device support for future products and releases. Obviously we're limited to what's performs well running in JavaScript on a phone so, for example, Nintendo 64 support looks highly unlikely, while Game Boy Advance support might seem more realistic.</p>
+
+### Are there any plans to add Game Boy Advance or Nintendo DS support? <a class="permalink" href="#devices">∞</a>
+
+We're received a lot of requests for Game Boy Advance, Nintendo DS and even some for Nintendo 64 support in Game Play Color.
+
+We've got our hands full at the moment with the current feature set of Game Play Color but we'll certainly consider additional device support for future products and releases. Obviously we're limited to what's performs well running in JavaScript on a phone so, for example, Nintendo 64 support looks highly unlikely, while Game Boy Advance support might seem more realistic.
+
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
-<hr />
+
+---
 
 <a id="multiplayer"></a>
-<h3>Are there any plans to add multiplayer and link cable support? <a class="permalink" href="#multiplayer">∞</a></h3>
-<p>We'd absolutely love to add this feature but we're fairly limited by the environment provided to web apps today (there's no support for peer-to-peer networking). When the appropriate technologies become available, we'll be sure to look again.</p>
+
+### Are there any plans to add multiplayer and link cable support? <a class="permalink" href="#multiplayer">∞</a>
+
+We'd absolutely love to add this feature but we're fairly limited by the environment provided to web apps today (there's no support for peer-to-peer networking). When the appropriate technologies become available, we'll be sure to look again.
+
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
