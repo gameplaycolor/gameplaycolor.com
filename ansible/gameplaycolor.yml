@@ -8,8 +8,6 @@
 
     port: 80
     domain: gameplaycolor.com
-    aliases:
-      - www2.gameplaycolor.com
     redirects:
       - www.gameplaycolor.com
     admin: support@inseven.co.uk
