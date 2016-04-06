@@ -3,7 +3,7 @@ layout: default
 title: Not Found
 ---
 
-<div class="full-width texture">
+<div class="full-width wood">
   <div class="container-narrow">
   
     <div class="jumbotron">
