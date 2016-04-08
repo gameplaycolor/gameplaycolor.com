@@ -11,9 +11,10 @@ title: Frequently Asked Questions
 5. [Can I save games with Game Play Color?](#save)
 6. [Does Game Play Color support .sav files?](#snapshots)
 7. [Are there any plans to add Game Boy Advance or Nintendo DS support?](#devices)
-8. [Are there any plans to add multiplayer and link cable support?](#multiplayer)
+8. [Are there any plans to add link cable support?](#multiplayer)
 9. [Why aren't my games showing up?](#missing)
 10. [Are there any plans to support cheats such as GameShark or Game Genie?](#cheats)
+11. [Why is the sound so poor on my device?](#sound)
 
 ---
 
@@ -176,7 +177,7 @@ We've got our hands full at the moment with the current feature set of Game Play
 
 <a id="multiplayer"></a>
 
-### Are there any plans to add multiplayer and link cable support? <a class="permalink" href="#multiplayer">∞</a>
+### Are there any plans to add link cable support? <a class="permalink" href="#multiplayer">∞</a>
 
 We know lots of you would love to trade Pokémon (and we're keen to play a bit of two-player Tetris ourselves). We're therefore planning to add link cable support in a future release.
 
@@ -212,4 +213,16 @@ While we would like to support this in a future release, there are a [number](#s
 
 We're tracking this as [Issue #51](https://github.com/jbmorley/gameplay/issues/51) on GitHub.
 
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
+<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
+
+---
+
+<a id="sound"></a>
+
+### Why is the sound so poor on my device? <a class="permalink" href="#sound">∞</a>
+
+We do our best to support Game Play Color to as many devices as possible. Unfortunately some earlier devices such as the iPhone 4S or iPhone 5 are just a bit too slow to play sound without underflow at the moment.
+
+We're continue to do our best to improve performance on all devices but, in the meantime, we recommend turning off sound if you're finding performance isn't great.
+
+<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
