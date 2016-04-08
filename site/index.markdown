@@ -6,7 +6,9 @@ artwork: mario
 <div class="full-width wood">
   <div class="container-narrow">
     <div class="jumbotron">
-      <div class="image_hdr_gameplaycolor"></div>
+
+      <img src="/images/hdr_gameplaycolor_rose_gold.png" width="302">
+      
       <h1 class="logo">Game Play 
         <span class="color-title"><span class="pink">C</span><span class="purple">O</span><span class="lime">L</span><span class="yellow">O</span><span class="cyan">R</span></span></h1><br/>
       <p class="lead tagline">Game Boy Color<sup>1</sup> games on your iPhone and iPad.</p>

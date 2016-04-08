@@ -397,22 +397,6 @@ a.brand.active {
   color: #1988B9;
 }
 
-.image_hdr_gameplay {
-  width: 481px;
-  height: 562px;
-  display: inline-block;
-  background-size: 481px 562px;
-  background-image: url(../images/hdr_gameplay.png);
-}
-
-.image_hdr_gameplaycolor {
-  width: 329px;
-  height: 612px;
-  display: inline-block;
-  background-size: 329px 612px;
-  background-image: url(../images/hdr_gameplaycolor.png);
-}
-
 .container-faq h3 {
   padding-top: 36px;
 }
@@ -447,10 +431,6 @@ a.permalink:hover {
 
   .image_hdr_gameplay {
     background-image: url(../images/hdr_gameplay_2x.png);
-  }
-
-  .image_hdr_gameplaycolor {
-    background-image: url(../images/hdr_gameplaycolor_2x.png);
   }
 
   .gameplay {
@@ -495,24 +475,6 @@ a.permalink:hover {
 
   .thanks-button {
     text-align: center;
-  }
-
-}
-
-@media (max-width: 600px) {
-
-  .image_hdr_gameplay {
-    width: 300px;
-    height: 351px;
-    display: inline-block;
-    background-size: 300px 351px;
-  }
-
-  .image_hdr_gameplaycolor {
-    width: 215px;
-    height: 400px;
-    display: inline-block;
-    background-size: 215px 400px;
   }
 
 }
