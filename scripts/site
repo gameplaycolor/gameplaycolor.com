@@ -1,8 +1,13 @@
 #!/usr/bin/env python
 
+import atexit
 import argparse
 import os.path
+import signal
 import subprocess
+import time
+import webbrowser
+
 
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(SCRIPTS_DIR)
@@ -17,10 +22,22 @@ def build():
     subprocess.check_call(["jekyll", "build"])
 
 
+def process_terminator(process):
+
+    def inner():
+        os.kill(process.pid, signal.SIGTERM)
+
+    return inner
+
+
 def serve():
     print "Serving site..."
     os.chdir(SITE_DIR)
-    subprocess.check_call(["jekyll", "serve"])
+    process = subprocess.Popen(["jekyll", "serve"])
+    time.sleep(1)
+    webbrowser.open("http://127.0.0.1:4000")
+    atexit.register(process_terminator(process))
+    process.communicate()
 
 
 def deploy():
