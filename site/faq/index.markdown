@@ -15,6 +15,7 @@ title: Frequently Asked Questions
 9. [Why aren't my games showing up?](#missing)
 10. [Are there any plans to support cheats such as GameShark or Game Genie?](#cheats)
 11. [Why is the sound so poor on my device?](#sound)
+12. [Why does my game restart every time I switch apps?](#background)
 
 ---
 
@@ -224,5 +225,20 @@ We're tracking this as [Issue #51](https://github.com/jbmorley/gameplay/issues/5
 We do our best to support Game Play Color to as many devices as possible. Unfortunately some earlier devices such as the iPhone 4S or iPhone 5 are just a bit too slow to play sound without underflow at the moment.
 
 We're continue to do our best to improve performance on all devices but, in the meantime, we recommend turning off sound if you're finding performance isn't great.
+
+<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
+
+---
+
+<a id="background"></a>
+
+### Why does my game restart every time I switch apps? <a class="permalink" href="#background">∞</a>
+
+Unfortunately, due to the limitations of iOS, it's not possible to know when web applications (like Game Play Color) are about to be backgrounded. This means we are unable to automatically take a snapshot when you switch apps (e.g., to reply to a text message, take a phone call, etc).
+
+Game Boy Color games which support saving will correctly [remember your last save](#save), but Game Boy games will be restarted.
+
+We hope to add support for manual restore points in future versions of Game Play Color which should help mitigate this issue.
+
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
