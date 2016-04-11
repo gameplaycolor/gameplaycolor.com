@@ -5,8 +5,8 @@ title: Frequently Asked Questions
 ---
 
 1. [Where can I download games?](#games)
-2. [How do I add games to Game Play Color?](#add)
-3. [How do I add artwork to Game Play Color?](#artwork)
+2. [How do I add games?](#add)
+3. [How do I add artwork?](#artwork)
 4. [How do I change the console color?](#color)
 5. [Can I save games with Game Play Color?](#save)
 6. [Does Game Play Color support .sav files?](#snapshots)
@@ -33,7 +33,7 @@ _Please remember that downloading copied ROMs is illegal: only use images for RO
 
 <a id="add"></a>
 
-### How do I add games to Game Play Color? <a class="permalink" href="#add">∞</a>
+### How do I add games? <a class="permalink" href="#add">∞</a>
 
 You can add games to Game Play Color by one of two mechanisms:
 
@@ -90,7 +90,7 @@ You can add games to Game Play Color by one of two mechanisms:
 
 <a id="artwork"></a>
 
-### How do I add artwork to Game Play Color? <a class="permalink" href="#artwork">∞</a>
+### How do I add artwork? <a class="permalink" href="#artwork">∞</a>
 
 1. Add some ROMs to Game Play Color as described [above](#add).
 
@@ -130,7 +130,7 @@ You can add games to Game Play Color by one of two mechanisms:
 
 <img src ="/images/ss_colors.png" />
 
-Like the original Game Boy Color, Game Play Color is available in a range of colors: simply shake your iPhone, iPod or iPad.
+Like the original Game Boy Color, Game Play Color is available in a range of colors. You can change these from the **Settings** dialog.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
 
