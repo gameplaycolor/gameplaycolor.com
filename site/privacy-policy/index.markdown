@@ -57,7 +57,7 @@ We may disclose your personal information to third parties:
 
 ## Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise this right at any time by contacting us at [support@gameplaycolor.com](mailto:support@gameplaycolor.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise this right at any time by contacting us at [privacy@gameplaycolor.com](mailto:privacy@gameplaycolor.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -71,4 +71,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@gameplaycolor.com](mailto:support@gameplaycolor.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@gameplaycolor.com](mailto:support@gameplaycolor.com).
