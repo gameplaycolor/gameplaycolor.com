@@ -1,6 +1,5 @@
 ---
 layout: content
-artwork: mario
 title: Frequently Asked Questions
 ---
 
