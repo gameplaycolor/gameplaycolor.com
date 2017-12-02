@@ -157,7 +157,7 @@ Many emulators offer a way to snapshot the emulator state and store this as a .s
 
 We've have had a lot of requests for this feature and it's something we're exploring for future updates to Game Play Color.
 
-We're tracking this as [Issue #46](https://github.com/jbmorley/gameplay/issues/46) on GitHub.
+We're tracking this as [Issue #46](https://github.com/gameplaycolor/gameplaycolor/issues/46) on GitHub.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
 
@@ -181,7 +181,7 @@ We've got our hands full at the moment with the current feature set of Game Play
 
 We know lots of you would love to trade Pokémon (and we're keen to play a bit of two-player Tetris ourselves). We're therefore planning to add link cable support in a future release.
 
-We're tracking this as [Issue #55](https://github.com/jbmorley/gameplay/issues/55) on GitHub.
+We're tracking this as [Issue #55](https://github.com/gameplaycolor/gameplaycolor/issues/55) on GitHub.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
@@ -211,7 +211,7 @@ We've received many requests to support [GameShark](https://en.wikipedia.org/wik
 
 While we would like to support this in a future release, there are a [number](#snapshots) [of](#multiplayer) [things](#devices) on the roadmap, and it's likely to be a while before we get to it.
 
-We're tracking this as [Issue #51](https://github.com/jbmorley/gameplay/issues/51) on GitHub.
+We're tracking this as [Issue #51](https://github.com/gameplaycolor/gameplaycolor/issues/51) on GitHub.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 

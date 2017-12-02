@@ -68,7 +68,7 @@ artwork: mario
         <div class="feature">
           <i class="feature-icon fa fa-github fa-fw"></i>
           <h4>Open Source</h4>
-          <p>Licensed under the GPL and available on <a href="https://github.com/jbmorley/gameplay">GitHub</a>, Game Play is open source through-and-through.</p>
+          <p>Licensed under the GPL and available on <a href="https://github.com/gameplaycolor/gameplaycolor">GitHub</a>, Game Play is open source through-and-through.</p>
         </div>
       </div>
 
