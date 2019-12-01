@@ -8,10 +8,9 @@ title: Frequently Asked Questions
 3. [How do I add artwork?](#artwork)
 4. [How do I change the console color?](#color)
 5. [Can I save games with Game Play Color?](#save)
-6. [Does Game Play Color support .sav files?](#snapshots)
-7. [Why aren't my games showing up?](#missing)
-8. [Why does my game restart every time I switch apps?](#background)
-9. [How do I ask for and track new features?](#new-features)
+6. [Why aren't my games showing up?](#missing)
+7. [Why does my game restart every time I switch apps?](#background)
+8. [How do I ask for and track new features?](#new-features)
 
 ---
 
@@ -143,20 +142,6 @@ _For example, to save your game in **Pokémon**, tap **Select** during game-play
 Note: Saved games are currently stored on the device and are not backed up to Google Drive. Removing Game Play Color from your home screen will delete your saved games. We're exploring saving game state on Google Drive in future updates.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
-
----
-
-<a id="snapshots"></a>
-
-### Does Game Play Color support .sav files? <a class="permalink" href="#snapshots">∞</a>
-
-Many emulators offer a way to snapshot the emulator state and store this as a .sav file. While Game Play Color [supports saving games](#save), save state is stored locally on each device and there is currently no support for saving or loading snapshots.
-
-We've have had a lot of requests for this feature and it's something we're exploring for future updates to Game Play Color.
-
-We're tracking this as [Issue #46](https://github.com/gameplaycolor/gameplaycolor/issues/46) on GitHub.
-
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
 ---
 
