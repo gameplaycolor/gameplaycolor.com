@@ -11,6 +11,7 @@ title: Frequently Asked Questions
 6. [Does Game Play Color support .sav files?](#snapshots)
 7. [Why aren't my games showing up?](#missing)
 8. [Why does my game restart every time I switch apps?](#background)
+9. [How do I ask for and track new features?](#new-features)
 
 ---
 
@@ -185,5 +186,14 @@ Game Boy Color games which support saving will correctly [remember your last sav
 
 We hope to add support for manual restore points in future versions of Game Play Color which should help mitigate this issue.
 
+<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
+
+---
+
+<a id="new-features"></a>
+
+### How do I ask for and track new features?
+
+Feature requests are tracked using [GitHub Issues](https://github.com/gameplaycolor/gameplaycolor/issues).
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
