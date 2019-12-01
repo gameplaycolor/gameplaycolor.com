@@ -11,8 +11,7 @@ title: Frequently Asked Questions
 6. [Does Game Play Color support .sav files?](#snapshots)
 7. [Are there any plans to add link cable support?](#multiplayer)
 8. [Why aren't my games showing up?](#missing)
-9. [Why is the sound so poor on my device?](#sound)
-10. [Why does my game restart every time I switch apps?](#background)
+9. [Why does my game restart every time I switch apps?](#background)
 
 ---
 
@@ -184,18 +183,6 @@ If your games are not appearing, check that you haven't mistakenly added Game Bo
 If you have zipped Game Boy or Game Boy Color ROMs (**.zip**), you will need to unzip these before they will appear.
 
 Check out our guide on [adding games](#add) for more help.
-
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
-
----
-
-<a id="sound"></a>
-
-### Why is the sound so poor on my device? <a class="permalink" href="#sound">∞</a>
-
-We do our best to support Game Play Color to as many devices as possible. Unfortunately some earlier devices such as the iPhone 4S or iPhone 5 are just a bit too slow to play sound without underflow at the moment.
-
-We're continue to do our best to improve performance on all devices but, in the meantime, we recommend turning off sound if you're finding performance isn't great.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
