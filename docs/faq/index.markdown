@@ -9,9 +9,8 @@ title: Frequently Asked Questions
 4. [How do I change the console color?](#color)
 5. [Can I save games with Game Play Color?](#save)
 6. [Does Game Play Color support .sav files?](#snapshots)
-7. [Are there any plans to add link cable support?](#multiplayer)
-8. [Why aren't my games showing up?](#missing)
-9. [Why does my game restart every time I switch apps?](#background)
+7. [Why aren't my games showing up?](#missing)
+8. [Why does my game restart every time I switch apps?](#background)
 
 ---
 
@@ -155,18 +154,6 @@ Many emulators offer a way to snapshot the emulator state and store this as a .s
 We've have had a lot of requests for this feature and it's something we're exploring for future updates to Game Play Color.
 
 We're tracking this as [Issue #46](https://github.com/gameplaycolor/gameplaycolor/issues/46) on GitHub.
-
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
-
----
-
-<a id="multiplayer"></a>
-
-### Are there any plans to add link cable support? <a class="permalink" href="#multiplayer">∞</a>
-
-We know lots of you would love to trade Pokémon (and we're keen to play a bit of two-player Tetris ourselves). We're therefore planning to add link cable support in a future release.
-
-We're tracking this as [Issue #55](https://github.com/gameplaycolor/gameplaycolor/issues/55) on GitHub.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
