@@ -11,9 +11,8 @@ title: Frequently Asked Questions
 6. [Does Game Play Color support .sav files?](#snapshots)
 7. [Are there any plans to add link cable support?](#multiplayer)
 8. [Why aren't my games showing up?](#missing)
-9. [Are there any plans to support cheats such as GameShark or Game Genie?](#cheats)
-10. [Why is the sound so poor on my device?](#sound)
-11. [Why does my game restart every time I switch apps?](#background)
+9. [Why is the sound so poor on my device?](#sound)
+10. [Why does my game restart every time I switch apps?](#background)
 
 ---
 
@@ -185,20 +184,6 @@ If your games are not appearing, check that you haven't mistakenly added Game Bo
 If you have zipped Game Boy or Game Boy Color ROMs (**.zip**), you will need to unzip these before they will appear.
 
 Check out our guide on [adding games](#add) for more help.
-
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
-
----
-
-<a id="cheats"></a>
-
-### Are there any plans to support cheats such as GameShark or Game Genie? <a class="permalink" href="#cheats">∞</a>
-
-We've received many requests to support [GameShark](https://en.wikipedia.org/wiki/GameShark) and [Game Genie](https://en.wikipedia.org/wiki/Game_Genie) cheats.
-
-While we would like to support this in a future release, there are a [number](#snapshots) [of](#multiplayer) [things](#devices) on the roadmap, and it's likely to be a while before we get to it.
-
-We're tracking this as [Issue #51](https://github.com/gameplaycolor/gameplaycolor/issues/51) on GitHub.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
