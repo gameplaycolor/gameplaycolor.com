@@ -9,12 +9,11 @@ title: Frequently Asked Questions
 4. [How do I change the console color?](#color)
 5. [Can I save games with Game Play Color?](#save)
 6. [Does Game Play Color support .sav files?](#snapshots)
-7. [Are there any plans to add Game Boy Advance or Nintendo DS support?](#devices)
-8. [Are there any plans to add link cable support?](#multiplayer)
-9. [Why aren't my games showing up?](#missing)
-10. [Are there any plans to support cheats such as GameShark or Game Genie?](#cheats)
-11. [Why is the sound so poor on my device?](#sound)
-12. [Why does my game restart every time I switch apps?](#background)
+7. [Are there any plans to add link cable support?](#multiplayer)
+8. [Why aren't my games showing up?](#missing)
+9. [Are there any plans to support cheats such as GameShark or Game Genie?](#cheats)
+10. [Why is the sound so poor on my device?](#sound)
+11. [Why does my game restart every time I switch apps?](#background)
 
 ---
 
@@ -160,18 +159,6 @@ We've have had a lot of requests for this feature and it's something we're explo
 We're tracking this as [Issue #46](https://github.com/gameplaycolor/gameplaycolor/issues/46) on GitHub.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
-
----
-
-<a id="devices"></a>
-
-### Are there any plans to add Game Boy Advance or Nintendo DS support? <a class="permalink" href="#devices">∞</a>
-
-We're received a lot of requests for Game Boy Advance, Nintendo DS and even some for Nintendo 64 support in Game Play Color.
-
-We've got our hands full at the moment with the current feature set of Game Play Color but we'll certainly consider additional device support for future products and releases. Obviously we're limited to what's performs well running in JavaScript on a phone so, for example, Nintendo 64 support looks highly unlikely, while Game Boy Advance support might seem more realistic.
-
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
 ---
 
