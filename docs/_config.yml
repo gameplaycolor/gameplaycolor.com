@@ -7,8 +7,8 @@ url: "https://inseven.co.uk"
 navigation:
   - text: "FAQ"
     url: "/faq/"
-  - text: 'Release Notes'
-    url: "/release-notes/"
+  - text: 'Changelog'
+    url: "/changelog/"
   - text: "&#x2192; InSeven Limited"
     url: "https://inseven.co.uk/"
     target: "_blank"
