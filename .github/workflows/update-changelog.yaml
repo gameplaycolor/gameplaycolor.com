@@ -1,0 +1,32 @@
+name: Update changelog
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [ update-changelog ]
+
+jobs:
+
+  run:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Checkout source
+      uses: actions/checkout@v2
+
+    - name: Install Pipenv
+      uses: dschep/install-pipenv-action@v1
+
+    - name: Update changelog
+      run: |
+        scripts/update-changelog.sh
+
+    - name: Commit documentation
+      uses: stefanzweifel/git-auto-commit-action@v4
+      id: auto-commit
+      with:
+        commit_message: Update auto-generated changelog
