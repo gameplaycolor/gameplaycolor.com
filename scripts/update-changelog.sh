@@ -23,4 +23,4 @@ git checkout origin/master
 git submodule update --init --recursive
 
 PIPENV_PIPFILE="$CHANGES_PIPFILE_PATH" pipenv install
-"$CHANGES_PATH" notes --all --history "$GAMEPLAYCOLOR_HISTORY_PATH" --template "$CHANGELOG_TEMPLATE_PATH" > "$CHANGELOG_PATH"
+"$CHANGES_PATH" notes --all --released --history "$GAMEPLAYCOLOR_HISTORY_PATH" --template "$CHANGELOG_TEMPLATE_PATH" > "$CHANGELOG_PATH"
