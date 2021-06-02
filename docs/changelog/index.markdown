@@ -210,7 +210,7 @@ title:  "Changelog"
 **Fixes**
 
 - Improving information available in crash log emails.
-- Fixing some bugs which resulted in an attmept to play and save ROMs that had failed to download.
+- Fixing some bugs which resulted in an attempt to play and save ROMs that had failed to download.
 - Introduced a recovery mechanism for the above scenario.
 
 ## [2.0.7](https://github.com/gameplaycolor/gameplaycolor/releases/tag/2.0.7)
