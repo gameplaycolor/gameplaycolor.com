@@ -4,7 +4,7 @@ title:  "Releases"
 ---
 
 {% for release in releases -%}
-## [{{ release.version }}](https://github.com/gameplaycolor/gameplaycolor/releases/tag/{{ release.version }}){% if not release.is_released %} (Unreleased){% endif %}
+## {{ release.version }}{% if not release.is_released %} (Unreleased){% endif %}
 {% for section in release.sections %}
 **{{ section.title }}**
 
