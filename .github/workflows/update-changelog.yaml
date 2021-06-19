@@ -27,7 +27,7 @@ jobs:
 
     - name: Update changelog
       run: |
-        scripts/update-changelog.sh
+        scripts/update-releases.sh
 
     - name: Commit documentation
       uses: stefanzweifel/git-auto-commit-action@v4
