@@ -125,17 +125,7 @@ a:hover {
 
 .feature {
   position: relative;
-  margin-bottom: 60px;
-  margin-left: 54px;
-  margin-right: 20px;
-}
-
-.feature > .feature-icon {
-  position: absolute;
-  top: -8px;
-  left: -54px;
-  font-size: 38px;
-  color: #bbb;
+  margin-bottom: 2em;
 }
 
 .feature p {
