@@ -7,11 +7,13 @@ url: "https://inseven.co.uk"
 navigation:
   - text: "FAQ"
     url: "/faq/"
-  - text: 'Changelog'
+  - text: "Releases"
     url: "/changelog/"
-  - text: "&#x2192; InSeven Limited"
-    url: "https://inseven.co.uk/"
-    target: "_blank"
+  - text: "Code"
+    url: "https://github.com/gameplaycolor/gameplaycolor"
+    target: _blank
+  - text: "Privacy Policy"
+    url: "/privacy-policy/"
 
 # Build settings
 markdown: kramdown

@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Frequently Asked Questions
+title: FAQ
 ---
 
 1. [Where can I download games?](#games)
@@ -127,7 +127,7 @@ You can add games to Game Play Color by one of two mechanisms:
 
 Like the original Game Boy Color, Game Play Color is available in a range of colors. You can change these from the **Settings** dialog.
 
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
+<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
 ---
 
@@ -141,7 +141,7 @@ _For example, to save your game in **Pokémon**, tap **Select** during game-play
 
 Note: Saved games are currently stored on the device and are not backed up to Google Drive. Removing Game Play Color from your home screen will delete your saved games. We're exploring saving game state on Google Drive in future updates.
 
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>        
+<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
 ---
 

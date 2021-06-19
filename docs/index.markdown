@@ -1,6 +1,5 @@
 ---
 layout: page
-artwork: mario
 ---
 
 <div class="full-width wood">
@@ -8,8 +7,8 @@ artwork: mario
     <div class="jumbotron">
 
       <img src="/images/hdr_gameplaycolor_rose_gold.png" width="302">
-      
-      <h1 class="logo">Game Play 
+
+      <h1 class="logo">Game Play
         <span class="color-title"><span class="pink">C</span><span class="purple">O</span><span class="lime">L</span><span class="yellow">O</span><span class="cyan">R</span></span></h1><br/>
       <p class="lead tagline">Game Boy Color<sup>1</sup> games on your iPhone and iPad.</p>
       <a href="https://app.gameplaycolor.com" role="button" class="btn btn-primary" onclick="_gaq.push(['_trackEvent', 'Play Now', 'clicked']);">Play Now</a>
@@ -87,5 +86,5 @@ artwork: mario
       </ol>
     </div>
   </div>
-  
+
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  "Changelog"
+title:  "Releases"
 ---
 
 {% for release in releases -%}
