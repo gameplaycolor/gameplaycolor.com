@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  "Changelog"
+title:  "Releases"
 ---
 
 ## [2.4.2](https://github.com/gameplaycolor/gameplaycolor/releases/tag/2.4.2)
