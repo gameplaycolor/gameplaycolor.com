@@ -8,7 +8,7 @@ navigation:
   - text: "FAQ"
     url: "/faq/"
   - text: "Releases"
-    url: "/changelog/"
+    url: "/releases/"
   - text: "Code"
     url: "https://github.com/gameplaycolor/gameplaycolor"
     target: _blank
