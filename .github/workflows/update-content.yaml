@@ -1,4 +1,4 @@
-name: Update changelog
+name: Update content
 
 on:
   schedule:
@@ -25,7 +25,7 @@ jobs:
     - name: Install Pipenv
       uses: dschep/install-pipenv-action@v1
 
-    - name: Update changelog
+    - name: Update releases
       run: |
         scripts/update-releases.sh
 
