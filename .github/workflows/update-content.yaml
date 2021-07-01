@@ -7,7 +7,7 @@ on:
   repository_dispatch:
     types: [ update-changelog ]
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
 
@@ -20,7 +20,7 @@ jobs:
     - name: Checkout source
       uses: actions/checkout@v2
       with:
-        ref: master
+        ref: main
 
     - name: Install Pipenv
       uses: dschep/install-pipenv-action@v1
