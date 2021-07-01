@@ -1,5 +1,10 @@
 #!/bin/bash
 
+set -e
+set -o pipefail
+set -x
+set -u
+
 SCRIPTS_DIRECTORY="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 ROOT_DIRECTORY="${SCRIPTS_DIRECTORY}/.."
 GAMEPLAYCOLOR_DIRECTORY="${ROOT_DIRECTORY}/gameplaycolor"
@@ -19,7 +24,7 @@ fi
 
 cd "$GAMEPLAYCOLOR_DIRECTORY"
 git fetch origin --prune --prune-tags
-git checkout origin/master
+git checkout origin/main
 git submodule update --init --recursive
 
 PIPENV_PIPFILE="$CHANGES_PIPFILE_PATH" pipenv install
