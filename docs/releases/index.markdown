@@ -3,6 +3,12 @@ layout: content
 title:  "Releases"
 ---
 
+## 2.4.3
+
+**Fixes**
+
+- Ensure ROM hacks are available in the game library (#209)
+
 ## 2.4.2
 
 **Fixes**
