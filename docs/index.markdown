@@ -22,13 +22,13 @@ layout: page
     <div class="row-fluid">
       <div class="span6">
         <div class="feature">
-          <h4>Google Drive <i class="feature-icon fa fa-google fa-fw"></i></h4>
+          <h4>Google Drive</h4>
           <p>Store all your Game Boy and Game Boy Color ROMs<sup>2</sup> and cover art in Google Drive. Simply drag-and-drop your games into Google Drive.</p>
         </div>
       </div>
       <div class="span6">
         <div class="feature">
-          <h4>Beautiful Cover Art <i class="feature-icon fa fa-image fx-fw"></i></h4>
+          <h4>Beautiful Cover Art</h4>
           <p>Game Play Color automatically identifies cover art stored alongside your ROMs and displays it in a beautiful game library.</p>
         </div>
       </div>
@@ -37,13 +37,13 @@ layout: page
     <div class="row-fluid">
       <div class="span6">
         <div class="feature">
-          <h4>Audio <i class="feature-icon fa fa-volume-up fa-fw"></i></h4>
+          <h4>Audio</h4>
           <p>Enjoy your games in full, rich, 8-bit audio.</p>
         </div>
       </div>
       <div class="span6">
         <div class="feature">
-          <h4>Saved Games <i class="feature-icon fa fa-floppy-o fa-fw"></i></h4>
+          <h4>Saved Games</h4>
           <p>Game Play remembers your ROM save state allowing you to continue playing where you left off.</p>
         </div>
       </div>
@@ -53,14 +53,14 @@ layout: page
 
       <div class="span6">
         <div class="feature">
-          <h4>Offline Support <i class="feature-icon fa fa-plane fa-fw"></i></h4>
+          <h4>Offline Support</h4>
           <p>Play your games wherever and whenever you want, even without signal.</p>
         </div>
       </div>
 
       <div class="span6">
         <div class="feature">
-          <h4>Open Source <i class="feature-icon fa fa-github fa-fw"></i></h4>
+          <h4>Open Source</h4>
           <p>Licensed under the MIT License and available on <a href="https://github.com/gameplaycolor/gameplaycolor">GitHub</a>, Game Play is open source through-and-through.</p>
         </div>
       </div>
