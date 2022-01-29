@@ -9,11 +9,11 @@ navigation:
     url: "/faq/"
   - text: "Releases"
     url: "/releases/"
-  - text: "Code"
-    url: "https://github.com/gameplaycolor/gameplaycolor"
-    target: _blank
   - text: "Privacy Policy"
     url: "/privacy-policy/"
+  - text: "GitHub"
+    url: "https://github.com/gameplaycolor/gameplaycolor"
+    target: _blank
 
 # Build settings
 markdown: kramdown
