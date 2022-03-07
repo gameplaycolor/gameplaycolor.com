@@ -7,7 +7,7 @@ url: "https://inseven.co.uk"
 navigation:
   - text: "FAQ"
     url: "/faq/"
-  - text: "Releases"
+  - text: "Release Notes"
     url: "/releases/"
   - text: "Privacy Policy"
     url: "/privacy-policy/"

@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  "Releases"
+title:  "Release Notes"
 ---
 
 {% for release in releases -%}
