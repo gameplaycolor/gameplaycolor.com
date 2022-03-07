@@ -35,4 +35,4 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       id: auto-commit
       with:
-        commit_message: Update content
+        commit_message: "docs: Update release notes"
