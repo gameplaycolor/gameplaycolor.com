@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  "Releases"
+title:  "Release Notes"
 ---
 
 ## 2.4.3
