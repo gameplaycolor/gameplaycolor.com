@@ -1,4 +1,3 @@
-Loading .env environment variables...
 ---
 layout: content
 title:  "Release Notes"
