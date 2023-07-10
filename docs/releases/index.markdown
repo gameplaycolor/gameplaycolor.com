@@ -3,6 +3,12 @@ layout: content
 title:  "Release Notes"
 ---
 
+## 2.5.0
+
+**Changes**
+
+- Hardware controller support (#161)
+
 ## 2.4.3
 
 **Fixes**
