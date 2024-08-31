@@ -76,7 +76,7 @@ layout: page
       <ol>
         <li><a id="1"></a>Game Boy and Game Boy Color are trademarks of Nintendo Co., Ltd.. All rights reserved.</li>
         <li><a id="2"></a>Downloading copied ROMs is illegal: only use images you have created from ROMs you own yourself.</li>
-        <li><a id="3"></a>Jason Morley is in no way affiliated with Nintendo Co., Ltd..</li>
+        <li><a id="3"></a>Game Play and Jason Morley are in no way affiliated with Nintendo Co., Ltd..</li>
       </ol>
     </div>
   </div>
