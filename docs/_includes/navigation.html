@@ -1,29 +1,13 @@
-<div class="navbar navbar-inverse navbar-fixed-top">
-  <div class="navbar-inner">
-    <div class="container">
+<nav>
+  <ul class="navigation">
+    <li><a href="/">{{ site.title }}</a></li>
+    {% for link in site.navigation %}
+      <li>
+        <a href="{{ link.url }}" {% if link.target %} target="{{ link.target }}" {% endif %}>
+          {{ link.text }}
+        </a>
+      </li>
 
-      {% assign home_active = nil %}
-      {% if page.url == "/" or page.url == "/index.html" %}
-        {% assign home_active = 'active' %}
-      {% endif %}
-
-        <ul class="nav">
-            <li><a class="{{ home_active }}" href="/">{{ site.title }}</a></li>
-          {% for link in site.navigation %}
-            {% assign active = nil %}
-            {% capture index_url %}{{ link.url }}index.html{% endcapture %}
-            {% if page.url == link.url or page.url == index_url %}
-              {% assign active = 'active' %}
-            {% endif %}
-
-            <li class="{{ active }}">
-              <a href="{{ link.url }}" {% if link.target %} target="{{ link.target }}" {% endif %}>
-                {{ link.text }}
-              </a>
-            </li>
-
-          {% endfor %}
-        </ul>
-    </div>
-  </div>
-</div>
+    {% endfor %}
+  </ul>
+</nav>

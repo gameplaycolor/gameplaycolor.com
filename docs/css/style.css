@@ -1,7 +1,6 @@
 body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  padding-top: 20px;
-  padding-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 /* Custom container */
@@ -12,6 +11,23 @@ body {
 }
 .container-narrow > hr {
   margin: 30px 0;
+}
+
+ul.navigation {
+  list-style: none;
+  text-align: center;
+  background-color: #000;
+  margin: 0;
+  font-size: 1.14em;
+}
+
+ul.navigation li {
+  display: inline-block;
+  padding: 0.8rem 1rem;
+}
+
+ul.navigation a {
+  color: #fff;
 }
 
 hr {
