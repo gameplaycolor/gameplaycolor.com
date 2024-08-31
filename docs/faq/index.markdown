@@ -30,54 +30,13 @@ _Please remember that downloading copied ROMs is illegal: only use images for RO
 
 ### How do I add games? <a class="permalink" href="#add">∞</a>
 
-You can add games to Game Play Color by one of two mechanisms:
+1. Tap the **Add** button in the top right of the game library.
 
-1. **Using a Mac or PC**
+2. Tap **Choose Files**.
 
-    1. [Download](#games) or create an image of the ROM you wish to play.
+3. Select the ROM or ROMs you wish to add and tap **Open**.
 
-       <img src="/images/ss_add_download.png" width="855px" height="522px">
-
-    2. If the ROM is compressed (usually indicated by a **.zip** extension) double-click it to extract it. This should leave you with a **.gb** or **.gbc** file.
-
-       <img src="/images/ss_add_extract.png" width="855px" height="522px">
-
-    3. Sign in to [Google Drive](https://drive.google.com) on your Mac or PC.
-
-       <img src="/images/ss_add_drive.png" width="855px" height="522px">
-
-    4. Drag-and-drop your downloaded ROM (**Shantae.gbc** in our example) into Google Drive.
-
-       <img src="/images/ss_add_upload.png" width="855px" height="522px">
-
-    5. Google Drive should show a progress bar during the upload and a message when it has completed (e.g. **Shantae.gbc has been uploaded to Games** in our example).
-
-       <img src="/images/ss_add_complete.png" width="855px" height="522px">
-
-    6. Launch Game Play Color on your iOS device by tapping the **Game Play** icon on your home screen. Sign in to Google Drive if prompted.
-
-    7. Show the game library by tapping on the emulator screen. Your newly uploaded game should be visible in the library.
-
-       <img src="/images/ss_add_library_new.png" width="375px" height="667px">
-
-    8. Tap the game once to start downloading. A spinner will appear to indicate that the download is in progress.
-
-       <img src="/images/ss_add_library_download.png" width="375px" height="667px">
-
-    9. When the download is complete, the game will change colour and the spinner will disappear.
-
-       <img src="/images/ss_add_library_downloaded.png" width="375px" height="667px">
-
-    10. Tap the game to again to start playing.
-
-        <img src="/images/ss_add_play.png" width="375px" height="667px">
-
-
-2. **Using your iPhone, iPod or iPad**
-
-   The great guys over at [OPERATIONiDROID](https://www.youtube.com/channel/UCrSGNNsPxE-qsqoqnkFZHBg) and [iEmulators](http://iemulators.com) have produced a video explaining one of the many techniques available for getting ROMs into Game Play Color using just your iOS device:
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Eoaq6HVvxY0" frameborder="0" allowfullscreen></iframe>
+   _You can select ROMs and cover art at the same time and Game Play will add artwork automatically._
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
@@ -89,31 +48,11 @@ You can add games to Game Play Color by one of two mechanisms:
 
 1. Add some ROMs to Game Play Color as described [above](#add).
 
-2. Download a **JPEG** (.jpg) of the cover art for your ROM you wish to add artwork to.
+2. Download an image of the cover art for your ROM you wish to add artwork to.
 
-   <img src="/images/ss_artwork_download.png" width="855px" height="522px" />
+3. Rename the file to match the name of the ROM. For example, if your ROM file is entitield **Shantae.gbc**, rename the artwork to **Shantae.jpg**.
 
-3. Rename the file to match the name of the ROM.
-
-   In our example, our ROM file is entitield **Shantae.gbc**, so we rename the artwork to **Shantae.jpg**.
-
-   <img src="/images/ss_artwork_rename.png" width="855px" height="522px" />
-
-4. Sign in to [Google Drive](https://drive.google.com).
-
-5. Drag-and-drop the artwork file into Google Drive.
-
-   <img src="/images/ss_artwork_upload.png" width="855px" height="522px">
-
-6. Google Drive should show a progress bar during the upload and a message when it has completed
-
-   (e.g., **Shantae.jpg has been uploaded to Games** in our example).
-
-   <img src="/images/ss_artwork_uploaded.png" width="855px" height="522px" />
-
-7. Launch Game Play Color on your iOS device and show the game library by tapping on the emulator screen. After a few moments, your ROM should display the game artwork.
-
-   <img src="/images/ss_artwork_complete.png" width="375px" height="667px" />
+4. Add the image using the same process described for [adding games](#add).
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
@@ -140,22 +79,6 @@ Yes. Game Play Color supports saving games as implemented in the original ROMs. 
 _For example, to save your game in **Pokémon**, tap **Select** during game-play, select **SAVE** from the menu, then choose **YES** to save._
 
 Note: Saved games are currently stored on the device and are not backed up to Google Drive. Removing Game Play Color from your home screen will delete your saved games. We're exploring saving game state on Google Drive in future updates.
-
-<p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
-
----
-
-<a id="missing"></a>
-
-### Why aren't my games showing up? <a class="permalink" href="#missing">∞</a>
-
-Game Play Color should automatically update to show any **.gbc** or **.gb** files you [add to Google Drive](#add).
-
-If your games are not appearing, check that you haven't mistakenly added Game Boy Advance (.gba) ROMs, as these are currently [unsupported](#devices).
-
-If you have zipped Game Boy or Game Boy Color ROMs (**.zip**), you will need to unzip these before they will appear.
-
-Check out our guide on [adding games](#add) for more help.
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
 
