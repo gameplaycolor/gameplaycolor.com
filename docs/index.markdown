@@ -22,8 +22,8 @@ layout: page
     <div class="row-fluid">
       <div class="span6">
         <div class="feature">
-          <h4>Google Drive</h4>
-          <p>Store all your Game Boy and Game Boy Color ROMs<sup>2</sup> and cover art in Google Drive. Simply drag-and-drop your games into Google Drive.</p>
+          <h4>Local Files</h4>
+          <p>Add your local Game Boy and Game Boy Color ROMs<sup>2</sup> and cover art.</p>
         </div>
       </div>
       <div class="span6">
