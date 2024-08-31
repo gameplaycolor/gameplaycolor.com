@@ -102,6 +102,6 @@ We hope to add support for manual restore points in future versions of Game Play
 
 ### How do I ask for and track new features? <a class="permalink" href="#new-features">∞</a>
 
-Feature requests are tracked using [GitHub Issues](https://github.com/gameplaycolor/gameplaycolor/issues).
+Game Play Color is no longer under active development. Issues are tracked using [GitHub Issues](https://github.com/gameplaycolor/gameplaycolor/issues).
 
 <p class="faq-top"><a href="#">&#8613; Back to the top</a></p>
