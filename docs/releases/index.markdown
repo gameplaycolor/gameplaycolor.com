@@ -3,6 +3,18 @@ layout: content
 title:  "Release Notes"
 ---
 
+## 2.6.1
+
+**Fixes**
+
+- Remove automatic crash reporting (#248)
+
+## 2.6.0
+
+**Changes**
+
+- Remove Google Drive and support local uploads (#242)
+
 ## 2.5.0
 
 **Changes**
