@@ -101,7 +101,7 @@ We hope to add support for manual restore points in future versions of Game Play
 
 ### How do I ask for and track new features? <a class="permalink" href="#new-features">∞</a>
 
-Game Play Color is no longer under active feature development---now that emulators are permitted on the App Store, there are many alternatives, including the fabulous [Delta](https://apps.apple.com/app/delta-game-emulator/id1048524688).
+Game Play Color is no longer under active feature development---now that emulators are permitted on the App Store, there are many more fully featured alternatives, including the fabulous [Delta](https://apps.apple.com/app/delta-game-emulator/id1048524688).
 
 Issues are tracked using [GitHub Issues](https://github.com/gameplaycolor/gameplaycolor/issues).
 
