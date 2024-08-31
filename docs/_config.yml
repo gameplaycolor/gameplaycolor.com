@@ -1,8 +1,7 @@
 # Site settings
 title: Game Play Color
-email: support@inseven.co.uk
 baseurl: ""
-url: "https://inseven.co.uk"
+url: "https://gameplaycolor.com"
 
 navigation:
   - text: "FAQ"
