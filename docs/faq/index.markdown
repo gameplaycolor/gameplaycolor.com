@@ -8,9 +8,8 @@ title: FAQ
 3. [How do I add artwork?](#artwork)
 4. [How do I change the console color?](#color)
 5. [Can I save games with Game Play Color?](#save)
-6. [Why aren't my games showing up?](#missing)
-7. [Why does my game restart every time I switch apps?](#background)
-8. [How do I ask for and track new features?](#new-features)
+6. [Why does my game restart every time I switch apps?](#background)
+7. [How do I ask for and track new features?](#new-features)
 
 ---
 
