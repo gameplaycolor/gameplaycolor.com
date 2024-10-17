@@ -3,6 +3,12 @@ layout: content
 title:  "Release Notes"
 ---
 
+## 2.6.2
+
+**Fixes**
+
+- Adopt standard start and select keypad mappings
+
 ## 2.6.1
 
 **Fixes**
